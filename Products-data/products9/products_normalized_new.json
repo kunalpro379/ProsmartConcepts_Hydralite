@@ -1,0 +1,1756 @@
+{
+  "products": {
+    "Tools & Hardware": {
+      "category_id": "aRsrwa0",
+      "subcategories": {
+        "Hand Tools & Kits": {
+          "subcategory_id": "lNtotsS2",
+          "products": [
+            {
+              "product_id": "P-0001",
+              "product_name": "LED Cold/Warm Light Head-Wearing Magnifier (MG81001 Series)",
+              "product_title": "LED Cold/Warm Light Head-Wearing Magnifier — MG81001 Series (catalog page)",
+              "product_description": "This catalog page shows a head-wearing magnifier series labeled “LED COLD, WARM LIGHT HEAD-WEARING MAGNIFIER.” It features multiple MG81001 variants displayed with their included lens plates and power options. The page presents the product as a hands-free magnifier worn on the headband for close-up tasks. It highlights that the lighting supports cold/warm light usage as shown in the heading. The layout includes model naming and a spec block for each variant as printed on the page. The images show interchangeable lens plates and a headband-style frame designed for stable positioning. This item is presented for reading and precision viewing in the page’s lifestyle photo. Use this product page when you need a single reference that groups the MG81001 head-wearing variants together.",
+              "product_price": null,
+              "image_urls": [
+                "1.jpg",
+                "4.jpg",
+                "5.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "LED COLD, WARM LIGHT HEAD-WEARING MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 81001N",
+                  "MG 81001NC",
+                  "MG 81001N1",
+                  "MG 81001NC1",
+                  "MG 81001",
+                  "MG 81001-A",
+                  "MG 81001-G",
+                  "MG 81001-H",
+                  "MG 81001-A1",
+                  "MG 81001-C",
+                  "MG 81001-B",
+                  "MG 81001-B1",
+                  "MG 81001-D",
+                  "MG 81001-E",
+                  "MG 81001-F",
+                  "MG 81001-B2",
+                  "MG 81001 (RD)"
+                ],
+                "notes": "Multiple MG81001 variants are shown on the page with their printed spec blocks and included lens plates/power accessories."
+              }
+            },
+            {
+              "product_id": "P-0002",
+              "product_name": "Helmet Magnifier Series (High-Power LED) — MG81000G/MG81000GC variants",
+              "product_title": "Helmet Magnifier Series (High-Power LED) Latest Model — MG81000 family (catalog page)",
+              "product_description": "This catalog page is titled “HELMET MAGNIFIER SERIES (HIGH-POWER LED) LATEST MODEL.” It groups multiple helmet magnifier variants under the MG81000 naming, each shown with photos and a printed specification block. The page includes both standard and rechargeable-type variants as labeled on the page. Several configurations are shown with different front modules and lens plates. A magnification and focal-length parameter table is printed on the page for the MG81000G/MG81000GC family. The page also lists packaging and quantity information in each model’s spec block as printed. Use this page as a single product entry when you want the MG81000 series overview together. It is presented as a helmet-style, hands-free magnifier with high-power LED lighting according to the header text.",
+              "product_price": null,
+              "image_urls": [
+                "2.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "HELMET MAGNIFIER SERIES (HIGH-POWER LED) LATEST MODEL",
+                "model_codes_shown": [
+                  "MG 81000-S",
+                  "MG 81000-SC",
+                  "MG 81000-G",
+                  "MG 81000-GC",
+                  "MG 81000S1",
+                  "MG 81000SC1",
+                  "MG 81000G1",
+                  "MG 81000GC1"
+                ],
+                "table_present": "MG81000G/MG81000GC magnification and focal length parameter table (printed on page)"
+              }
+            },
+            {
+              "product_id": "P-0003",
+              "product_name": "Helmet Magnifier Series (High-Power LED) — MG82000 family",
+              "product_title": "Helmet Magnifier Series (High-Power LED) Latest Model — MG82000 family (catalog page)",
+              "product_description": "This catalog page continues the “HELMET MAGNIFIER SERIES (HIGH-POWER LED) LATEST MODEL” section with MG82000 models. It displays several MG82000 variants with product photos and printed spec blocks per variant. The layout includes models labeled MG82000-M and MG82000-MC on the left, plus additional MG82000 variants on the right. A magnification and focal-length parameter table is printed for the MG82000M/MG82000J family on the page. The page includes a lifestyle photo labeled with a model code on the image. Each model section includes packaging/quantity details as printed. This entry represents the full MG82000 series page as one product record linked to the image file. It is presented as a head-worn, hands-free magnifier system with high-power LED per the header.",
+              "product_price": null,
+              "image_urls": [
+                "3.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "HELMET MAGNIFIER SERIES (HIGH-POWER LED) LATEST MODEL",
+                "model_codes_shown": [
+                  "MG 82000-M",
+                  "MG 82000-MC",
+                  "MG 82000-J",
+                  "MG 82000-JC",
+                  "MG 82000M1",
+                  "MG 82000MC1"
+                ],
+                "table_present": "MG82000M/MG82000J magnification and focal length parameter table (printed on page)"
+              }
+            },
+            {
+              "product_id": "P-0005",
+              "product_name": "Helmet Magnifier Series — mixed models (MG81001/MG81007/MG81002/MG81003/MG81004)",
+              "product_title": "Helmet Magnifier Series — mixed model selection (catalog page)",
+              "product_description": "This catalog page is labeled “HELMET MAGNIFIER SERIES” and shows multiple different model families together. The left side includes MG81001 (RD) and MG81007 variants with printed specification blocks. The right side includes MG81002 and MG81002-A, plus MG81003 and MG81003-A, each with their own printed spec blocks. The page also includes MG81004, shown as a simpler headband magnifier style with its printed specifications. Several products are shown with accessory boxes or lens pieces pictured next to the main unit. A lifestyle photo is included on the page, labeled with a model code. This entry captures the entire mixed-model helmet magnifier page as one product record for your site’s catalog. It provides a single place to reference these related head-worn magnifier models as printed.",
+              "product_price": null,
+              "image_urls": [
+                "5.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "HELMET MAGNIFIER SERIES",
+                "model_codes_shown": [
+                  "MG 81007-B",
+                  "MG 81007-C",
+                  "MG 81007-C1",
+                  "MG 81007 (RD)",
+                  "MG 81007 (RD)1",
+                  "MG 81002",
+                  "MG 81002-A",
+                  "MG 81003",
+                  "MG 81003-A",
+                  "MG 81004"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0006",
+              "product_name": "Helmet Magnifier Series + Glasses Magnifier With LED Light (mixed page)",
+              "product_title": "Helmet Magnifier Series + Glasses and Glasses Magnifier with LED Light (catalog page)",
+              "product_description": "This catalog page combines two sections: “HELMET MAGNIFIER SERIES” on the left and “GLASSES AND GLASSES MAGNIFIER WITH LED LIGHT” on the right. The left side shows multiple headband/helmet magnifiers with printed model codes and specification blocks. The right side focuses on glasses-style magnifiers, including a model labeled MG19156-3 and related accessory lens pieces shown in the layout. Additional glasses-type parts and a model labeled MG19157-2 are also shown with printed specification text. The page includes photos of interchangeable lens attachments and a storage case pictured alongside the glasses model. The printed blocks on the page include packaging/quantity details and power/lighting information as shown. This entry keeps the entire mixed glasses + helmet page together as one product record. It is useful when you want a single catalog listing that includes both wearable headband magnifiers and glasses-style magnifiers with LED light on one page.",
+              "product_price": null,
+              "image_urls": [
+                "6.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "HELMET MAGNIFIER SERIES",
+                "page_heading_right": "GLASSES AND GLASSES MAGNIFIER WITH LED LIGHT",
+                "model_codes_shown": [
+                  "MG 81005",
+                  "MG 81006",
+                  "MG 81007",
+                  "MG 81007-A",
+                  "MG 81007-A1",
+                  "MG 81007-A2",
+                  "MG 19156-3",
+                  "MG 19157-2",
+                  "MG 19157",
+                  "MG 19156",
+                  "MG 19156-1",
+                  "MG 19156-2"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0007",
+              "product_name": "Glasses Magnifier With LED Light (NO.9892B / NO.9892 series page)",
+              "product_title": "Glasses Magnifier With LED Light — NO.9892 / MG9892 variants (catalog page)",
+              "product_description": "This catalog page is titled “GLASSES MAGNIFIER WITH LED LIGHT.” It shows multiple glasses-type magnifier models arranged with accessory lens plates and battery/power components pictured beside them. The page includes models labeled MG19157-3 and MG19157-4 with their printed specification blocks. It also includes multiple NO.9892-series products such as MG9892B, MG9892BP, MG9892B1, and MG9892BC as shown on the page. On the right side, additional NO.9898-series models are shown with printed spec blocks and accessory packs. The page is structured as a lineup reference, with each model’s magnification/lens information listed in its printed block. This entry represents the entire page as a single product record linked to the image. It is best used for catalog browsing when users need to compare model codes within the glasses-type LED magnifier family.",
+              "product_price": null,
+              "image_urls": [
+                "7.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "GLASSES MAGNIFIER WITH LED LIGHT",
+                "model_codes_shown": [
+                  "MG 19157-3",
+                  "MG 19157-4",
+                  "MG 9892B",
+                  "MG 9892BP",
+                  "MG 9892B1",
+                  "MG 9892BC",
+                  "NO.9898.7 (RD)",
+                  "NO.9898.7 (RD)C",
+                  "NO.9898.8 (RD)",
+                  "NO.9898.8 (RD)C"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0008",
+              "product_name": "Glasses-Type Magnifier and TV Magnifier Series (NO.9892C / NO.7102 / NO.11642 / NO.11537)",
+              "product_title": "LED Glasses-Type Magnifier and TV Magnifier Series (catalog page)",
+              "product_description": "This catalog page includes a left section labeled “GLASSES MAGNIFIER WITH LED LIGHT” and a right section labeled “LED GLASSES-TYPE MAGNIFIER AND TV MAGNIFIER SERIES.” The left side shows multiple NO.9892C-series headband/glasses configurations with printed specification blocks. The right side includes models NO.11642DC and NO.11537DC with their printed details and accessory photos. It also includes a NO.7102J and NO.7102L lineup, plus the NO.7102-360 and NO.7102-450 variants, shown with their printed spec blocks. The page is structured to display product photos and model codes prominently for quick identification. Each model’s spec block includes magnification and packaging information as printed on the page. This entry keeps the entire combined page together as one product record linked to the image file. It is suitable for catalog browsing where the user wants the glasses-type and TV magnifier families together on one page.",
+              "product_price": null,
+              "image_urls": [
+                "8.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "GLASSES MAGNIFIER WITH LED LIGHT",
+                "page_heading_right": "LED GLASSES-TYPE MAGNIFIER AND TV MAGNIFIER SERIES",
+                "model_codes_shown": [
+                  "NO.9892C1",
+                  "NO.9892C2",
+                  "NO.9892E1",
+                  "NO.9892E2",
+                  "NO.9892E3",
+                  "NO.11537A",
+                  "NO.11642DC",
+                  "NO.11537DC",
+                  "NO.7102J",
+                  "NO.7102L",
+                  "NO.7102-360",
+                  "NO.7102-450"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0009",
+              "product_name": "Magnifier for Repairing Clocks and Watches (MG13B series) + Glasses Type Watch Repair Magnifier",
+              "product_title": "Watch/Clock Repair Magnifiers — MG13B series + glasses-type LED (catalog page)",
+              "product_description": "This catalog page is split into two main sections: “MAGNIFIER FOR REPAIRING CLOCKS AND WATCHES” and “GLASSES TYPE WATCH REPAIR MAGNIFIER WITH LED LIGHT.” The left side shows multiple MG13B-series loupe-style magnifiers with printed model codes and specification blocks. Several MG13B variants are pictured with different shapes and lens covers as shown on the page. The right side shows multiple glasses-type watch repair magnifiers labeled with NO.9892-series model codes, each with its printed specification block. The product photos include head-mounted or glasses-mounted optical units designed for close detail work as depicted. Battery and LED light details are shown in the printed text blocks on the page. This entry represents the entire watch/clock repair magnifier page as one product record linked to the image. It is ideal when you want a single catalog listing that covers both loupe-style and glasses-type watch repair magnifiers shown on the same page.",
+              "product_price": null,
+              "image_urls": [
+                "9.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "MAGNIFIER FOR REPAIRING CLOCKS AND WATCHES",
+                "page_heading_right": "GLASSES TYPE WATCH REPAIR MAGNIFIER WITH LED LIGHT",
+                "model_codes_shown": [
+                  "MG 13B-A",
+                  "MG 13B-1",
+                  "MG 13B-2",
+                  "MG 13B-3",
+                  "MG 13B-9A",
+                  "MG 13B-4",
+                  "MG 13B-5",
+                  "MG 13B-6",
+                  "MG 13B-7",
+                  "MG 13B-8",
+                  "MG 13B-9",
+                  "NO.9892",
+                  "NO.9892A",
+                  "NO.9892A-II",
+                  "MG 9892F",
+                  "NO.9892G1",
+                  "NO.9892G2"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0010",
+              "product_name": "Glasses Watch Repair Magnifier With LED Lamps (NO.9892 series page)",
+              "product_title": "Glasses Watch Repair Magnifier With LED Lamps — NO.9892 variants (catalog page)",
+              "product_description": "This catalog page is titled “GLASSES WATCH REPAIR MAGNIFIER WITH LED LAMPS.” It shows multiple NO.9892-series glasses-type magnifier configurations with printed model codes and specification blocks. Several models are shown with interchangeable headband and interchangeable lens components as indicated by the page callouts. The page includes items labeled NO.9892G, NO.9892GJ, and NO.9892GJ-3A with their printed details. It also includes the NO.9892H family (NO.9892H-1, NO.9892H-2, NO.9892H-3) shown with accessory rings and parts pictured above them. A model labeled NO.9892 (RD) is shown with its printed information and accessory depiction. Another item labeled NO.32225-21SX is shown with its printed spec block and an accessory kit. This entry represents the entire page as one product record linked to the image file for catalog browsing and comparison.",
+              "product_price": null,
+              "image_urls": [
+                "10.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "GLASSES WATCH REPAIR MAGNIFIER WITH LED LAMPS",
+                "page_heading_right": "GLASSES WATCH REPAIR MAGNIFIER WITH LED LAMPS",
+                "model_codes_shown": [
+                  "NO.9892G",
+                  "NO.9892GJ",
+                  "NO.9892GJ-3A",
+                  "NO.9892G8KX",
+                  "NO.9892H-1",
+                  "NO.9892H-2",
+                  "NO.9892H-3",
+                  "NO.9892 (RD)",
+                  "NO.32225-21SX"
+                ],
+                "callouts_present": [
+                  "Interchangeable headband",
+                  "Interchangeable lens"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0011",
+              "product_name": "Handle Magnifier Lineup + Organic Glass Magnifier Series (MG860xx / MG880xx)",
+              "product_title": "Handle magnifiers + organic glass magnifier series (catalog page)",
+              "product_description": "This catalog page combines two sections: “SPRING HANDLE, CURVED HANDLE, STRAIGHT HANDLE MAGNIFIER” and “ORGANIC GLASS MAGNIFIER SERIES.” The left side shows multiple handle-style magnifiers with model codes starting with MG860xx, each with a printed spec block. Different handle shapes are shown as separate products, including round and oval magnifier head designs as pictured. The right side shows the organic glass magnifier series with MG880xx model codes and printed specification blocks. Several styles are pictured, including classic handheld frames and compact folding or pocket designs as shown. Each model includes magnification and lens diameter details in the printed blocks on the page. Packaging and quantity information appears in the spec blocks as printed. This entry captures the entire handle + organic glass page as one product record linked to the image. It works well for browsing a broader set of non-electric handheld magnifiers in one listing.",
+              "product_price": null,
+              "image_urls": [
+                "11.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "SPRING HANDLE, CURVED HANDLE, STRAIGHT HANDLE MAGNIFIER",
+                "page_heading_right": "ORGANIC GLASS MAGNIFIER SERIES",
+                "model_codes_shown": [
+                  "MG 86037",
+                  "MG 86038",
+                  "MG 86039",
+                  "MG 86040",
+                  "MG 86041",
+                  "MG 86042",
+                  "MG 86043",
+                  "MG 86044",
+                  "MG 89080",
+                  "MG 89059",
+                  "MG 87062",
+                  "MG 88063",
+                  "MG 88064",
+                  "MG-88065",
+                  "MG 88068",
+                  "MG 88066",
+                  "MG 88067",
+                  "MG 88073",
+                  "MG 88074",
+                  "MG 88069",
+                  "MG 88070",
+                  "MG 88071",
+                  "MG 88072"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0012",
+              "product_name": "Reading/Racket Magnifier + Illuminating Magnifier Series (MG8907x / MG8201x / MG8200x)",
+              "product_title": "Reading & illuminating handheld magnifiers (catalog page)",
+              "product_description": "This catalog page includes two sections: “READING, RACKET, MAGNIFIER” and “ILLUMINATING MAGNIFIER SERIES.” The left side shows multiple racket-style reading magnifiers labeled with MG89075 family model codes and printed specification blocks. These products are pictured with large round lenses and colored handles as shown on the page. A larger reading magnifier labeled MG89078 is also shown on the left with its printed spec block. The right side shows the illuminating magnifier series with models MG82012, MG82013, MG82014, and MG82015 shown with printed details. Additional classic round handheld magnifiers labeled MG82008, MG82009, MG82010, and MG82011 are also shown with printed blocks. Each item’s spec block includes magnification and packaging details as printed on the page. This entry groups the full reading + illuminating lineup on the page into one product record linked to the image file.",
+              "product_price": null,
+              "image_urls": [
+                "12.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "READING, RACKET, MAGNIFIER",
+                "page_heading_right": "ILLUMINATING MAGNIFIER SERIES",
+                "model_codes_shown": [
+                  "MG 89075-1",
+                  "MG 89075",
+                  "MG 89076",
+                  "MG 89077",
+                  "MG 89078",
+                  "MG 82012",
+                  "MG 82013",
+                  "MG 82014",
+                  "MG 82015",
+                  "MG 82008",
+                  "MG 82009",
+                  "MG 82010",
+                  "MG 82011"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0013",
+              "product_name": "Illuminating Magnifier Series + LED Frameless Magnifier (MG82016/MG82017/MG82018 + MG2B series)",
+              "product_title": "Illuminating magnifiers + LED frameless magnifier (catalog page)",
+              "product_description": "This catalog page shows two sections: “ILLUMINATING MAGNIFIER SERIES” and “LED FRAMELESS MAGNIFIER.” The illuminating section includes models labeled MG82016, MG82017, and MG82018, each shown with a product image and printed specification block. These units are depicted as compact handheld magnifiers with built-in illumination as suggested by the section title. The LED frameless section includes multiple MG2B series models shown as frameless lens designs with handles. Several MG2B variants are displayed, including models with different handle styles and lens sizes as pictured. Each model includes a printed spec block with magnification and packaging information on the page. This entry captures the entire combined page as one product record linked to the image file. It is useful when you want a single listing that covers both illuminated handheld magnifiers and the frameless magnifier lineup shown on the same page.",
+              "product_price": null,
+              "image_urls": [
+                "13.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "ILLUMINATING MAGNIFIER SERIES",
+                "page_heading_right": "LED FRAMELESS MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 82016-L",
+                  "MG 82016",
+                  "MG 82017-L",
+                  "MG 82017",
+                  "MG 82018-L",
+                  "MG 82018",
+                  "MG 2B-3",
+                  "MG 2B-9",
+                  "MG 2B-10",
+                  "MG 2B-4",
+                  "MG 2B-5",
+                  "MG 2B-6",
+                  "MG 2B-4A",
+                  "MG 2B-5A",
+                  "MG 2B-6A",
+                  "MG 2B-11",
+                  "MG 2B-12"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0014",
+              "product_name": "LED Hand-Held Magnifier Lineup (MG6B series + optical resin lens variants)",
+              "product_title": "LED hand-held magnifiers — MG6B series (catalog page)",
+              "product_description": "This catalog page is labeled “LED HAND-HELD MAGNIFIER” and includes a second header for “LED HAND-HELD MAGNIFIER (OPTICAL RESIN LENSE).” It shows multiple MG6B-series handheld magnifiers with printed model codes and specification blocks. Several models are shown in different body colors and lens sizes as pictured. The right side highlights optical resin lens variants with their own model codes and printed specification blocks. The page also includes a lifestyle photo labeled with a model code on the image. Each product tile includes magnification and packaging information in the printed text blocks. This entry captures the entire MG6B page as one product record linked to the image file. It is best used as a catalog listing for comparing LED handheld magnifier models within the MG6B family as shown.",
+              "product_price": null,
+              "image_urls": [
+                "14.jpg",
+                "15.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "LED HAND-HELD MAGNIFIER",
+                "page_heading_right": "LED HAND-HELD MAGNIFIER (OPTICAL RESIN LENSE)",
+                "model_codes_shown": [
+                  "MG 6B-2",
+                  "MG 6B-2A",
+                  "MG 6B-3",
+                  "MG 6B-3A",
+                  "MG 6B-4",
+                  "MG 6B-4A",
+                  "MG 6B-5",
+                  "MG 6B-5A",
+                  "MG 6B-2P",
+                  "MG 6B-4P",
+                  "MG 6B-3P",
+                  "MG 6B-5P",
+                  "MG 6B-5B",
+                  "MG 6B-1",
+                  "MG 6B-1A",
+                  "MG 6B-1B",
+                  "MG 6B-A",
+                  "MG 6B-C",
+                  "MG 6B-O",
+                  "MG 7B-2A",
+                  "MG 7B-2B",
+                  "MG 7B-2C",
+                  "MG 7B-3A",
+                  "MG 7B-3B",
+                  "MG 7B-3C",
+                  "MG 7B-4A",
+                  "MG 7B-4B",
+                  "MG 7B-4C",
+                  "MG 7B-5A",
+                  "MG 7B-5B",
+                  "MG 7B-5C"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0016",
+              "product_name": "Soft Rubber Handle + 6 LED + UV 4LED Racket Magnifiers (mixed page)",
+              "product_title": "Soft rubber handle, 6 LED, and UV 4LED racket magnifiers (catalog page)",
+              "product_description": "This catalog page combines multiple handheld magnifier sections into a single lineup page. It includes the “2LED SOFT RUBBER HANDLE MAGNIFIER” section with several MG7B variants shown with printed spec blocks. It also includes a “6 LED MAGNIFIER” section with multiple MG8B models shown with their printed details. On the right side, the page includes “RACKET/TYPE/WITH 4LED UV HAND-HELD MAGNIFIER” models with their printed model codes and specification blocks. Each product tile is displayed with a photo and the corresponding model code, plus magnification and packaging information in the printed text. This entry links to the full page image for catalog browsing and model comparison. All model codes listed here are taken directly from the text printed on the page. Use this listing when you want a single reference page that groups these handheld magnifier families together.",
+              "product_price": null,
+              "image_urls": [
+                "16.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "2LED SOFT RUBBER HANDLE MAGNIFIER",
+                  "6 LED MAGNIFIER",
+                  "RACKET/TYPE/WITH 4LED UV HAND-HELD MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 7B-6A",
+                  "MG 7B-6B",
+                  "MG 7B-6C",
+                  "MG 8B-1",
+                  "MG 8B-2",
+                  "MG 8B-3",
+                  "MG 80120-A",
+                  "MG 80120-B",
+                  "MG 80138-A",
+                  "MG 80138-B",
+                  "MG 80150-A",
+                  "MG 80150-B"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0017",
+              "product_name": "LED Handheld Magnifier Series + 10LED Lamp Magnifier (NO.958x/NO.9986/NO.690x page)",
+              "product_title": "LED handheld magnifier series and 10LED lamp magnifier lineup (catalog page)",
+              "product_description": "This catalog page is a lineup sheet with two main headings: “LED HANDHELD MAGNIFIER SERIES” and “10LED LAMP MAGNIFIER.” The left side shows multiple NO.958x models alongside several NO.9986 variants, each with a printed spec block listing magnification, lens diameter, and packaging information. The right side shows multiple NO.690x models under the 10LED lamp magnifier section, again with printed spec blocks for each model. The page is designed for quick comparison of model codes and basic parameters across the lineup. Product photos are paired with the model code printed next to each item. This entry represents the whole page as one product record and uses only the model identifiers visible on the image. It’s useful for catalog browsing when you want the full set of related handheld LED magnifiers in one listing.",
+              "product_price": null,
+              "image_urls": [
+                "17.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED HANDHELD MAGNIFIER SERIES",
+                  "10LED LAMP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "NO.9586",
+                  "NO.9587",
+                  "NO.9588",
+                  "NO.9986A",
+                  "NO.9986B",
+                  "NO.9986C",
+                  "NO.9986D",
+                  "NO.9986E",
+                  "NO.6904A",
+                  "NO.6904B",
+                  "NO.6905A",
+                  "NO.6906A",
+                  "NO.6906B",
+                  "NO.6907A",
+                  "NO.6907B"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0018",
+              "product_name": "LED Dual Light Sources + High-Power Optical Resin LED Handheld Magnifiers (NO.6902/NO.7010x page)",
+              "product_title": "LED dual light sources and high-power optical resin handheld magnifier lineup (catalog page)",
+              "product_description": "This catalog page shows two product families with clear section headings. On the left, the page is titled “LED DUAL LIGHT SOURCES MAGNIFIER” and displays several NO.6902/NO.6903 models with printed specification blocks. On the right, it is titled “HIGH-POWER LED HAND-HELD MAGNIFIER (OPTICAL RESIN LENSE)” and displays several NO.7010x models, each with its printed magnification and packaging details. Each model is shown with a product photo and the corresponding model code printed beside it. The page is intended as a comparison sheet across different magnifications and lens sizes based on the printed blocks. This entry keeps the entire page together as one product record linked to the image file. All model codes listed are taken from the text shown on the page, without adding any extra assumptions.",
+              "product_price": null,
+              "image_urls": [
+                "18.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "LED DUAL LIGHT SOURCES MAGNIFIER",
+                "page_heading_right": "HIGH-POWER LED HAND-HELD MAGNIFIER (OPTICAL RESIN LENSE)",
+                "model_codes_shown": [
+                  "NO.6902C",
+                  "NO.6902-8L",
+                  "NO.6902A",
+                  "NO.6902B",
+                  "NO.6903A",
+                  "NO.6903B",
+                  "NO.70108A",
+                  "NO.70108B",
+                  "NO.70120A",
+                  "NO.70120B",
+                  "NO.70138A",
+                  "NO.70138B"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0019",
+              "product_name": "2LED High Magnification Optical Resin (Strengthen) Lens Magnifiers (MG6H series)",
+              "product_title": "2LED high magnification optical resin magnifiers — MG6H series (catalog page)",
+              "product_description": "This catalog page presents two closely related sections focused on optical resin lens magnifiers with 2 LED lighting. The left section is titled “HIGH MAGNIFICATION OPTICAL RESIN (STRENGTHEN) LENSE WITH 2 LED MAGNIFIER” and shows multiple MG6H models with printed specification blocks. The right section is titled “RECHARGEABLE HIGH MAGNIFICATION OPTICAL RESIN (STRENGTHEN) LENSE WITH 2 LED MAGNIFIER” and shows rechargeable MG6H variants with their printed details. Each model is displayed with a clear product image and a model code printed beside it. The spec blocks on the page list magnification, lens diameter, focal length, and packaging information as printed. This entry links to the full page image and is intended for catalog comparison of the MG6H family. All model codes listed are taken directly from the page text.",
+              "product_price": null,
+              "image_urls": [
+                "19.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "HIGH MAGNIFICATION OPTICAL RESIN (STRENGTHEN) LENSE WITH 2 LED MAGNIFIER",
+                "page_heading_right": "RECHARGEABLE HIGH MAGNIFICATION OPTICAL RESIN (STRENGTHEN) LENSE WITH 2 LED MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 6H-2",
+                  "MG 6H-3",
+                  "MG 6H-4",
+                  "MG 6H-5",
+                  "MG 6H-2C",
+                  "MG 6H-3C",
+                  "MG 6H-4C",
+                  "MG 6H-5C"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0020",
+              "product_name": "LED Cold/Warm Light Soft Rubber Handle High-Magnification Magnifier (NO.950xx/NO.951xx page)",
+              "product_title": "LED cold/warm light soft rubber handle high-magnification magnifiers (catalog page)",
+              "product_description": "This catalog page is titled “LED COLD, WARM LIGHT SOFT RUBBER HANDLE HIGH-MAGNIFICATION MAGNIFIER.” It displays multiple handheld magnifiers with soft rubber handles, each labeled with a NO.95xxx model code and a printed specification block. The page includes a lifestyle photo labeled with a model code and multiple product tiles on the right with additional model codes. Each product tile includes printed magnification, lens diameter, and packaging/quantity information as shown on the page. The layout is meant for comparing different lens sizes and magnification combinations across the series. This entry represents the full page as a single product record linked to the image file for catalog browsing. All identifiers listed are taken directly from the printed model codes on the image.",
+              "product_price": null,
+              "image_urls": [
+                "20.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "LED COLD, WARM LIGHT SOFT RUBBER HANDLE HIGH-MAGNIFICATION MAGNIFIER",
+                "model_codes_shown": [
+                  "NO.95065A(RD)",
+                  "NO.95080A(RD)",
+                  "NO.95090A(RD)",
+                  "NO.95090B(RD)",
+                  "NO.95100A(RD)",
+                  "NO.95100B(RD)",
+                  "NO.95108A(RD)",
+                  "NO.95108B(RD)"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0021",
+              "product_name": "LED Main-Lens-Interchangeable Magnifier (NO.777xx series page)",
+              "product_title": "LED main-lens-interchangeable magnifier lineup — NO.777xx (catalog page)",
+              "product_description": "This catalog page is titled “LED MAIN-LENS-INTERCHANGEABLE MAGNIFIER.” It shows multiple NO.777xx handheld magnifier models and several bundled combinations where the main lens is interchangeable, with model codes printed next to each configuration. The page includes a lifestyle photo labeled with a model reference and multiple product tiles with printed specification blocks. Each tile includes the model code along with magnification, lens diameter, and packaging information as printed. The page visually demonstrates the interchangeable lens concept by showing multiple lens sizes attached to the same handle in certain bundles. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are taken directly from the codes visible in the image text, without adding any external assumptions.",
+              "product_price": null,
+              "image_urls": [
+                "21.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "LED MAIN-LENS-INTERCHANGEABLE MAGNIFIER",
+                "model_codes_shown": [
+                  "NO.77790+75+37",
+                  "NO.77790+50+37",
+                  "NO.77790+75+37DC",
+                  "NO.77790",
+                  "NO.77775",
+                  "NO.77750",
+                  "NO.77737",
+                  "NO.77790+50",
+                  "NO.77775+37"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0022",
+              "product_name": "Barrel-Type Lighting + 14 LED Dual Magnification Illuminant Magnifiers (MG20166 / NO.901xx page)",
+              "product_title": "Barrel-type lighting magnifiers and 14-LED dual magnification illuminant magnifiers (catalog page)",
+              "product_description": "This catalog page combines two illumination-focused handheld magnifier sections. The left side is titled “BARREL-TYPE LIGHTING MAGNIFIER” and shows MG20166 models with printed specification blocks. The right side is titled “DUAL MAGNIFICATION WITH 14 LED ILLUMINANT MAGNIFIER” and shows multiple NO.901xx models with printed details. The page also contains two lifestyle photos labeled with NO.95108A and NO.90138 references, matching the page’s context. Each product tile includes a photo and a printed model code with magnification, lens diameter, focal length, and packaging information. This entry captures the full page as one product record linked to the image file. All model codes listed here are taken only from the printed identifiers on the image.",
+              "product_price": null,
+              "image_urls": [
+                "22.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading_left": "BARREL-TYPE LIGHTING MAGNIFIER",
+                "page_heading_right": "DUAL MAGNIFICATION WITH 14 LED ILLUMINANT MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 20166",
+                  "MG 20166-1",
+                  "NO.90108",
+                  "NO.90120",
+                  "NO.90138",
+                  "NO.90150"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0023",
+              "product_name": "Ringlike LED Light Source Dual Magnification Magnifier (NO.CH series page)",
+              "product_title": "Dual magnification with ringlike LED light source magnifier (catalog page)",
+              "product_description": "This catalog page is titled “DUAL MAGNIFICATION WITH RINGLIKE LED LIGHT SOURCE MAGNIFIER (HIGH MAGNIFICATION OF MAIN LENSE TYPE).” It includes a large lifestyle photo on the left labeled with a model reference and three product tiles on the right, each with a NO.CH model code and a printed specification block. The product tiles show the magnifier body design and the dual magnification lens layout. Each printed block includes magnification, lens diameter, focal length, and packaging information as shown on the page. This entry represents the entire page as one product record linked to the image file. All model codes listed here are taken directly from the page text and are provided for catalog comparison and browsing.",
+              "product_price": null,
+              "image_urls": [
+                "23.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "DUAL MAGNIFICATION WITH RINGLIKE LED LIGHT SOURCE MAGNIFIER (HIGH MAGNIFICATION OF MAIN LENSE TYPE)",
+                "model_codes_shown": [
+                  "NO.CH30-6L",
+                  "NO.CH55-8L",
+                  "NO.CH75-10L"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0024",
+              "product_name": "Lens Detachable With 2 LED Magnifier (NO.773xx series, A/B variants page)",
+              "product_title": "Lens detachable 2LED magnifier lineup — NO.773xx A/B variants (catalog page)",
+              "product_description": "This catalog page is titled “LENS DETACHABLE WITH 2 LED MAGNIFIER.” It presents multiple NO.773xx models arranged in columns, showing both A-series and B-series variants. Each model tile includes a product photo, a printed model code, and a printed spec block listing magnification, lens diameter, and packaging information. The page is structured to compare similar magnifier styles across different colors and lens sizes. Some tiles show alternate suffix versions (such as “2” or “3”) printed next to the base code, consistent with the page’s lineup format. This entry captures the entire lineup page as one product record linked to the image file for catalog browsing. All model codes listed here are taken only from the identifiers visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "24.jpg",
+                "25.jpg",
+                "26.jpg",
+                "27.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "LENS DETACHABLE WITH 2 LED MAGNIFIER",
+                "model_codes_shown": [
+                  "NO.77337A",
+                  "NO.77337A2",
+                  "NO.77337A3",
+                  "NO.77350A",
+                  "NO.77350A2",
+                  "NO.77350A3",
+                  "NO.77365A",
+                  "NO.77365A2",
+                  "NO.77365A3",
+                  "NO.77375A",
+                  "NO.77375A2",
+                  "NO.77375A3",
+                  "NO.77390A",
+                  "NO.77390A2",
+                  "NO.77390A3",
+                  "NO.77337B",
+                  "NO.77337B2",
+                  "NO.77337B3",
+                  "NO.77350B",
+                  "NO.77350B2",
+                  "NO.77350B3",
+                  "NO.77365B",
+                  "NO.77365B2",
+                  "NO.77365B3",
+                  "NO.77375B1",
+                  "NO.77375B2",
+                  "NO.77375B3",
+                  "NO.77390B1",
+                  "NO.77390B2",
+                  "NO.77390B3",
+                  "NO.77350A+37B1",
+                  "NO.77350A+37B2",
+                  "NO.77350A+37B3",
+                  "NO.77365A+37B1",
+                  "NO.77365A+37B2",
+                  "NO.77365A+37B3",
+                  "NO.77365A+50B1",
+                  "NO.77365A+50B2",
+                  "NO.77365A+50B3",
+                  "NO.77365A+65B1",
+                  "NO.77375A+37B1",
+                  "NO.77375A+37B2",
+                  "NO.77375A+37B3",
+                  "NO.77375A+50B1",
+                  "NO.77375A+50B2",
+                  "NO.77375A+50B3",
+                  "NO.77375A+65B1",
+                  "NO.77375A+65B2",
+                  "NO.77375A+65B3",
+                  "NO.77375A+75B1",
+                  "NO.77375A+75B2",
+                  "NO.77375A+75B3",
+                  "NO.77390A+37B1",
+                  "NO.77390A+37B2",
+                  "NO.77390A+37B3",
+                  "NO.77390A+50B1",
+                  "NO.77390A+50B2",
+                  "NO.77390A+50B3",
+                  "NO.77390A+65B1",
+                  "NO.77390A+65B2",
+                  "NO.77390A+65B3",
+                  "NO.77390A+75B1",
+                  "NO.77390A+75B2",
+                  "NO.77390A+75B3",
+                  "NO.77390B+37B1",
+                  "NO.77390B+37B2",
+                  "NO.77390B+37B3",
+                  "NO.77390B+50B1",
+                  "NO.77390B+50B2",
+                  "NO.77390B+50B3",
+                  "NO.77390B+65B1",
+                  "NO.77390B+65B2",
+                  "NO.77390B+65B3",
+                  "NO.77390B+75B1",
+                  "NO.77390B+75B2",
+                  "NO.77390B+75B3",
+                  "NO.77375B+37B1",
+                  "NO.77375B+37B2",
+                  "NO.77375B+37B3",
+                  "NO.77375B+50B1",
+                  "NO.77375B+50B2",
+                  "NO.77375B+50B3",
+                  "NO.77375A+65B+37B1",
+                  "NO.77375A+65B+37B2",
+                  "NO.77375A+65B+37B3",
+                  "NO.77375A+75B+37B1",
+                  "NO.77375A+75B+37B2",
+                  "NO.77375A+75B+37B3",
+                  "NO.77390A+65B+37B1",
+                  "NO.77390A+65B+37B2",
+                  "NO.77390A+65B+37B3",
+                  "NO.77390A+75B+37B1",
+                  "NO.77390A+75B+37B2",
+                  "NO.77390A+75B+37B3"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0028",
+              "product_name": "Folding Rectangle Magnifier (MG8402x series page)",
+              "product_title": "Folding rectangle magnifier lineup — MG8402x series (catalog page)",
+              "product_description": "This catalog page is titled “FOLDING RECTANGLE MAGNIFIER” and shows multiple rectangle-shaped magnifiers with folding or handle-style designs. The right side contains several MG8402x models, each with a product photo and a printed specification block. The page shows different handle styles and lens formats within the same rectangle magnifier family. A lifestyle photo is included on the left side labeled with a NO.10863-21 reference, consistent with the page theme. Each model’s printed block includes magnification and packaging information as shown. This entry captures the full page as one product record linked to the image file. All model codes listed are taken directly from the printed identifiers on the image.",
+              "product_price": null,
+              "image_urls": [
+                "28.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "FOLDING RECTANGLE MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 84025",
+                  "MG 84026",
+                  "MG 84026A",
+                  "MG 84027",
+                  "MG 84028",
+                  "MG 84029"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0029",
+              "product_name": "LED Rectangle Magnifier (MG8413-3 / MG4B-3 / NO.10863 series page)",
+              "product_title": "LED rectangle magnifier lineup (catalog page)",
+              "product_description": "This catalog page is titled “LED RECTANGLE MAGNIFIER” and shows multiple rectangle magnifier products with printed model codes and specification blocks. The page includes models labeled MG8413-3 and MG4B-3, plus two rectangle magnifier models labeled NO.10863 and NO.10863-21. Each product tile includes a photo and a printed spec block listing magnification and packaging information as shown on the page. A lifestyle photo appears on the left side with a NO.10863~P61 label, matching the page’s product family context. This entry represents the full page as one product record linked to the image file. All model identifiers listed are taken directly from the printed codes on the image.",
+              "product_price": null,
+              "image_urls": [
+                "29.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "LED RECTANGLE MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 8413-3",
+                  "MG 4B-3",
+                  "NO.10863",
+                  "NO.10863-21"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0030",
+              "product_name": "Folding Illuminating Magnifier (MG3B and MG830xx page)",
+              "product_title": "Folding illuminating magnifier lineup — MG3B and MG830xx (catalog page)",
+              "product_description": "This catalog page is titled “FOLDING ILLUMINATING MAGNIFIER.” It includes multiple stand/desk-style magnifiers and folding magnifier configurations, each presented with a photo and a printed specification block. The left side shows MG3B-series models with different stand styles and power/adapter details included in the printed text. The right side shows additional folding illuminating magnifiers with model codes in the MG830xx family, including a headband-style unit and a desk/clamp style as pictured. Each product listing includes its magnification and packaging information as printed on the page. This entry captures the entire page as one product record linked to the image file. All model codes listed are taken directly from the printed identifiers visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "30.jpg",
+                "31.jpg",
+                "32.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "FOLDING ILLUMINATING MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 3B-1",
+                  "MG 3B-1A",
+                  "MG 3B-1B",
+                  "MG 3B-1C",
+                  "MG 3B-1D",
+                  "MG 83019",
+                  "MG 83021",
+                  "MG 83021-L",
+                  "MG 83024-1",
+                  "MG 3B-108C",
+                  "MG 3B-120C",
+                  "MG 3B-138C",
+                  "MG3B-1E",
+                  "MG3B-1F",
+                  "MG3B-1G"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0033",
+              "product_name": "LED Folding and Hand-Held Dual Purpose Magnifier (NO.7766) + Desktop Auxiliary Clip Magnifier (MG16175-138C)",
+              "product_title": "Dual-purpose folding magnifier NO.7766 and desktop auxiliary clip magnifier MG16175-138C (catalog page)",
+              "product_description": "This catalog page combines a lifestyle/usage collage with a product listing. The top-left and bottom-left images show NO.7766 in use for reading and in hand-held or desktop modes, as labeled on the page. The right side shows the product image for NO.7766 with a printed specification block under the heading “LED FOLDING AND HAND-HELD DUAL PURPOSE MAGNIFIER.” The lower-right portion includes a separate product listing under “LED DESKTOP, AUXILIARY CLIP MAGNIFIER,” showing model MG16175-138C with its printed spec block and included power adapter as pictured. The page is structured to communicate both the use cases and the model identifiers for ordering. This entry represents the whole page as one product record linked to the image file. All model codes listed are read from the printed text on the image only. No additional claims are added beyond what is shown.",
+              "product_price": null,
+              "image_urls": [
+                "33.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED FOLDING AND HAND-HELD DUAL PURPOSE MAGNIFIER",
+                  "LED DESKTOP, AUXILIARY CLIP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "NO.7766",
+                  "MG16175-138C"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0034",
+              "product_name": "Strong/Weak Light Source Folding/Desktop/Hand-Held Magnifiers (NO.FS series page)",
+              "product_title": "Strong/weak light source LED folding, desktop and hand-held magnifier lineup (catalog page)",
+              "product_description": "This catalog page is titled “STRONG, WEAK LIGHT SOURCE LED FOLDING, DESKTOP AND HAND-HELD MAGNIFIER.” It shows multiple NO.FS-series models with printed specification blocks and product photos. The left side lists several compact folding/handheld units with model codes printed next to them. The right side includes additional larger lens variants plus a section titled “LED 3-GEAR BRIGHTNESS ADJUSTMENT COLD, WARM LIGHT DESKTOP, HAND-HELD DUAL PURPOSE MAGNIFIER,” showing two models with their printed codes. The page uses consistent printed blocks for magnification and packaging information. Small accessory images and power/adapter callouts are shown for certain models as pictured. This entry captures the full page as one product record linked to the image file for catalog browsing. All identifiers listed are taken only from the text visible on the image. No extra model assumptions are added.",
+              "product_price": null,
+              "image_urls": [
+                "34.jpg",
+                "35.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "STRONG, WEAK LIGHT SOURCE LED FOLDING, DESKTOP AND HAND-HELD MAGNIFIER",
+                  "LED 3-GEAR BRIGHTNESS ADJUSTMENT COLD, WARM LIGHT DESKTOP, HAND-HELD DUAL PURPOSE MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "NO.FS21RC",
+                  "NO.FS37RC",
+                  "NO.FS55RC",
+                  "NO.FS65RC",
+                  "NO.FS75RC",
+                  "NO.FS90RC",
+                  "NO.FS80RD",
+                  "NO.FS108RD",
+                  "NO.FS21DC",
+                  "NO.FS37DC",
+                  "NO.FS55DC",
+                  "NO.FS75DC",
+                  "NO.FS10863RC"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0036",
+              "product_name": "LED Bench Magnifier + LED Bench/Clip Magnifier (MG5B and MG4B series page)",
+              "product_title": "LED bench magnifier and bench/clip magnifier lineup — MG5B & MG4B series (catalog page)",
+              "product_description": "This catalog page shows two sections: “LED BENCH MAGNIFIER” and “LED BENCH/CLIP MAGNIFIER.” The left half lists MG5B-series models with product photos and printed specification blocks. The right half lists MG4B-series models in different base styles, each with a printed model code and specification block. The page is designed as a lineup comparison across similar magnifier heads and different stands. Each printed block includes magnification, lens diameter, focal length, and packaging information as shown. The product photos clearly show base style differences between models. This entry represents the entire page as a single product record linked to the image file. Model codes listed are taken directly from the identifiers visible on the page. No extra details beyond the printed content are added.",
+              "product_price": null,
+              "image_urls": [
+                "36.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED BENCH MAGNIFIER",
+                  "LED BENCH/CLIP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 5B-1",
+                  "MG 5B-2",
+                  "MG 5B-3",
+                  "MG 5B-4",
+                  "MG 4B-4",
+                  "MG 4B-4A",
+                  "MG 4B-5",
+                  "MG 4B-6",
+                  "MG 4B-7",
+                  "MG 4B-8",
+                  "MG 4B-9",
+                  "MG 4B-10"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0037",
+              "product_name": "LED Bench/Clip Magnifier Lineup (MG15120 / MG15121 / MG15122 series page)",
+              "product_title": "LED bench/clip magnifier lineup — MG15120 / MG15121 / MG15122 series (catalog page)",
+              "product_description": "This catalog page is titled “LED BENCH/CLIP MAGNIFIER” and also shows a “BENCH/CLIP MAGNIFIER” section on the right. It lists multiple MG15120 and MG15122 variants with photos and printed specification blocks. The page also includes MG15121 and MG15120 models shown with their printed details. A lifestyle photo labeled with a NO.92045~P99 reference is included on the page as shown. Each model listing includes magnification and packaging information in the printed blocks, matching the catalog’s standard format. The product photos illustrate different clamp/base designs across the series. This entry represents the whole page as one product record linked to the image file. All model identifiers listed are copied directly from the page text, without extra guessing.",
+              "product_price": null,
+              "image_urls": [
+                "37.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED BENCH/CLIP MAGNIFIER",
+                  "BENCH/CLIP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 15120-A",
+                  "MG 15120-B",
+                  "MG 15120-C",
+                  "MG 15122",
+                  "MG 15122-1",
+                  "MG 15121",
+                  "MG 15122-2",
+                  "MG 15120",
+                  "MG 15122-1A",
+                  "MG 15122-1B",
+                  "MG 15122-1C",
+                  "MG 15122-2A",
+                  "MG 15122-2B"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0038",
+              "product_name": "Tabletop Clip Magnifier (external power) + Cold/Warm Adjustment Desktop Magnifier (NO.BC / NO.DT page)",
+              "product_title": "Tabletop clip magnifiers with external power and cold/warm adjustment desktop magnifiers (catalog page)",
+              "product_description": "This catalog page combines two product families. On the left it is titled “LED TABLETOP CLIP MAGNIFIER WITH EXTERNAL POWER SUPPLY MAGNIFIER” and shows NO.BC90C, NO.BC108C, and NO.BC120C with photos and printed specification blocks. On the right it is titled “LED COLD, WARM LIGHT ADJUSTMENT DESKTOP MAGNIFIER” and lists multiple NO.DT models with printed details. The page shows different base styles and includes small callouts for included power adapters as pictured. Each model listing includes magnification, lens diameter, focal length, and packaging information in the printed blocks. The layout is intended for comparing similar desktop magnifiers across different lens sizes and base types. This entry represents the entire page as one product record linked to the image file. All model codes listed are taken directly from the identifiers visible on the page, without adding unprinted variants.",
+              "product_price": null,
+              "image_urls": [
+                "38.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED TABLETOP CLIP MAGNIFIER WITH EXTERNAL POWER SUPPLY MAGNIFIER",
+                  "LED COLD, WARM LIGHT ADJUSTMENT DESKTOP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "NO.BC90C",
+                  "NO.BC108C",
+                  "NO.BC120C",
+                  "NO.DT108C",
+                  "NO.DT120C",
+                  "NO.DT120AC",
+                  "NO.DT130AC"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0039",
+              "product_name": "LED Desktop Magnifier + Cold/Warm Adjustment Desktop Magnifier (NO.7764/NO.7765/NO.7767-21LC/NO.7768-24LC)",
+              "product_title": "LED desktop magnifier lineups — NO.7764/7765 and NO.7767-21LC/7768-24LC (catalog page)",
+              "product_description": "This catalog page shows two related desktop magnifier lineups. The left side is titled “LED DESKTOPE MAGNIFIER” and lists models NO.7764 and NO.7765 with product photos and printed specification blocks. The right side is titled “LED COLD, WARM LIGHT ADJUSTMENT DESKTOP MAGNIFIER” and lists NO.7767-21LC and NO.7768-24LC with photos and printed details. The models are displayed with base, gooseneck arm, and lens head, plus accessory/power images as shown. Each printed block includes magnification, lens diameter, focal length, and packaging information. The page is designed for quick comparison of lens size and base styles within each lineup. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are copied from the text visible on the page only.",
+              "product_price": null,
+              "image_urls": [
+                "39.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED DESKTOPE MAGNIFIER",
+                  "LED COLD, WARM LIGHT ADJUSTMENT DESKTOP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "NO.7764",
+                  "NO.7765",
+                  "NO.7767-21LC",
+                  "NO.7768-24LC"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0040",
+              "product_name": "Rechargeable Tabletop/Bolt Fasten Dual Purpose Magnifiers + Multifunctional Desktop Magnifier (NO.TJ / NO.776x page)",
+              "product_title": "Rechargeable tabletop/bolt-fastened dual purpose magnifiers and multifunctional desktop magnifier (catalog page)",
+              "product_description": "This catalog page combines several desktop magnifier categories. The left side is titled “LED TABLETOP AND BOLT TO FASTEN DUAL PURPOSE WITH RECHARGEABLE BATTERY MAGNIFIER” and lists NO.TJ90C, NO.TJ108C, and NO.TJ120C with photos and printed specification blocks. The top-right section is titled “FASTEN BY BOLT/DESKTOP TYPE LED MAGNIFIER” and shows model NO.7763 with its printed details. The bottom-right section is titled “MULTIFUNCTIONAL DESKTOP MAGNIFIER” and shows model NO.7760 with its printed spec block. Each listing includes magnification, lens diameter, focal length, and packaging information in the page’s standard printed format. The page also shows different base styles and mounting methods (tabletop vs bolt fasten) as pictured. This entry represents the entire page as one product record linked to the image file. All model codes listed are taken directly from the identifiers visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "40.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED TABLETOP AND BOLT TO FASTEN DUAL PURPOSE WITH RECHARGEABLE BATTERY MAGNIFIER",
+                  "FASTEN BY BOLT/DESKTOP TYPE LED MAGNIFIER",
+                  "MULTIFUNCTIONAL DESKTOP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "NO.TJ90C",
+                  "NO.TJ108C",
+                  "NO.TJ120C",
+                  "NO.7763",
+                  "NO.7760"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0041",
+              "product_name": "Auxiliary Clip Magnifiers With LED Illumination (MG16126 series + MG16129-A)",
+              "product_title": "Auxiliary clip magnifier with LED illumination — MG16126-A / MG16126-AC1 / MG16126-AC2 / MG16129-A (catalog page)",
+              "product_description": "This catalog page is titled “AUILIARY CLIP MAGNIFIER WITH LED ILLUMINATION.” It includes a lifestyle photo labeled with MG16126-AC1~P89 and multiple product listings on the right. The page lists MG16126-A and MG16126-AC1 as shown, each with a product photo and printed specification block. It also lists MG16126-AC2 and MG16129-A with their printed details and product photos. Each printed block includes magnification, lens diameter, focal length, and packaging information in the catalog format. The images show clamp/stand bases and included accessories such as power adapters as pictured. This entry represents the full page as one product record linked to the image file. All model codes listed are taken only from the printed identifiers visible on the page. No additional variants are added beyond what is shown.",
+              "product_price": null,
+              "image_urls": [
+                "41.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "AUILIARY CLIP MAGNIFIER WITH LED ILLUMINATION",
+                "model_codes_shown": [
+                  "MG 16126-A",
+                  "MG16126-AC1",
+                  "MG16126-AC2",
+                  "MG 16129-A"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0042",
+              "product_name": "High Magnification Auxiliary Clamp LED Magnifiers + Auxiliary Clip Desk Lamp Magnifier (MG16075/MG16129/NO.7761 page)",
+              "product_title": "Auxiliary clamp LED magnifier lineups — MG16075, MG16090, MG16129, and NO.7761 (catalog page)",
+              "product_description": "This catalog page is titled “HIGH MAGNIFICATION WITH AUXILIARY CLAMP LED MAGNIFIER” and also includes an “AUILIARY CLIP DESK LAMP MAGNIFIER” section. It shows multiple clamp-based magnifier workstations with third-hand holders and accessory parts, each with a printed model code and specification block. The page includes MG16075-8L, MG16075-C, and MG16090-C on the left side with their printed details. On the right, it lists MG16129-AC and MG16129-15LC with printed spec blocks and product photos. The bottom-right includes MG16129-AC1 and NO.7761 under the auxiliary clip desk lamp magnifier heading, each with printed details. A lifestyle photo labeled MG16129-15LC~P91 is included on the page. This entry represents the full page as one product record linked to the image file, using only model identifiers visible in the image text.",
+              "product_price": null,
+              "image_urls": [
+                "42.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "HIGH MAGNIFICATION WITH AUXILIARY CLAMP LED MAGNIFIER",
+                  "AUILIARY CLIP DESK LAMP MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 16075-8L",
+                  "MG 16075-C",
+                  "MG 16090-C",
+                  "MG 16129-AC",
+                  "MG 16129-15LC",
+                  "MG 16129-AC1",
+                  "NO.7761"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0043",
+              "product_name": "Auxiliary Clip Desk Lamp Magnifiers (MG16130-108C / MG16129-C / MG16129-DC)",
+              "product_title": "Auxiliary clip desk lamp magnifier lineups — MG16130-108C, MG16129-C, MG16129-DC (catalog page)",
+              "product_description": "This catalog page includes two headings: “AUILIARY CLIP DESK LAMP MAGNIFIER” and “AUILIARY CLIP MAGNIFIER WITH LED ILLUMINATION.” It shows a large workstation-style magnifier with accessories and a printed specification block for model MG16130-108C. On the right side, it lists MG16129-C with product photos and printed specifications, including callouts for retractable interchangeable lens and moveable LEDs as shown. The lower-right portion lists MG16129-DC with its printed specification block and product image. The page also includes lifestyle images labeled MG16129-DC~P93 and indicating interchangeable lens use in the photos. Each listing includes magnification, lens diameter, focal length, and packaging information in the printed blocks. This entry represents the entire page as one product record linked to the image file. All model codes are taken only from the text visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "43.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "AUILIARY CLIP DESK LAMP MAGNIFIER",
+                  "AUILIARY CLIP MAGNIFIER WITH LED ILLUMINATION"
+                ],
+                "model_codes_shown": [
+                  "MG 16130-108C",
+                  "MG 16129-C",
+                  "MG 16129-DC"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0044",
+              "product_name": "LED Card-Type Magnifier With Money-Deteicing Function + LED Jewellery Magnifier (MG2101x / MG8503x page)",
+              "product_title": "Card-type and jewellery magnifiers with LED and money-detecting function (catalog page)",
+              "product_description": "This catalog page is titled “LED CARD-TYPE MAGNIFIER WITH MONEY-DETEICING FUNTION AND LED JEWELLERY MAGNIFIER.” It lists multiple compact magnifiers designed in card-style and small handheld forms, each with a printed model code and specification block. The page includes models MG21012, MG21012-A, and MG21013 with their printed magnification, lens diameter, and packaging details. It also includes MG21004 and multiple MG8503x models shown with their product photos and printed spec blocks. Several items are pictured with protective cases or covers, consistent with the compact format shown on the page. The printed blocks include battery type and lighting details where shown. This entry represents the entire page as one product record linked to the image file for catalog browsing. All model codes listed are taken directly from the identifiers visible on the page text, without adding unprinted variants.",
+              "product_price": null,
+              "image_urls": [
+                "44.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "LED CARD-TYPE MAGNIFIER WITH MONEY-DETEICING FUNTION AND LED JEWELLERY MAGNIFIER",
+                "model_codes_shown": [
+                  "MG21012",
+                  "MG 21012-A",
+                  "MG 21013",
+                  "MG 21004",
+                  "MG 85035",
+                  "MG 85033",
+                  "MG 85035-A",
+                  "MG 85036"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0045",
+              "product_name": "LED Portable Magnifiers + Multipurpose Pullout Type Magnifier With LED (NO.RE3690 / NO.690x / MG210xx / NO.774 page)",
+              "product_title": "LED portable magnifier and pullout-type LED magnifier lineup (catalog page)",
+              "product_description": "This catalog page combines “LED PORTABLE MAGNIFIER” on the left and “MULTIPURPOSE PULLOUT TYPE MAGNIFIER WITH LED” on the right. The left side lists multiple compact keychain-style magnifiers with decorative bodies, each with printed model codes such as NO.RE3690 and NO.6901-series variants, plus NO.7101 as shown. Each listing includes a printed specification block with magnification, lens diameter, and packaging information. The right side lists multiple pullout-type magnifiers including MG21014 and MG21015, plus MG21008A, MG21008, and MG21009, each with printed specs. It also lists multiple NO.774-series pullout magnifiers (NO.774-3ZX1, NO.774-3ZXA, NO.774-2ZXA, NO.774-2ZXB) with printed blocks. Product photos show the sliding/pullout lens mechanism and lanyards or keychains where pictured. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are taken only from the codes visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "45.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED PORTABLE MAGNIFIER",
+                  "MULTIPURPOSE PULLOUT TYPE MAGNIFIER WITH LED"
+                ],
+                "model_codes_shown": [
+                  "NO.RE3690",
+                  "NO.6901",
+                  "NO.6901A",
+                  "NO.6901A1",
+                  "NO.6901B",
+                  "NO.6901B1",
+                  "NO.6901C",
+                  "NO.6901C1",
+                  "NO.7101",
+                  "MG 21014",
+                  "MG 21015",
+                  "MG 21008A",
+                  "MG 21008",
+                  "MG 21009",
+                  "NO.774-3ZX1",
+                  "NO.774-3ZXA",
+                  "NO.774-2ZXA",
+                  "NO.774-2ZXB"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0046",
+              "product_name": "Multipurpose Pullout Type Magnifier With LED + New LED Drawing Type Magnifier Series (NO.95xxx / NO.93xxx page)",
+              "product_title": "Pullout LED magnifiers and new LED drawing type magnifier series (catalog page)",
+              "product_description": "This catalog page combines two sections: “MULTIPURPOSE PULLOUT TYPE MAGNIFIER WITH LED” and “NEW LED DRAWING TYPE MAGNIFIER SERIES.” The left section lists multiple pullout-style magnifiers with LED and printed model codes, each shown with a product photo and a specification block. The right section shows additional pullout/drawing-type magnifiers with printed model codes and specification blocks, including UV-labeled variants where shown on the page. The page is formatted for quick comparison of model codes, magnification ranges, and lens parameters as printed. A small lifestyle photo is included to demonstrate use as shown. This entry represents the whole page as one product record linked to the image file. All model identifiers are taken directly from the printed codes visible on the image, and no unprinted variants are added.",
+              "product_price": null,
+              "image_urls": [
+                "46.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "MULTIPURPOSE PULLOUT TYPE MAGNIFIER WITH LED",
+                  "NEW LED DRAWING TYPE MAGNIFIER SERIES"
+                ],
+                "model_codes_shown": [
+                  "NO.9584",
+                  "NO.9585",
+                  "NO.9581",
+                  "NO.9582",
+                  "NO.9881",
+                  "NO.9881-A",
+                  "NO.9881-B",
+                  "NO.95822",
+                  "NO.93708",
+                  "NO.92045",
+                  "NO.92045UV",
+                  "NO.930-90X"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0047",
+              "product_name": "Cylinder Magnifier Series (MG13xxx / MG710x / MG17136 family page)",
+              "product_title": "Cylinder magnifier lineup — MG13xxx / MG710x / MG17136 (catalog page)",
+              "product_description": "This catalog page is titled “CYLINDER MAGNIFIER” and shows multiple cylinder-style loupes and magnifiers with printed model codes and specification blocks. The page includes several MG13xxx models, MG7103 family models, and MG17136 family models, each paired with a product photo and a printed spec block listing magnification and lens parameters. The right side of the page also includes larger base/desktop-style cylinder magnifiers shown with printed model codes. The page layout is designed for comparing lens sizes, magnifications, and packaging information across the lineup using the printed blocks. This entry captures the full page as one product record linked to the image file. All model codes listed are taken only from the text visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "47.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "CYLINDER MAGNIFIER",
+                "model_codes_shown": [
+                  "MG13102",
+                  "MG 13102A",
+                  "MG 13097",
+                  "MG 13098",
+                  "MG 7103",
+                  "MG 7103A",
+                  "MG 13099",
+                  "MG 13100",
+                  "MG 13100-1",
+                  "MG 13100-2",
+                  "MG 17136",
+                  "MG 17136F",
+                  "MG 13104",
+                  "MG 13105"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0048",
+              "product_name": "Mini Microscope Series (MG10081 / NO.9882 / NO.959x page)",
+              "product_title": "Mini microscope lineup — MG10081 and NO.98xx/95xx (catalog page)",
+              "product_description": "This catalog page is titled “MINI MICROSCOPE” and shows multiple compact microscope models with printed model codes and specification blocks. The page includes several MG10081 variants and multiple NO.9882 and NO.959x models, each displayed with a product photo and printed magnification/packaging details. Some models are shown with hinged or folding bodies, while others are pen-like or block-style as pictured. The page also includes RD-suffix variants where printed on the image. The layout is designed to compare magnification ranges and form factors using the printed spec blocks. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are copied directly from the text visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "48.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "MINI MICROSCOPE",
+                "model_codes_shown": [
+                  "MG 10081-4",
+                  "NO.9882",
+                  "NO.9882-A",
+                  "NO.9593",
+                  "NO.9595",
+                  "NO.9595-1",
+                  "NO.9592",
+                  "NO.9592-1",
+                  "NO.9882(RD)",
+                  "NO.9882(RD)1",
+                  "NO.9882(RD)2",
+                  "MG 10081-1",
+                  "MG 10081-1A",
+                  "MG 10081-3",
+                  "MG 10081-8"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0049",
+              "product_name": "Mini Microscope With Mobile Phone Clip Series (NO.775x / NO.BU / NO.OS / MG10081-1W page)",
+              "product_title": "Mini microscope with mobile phone clip series lineup (catalog page)",
+              "product_description": "This catalog page is titled “MINI MICROSCOPE WITH MOBILE PHONE CLIP SERIES.” It shows multiple microscope units designed to clip to a mobile phone, with printed model codes and specification blocks. The left side includes NO.7752 and NO.7751W, plus MG 10081-1W as shown. The right side shows a BU-series lineup (NO.BU-60M, NO.BU-120M, NO.BU-150M, NO.BU-190M, and NO.BU-350M) and an OS-series model (NO.OS-100W), each with printed magnification and packaging details. A lifestyle photo inset is included and labeled with a model reference as shown. This entry represents the entire page as one product record linked to the image file. All model codes listed are taken directly from the identifiers printed on the page.",
+              "product_price": null,
+              "image_urls": [
+                "49.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "MINI MICROSCOPE WITH MOBILE PHONE CLIP SERIES",
+                "model_codes_shown": [
+                  "NO.7752",
+                  "NO.7751W",
+                  "MG 10081-1W",
+                  "NO.BU-60M",
+                  "NO.BU-120M",
+                  "NO.BU-150M",
+                  "NO.BU-190M",
+                  "NO.OS-100W",
+                  "NO.BU-350M"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0050",
+              "product_name": "Mobile Phone Clip Microscopes + LED/UV Lamp Phone Clip Microscopes (NO.774 / NO.MPK / TB page)",
+              "product_title": "Strong and gentle LED illuminant mobile phone clip microscopes with LED/UV (catalog page)",
+              "product_description": "This catalog page is titled “STRONG AND GENTLE LED ILLUMINANT WITH MOBILE PHONE CLIP MICROSCOPE AND LED, UV LAMP MOBILE PHONE CLIP MICROSCOPE.” It lists multiple phone-clip microscope models with printed model codes and specification blocks, including NO.774-60X and NO.774-90X. It also lists MPK-series clip microscopes (NO.MPK21-CL45X, NO.MPK15-CL50X, NO.MPK10-CL60X) and TB-series models (TB15-50X, TB10-60X) with printed details. Several W and RD-suffix variants are shown for NO.9595 and NO.9882 series where printed on the image. A NO.9596 model is shown with an accessory lens piece pictured beside it. This entry represents the full page as one product record linked to the image file. All identifiers listed are taken only from the codes visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "50.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "STRONG AND GENTLE LED ILLUMINANT WITH MOBILE PHONE CLIP MICROSCOPE AND LED, UV LAMP MOBILE PHONE CLIP MICROSCOPE",
+                "model_codes_shown": [
+                  "NO.774-60X",
+                  "NO.774-90X",
+                  "NO.9595W1",
+                  "NO.9595W",
+                  "NO.9882W",
+                  "NO.9882W1",
+                  "NO.MPK21-CL45X",
+                  "NO.MPK15-CL50X",
+                  "NO.MPK10-CL60X",
+                  "TB15-50X",
+                  "TB10-60X",
+                  "NO.9596",
+                  "NO.9882(RD)W",
+                  "NO.9882(RD)W1",
+                  "NO.9882(RD)W2"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0051",
+              "product_name": "LED Two Pipes Microscope Series + Microscope Series (MG10085 / MG10081-2 family page)",
+              "product_title": "LED two pipes microscope series and MG10081-2 microscope series lineup (catalog page)",
+              "product_description": "This catalog page combines two microscope lineups: “LED TWO PIPES MICROSCOPE SERIES” and “MICROSCOPE SERIES.” The left side shows multiple MG10085-1 and MG10085-2 configurations with printed specification blocks and magnification values. The right side shows the MG10081-2 family (A through H variants as printed) with product photos and printed details. The page is structured for comparing magnification and packaging information using the printed blocks. Several repeated MG10085 entries are shown with different magnification values as printed. This entry represents the full page as one product record linked to the image file. All model codes listed are taken directly from the identifiers visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "51.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "LED TWO PIPES MICROSCOPE SERIES",
+                  "MICROSCOPE SERIES"
+                ],
+                "model_codes_shown": [
+                  "MG 10085-1",
+                  "MG 10085-2",
+                  "MG 10081-2A",
+                  "MG 10081-2B",
+                  "MG 10081-2C",
+                  "MG 10081-2D",
+                  "MG 10081-2E",
+                  "MG 10081-2F",
+                  "MG 10081-2G",
+                  "MG 10081-2H"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0052",
+              "product_name": "Microscope Series + Pen-Like Microscope Series (MG10084/MG10085 and MG10085-5/7/9 page)",
+              "product_title": "Microscope series and pen-like microscope series lineup (catalog page)",
+              "product_description": "This catalog page combines “MICROSCOPE SERIES” and “PEN-LIKE MICROSCOPE SERIES.” The left side includes MG10084, MG10084-1, MG10085, and MG10085-1A with printed specification blocks. The right side lists multiple pen-like microscope variants including MG10085-5B1, MG10085-5B2, MG10085-5B3, MG10085-5B4, and MG10085-7, plus a lower section labeled “LED” with MG10085-5A1, MG10085-5A2, MG10085-5A3, MG10085-5A4, and MG10085-9. Each model includes printed magnification and packaging information as shown. This entry represents the full page as one product record linked to the image file. All model identifiers are copied only from the codes visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "52.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "MICROSCOPE SERIES",
+                  "PEN-LIKE MICROSCOPE SERIES"
+                ],
+                "model_codes_shown": [
+                  "MG 10084",
+                  "MG 10084-1",
+                  "MG 10085",
+                  "MG 10085-1A",
+                  "MG 10085-5B1",
+                  "MG 10085-5B2",
+                  "MG 10085-5B3",
+                  "MG 10085-5B4",
+                  "MG 10085-7",
+                  "MG 10085-5A1",
+                  "MG 10085-5A2",
+                  "MG 10085-5A3",
+                  "MG 10085-5A4",
+                  "MG 10085-9"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0053",
+              "product_name": "Microscope With Reading Function + Dual-Purpose Clip Microscopes (NO.988x/989x/774IV page)",
+              "product_title": "Microscope with reading function and dual-purpose clip microscope lineups (catalog page)",
+              "product_description": "This catalog page combines two sections: “MICROSCOPE WITH READING FUNCTION (LED PEN-SHAPED FOCUSING CURRENCY DETECTING TYPE)” and “LED LIGHT SOURCE INCLINE/VERTICAL DUAL-PURPOSE CLIP MICROSCOPE.” The left side lists NO.9883, NO.9887, NO.9893, NO.9894, and NO.9886 with printed specification blocks and sample pattern images. The right side lists multiple 774IV-series clip microscopes in IVC, IVA, and IV variants with printed magnification variants (40X/80X/100X/150X) as shown. A lifestyle inset image is included on the page with a model reference printed on it. This entry represents the entire page as one product record linked to the image file. All model codes listed are taken directly from the identifiers visible on the page, without adding unprinted variants.",
+              "product_price": null,
+              "image_urls": [
+                "53.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "MICROSCOPE WITH READING FUNCTION (LED PEN-SHAPED FOCUSING CURRENCY DETECTING TYPE)",
+                  "LED LIGHT SOURCE INCLINE/VERTICAL DUAL-PURPOSE CLIP MICROSCOPE"
+                ],
+                "model_codes_shown": [
+                  "NO.9883",
+                  "NO.9887",
+                  "NO.9893",
+                  "NO.9894",
+                  "NO.9886",
+                  "NO.774IVC-40X",
+                  "NO.774IVC-80X",
+                  "NO.774IVC-100X",
+                  "NO.774IVC-150X",
+                  "NO.774IVA-40X",
+                  "NO.774IVA-80X",
+                  "NO.774IVA-100X",
+                  "NO.774IVA-150X",
+                  "NO.774IV-40X",
+                  "NO.774IV-80X",
+                  "NO.774IV-100X",
+                  "NO.774IV-150X"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0054",
+              "product_name": "Barrel Illuminating Magnifier / Insect Viewer (MG20167 family page)",
+              "product_title": "Barrel illuminating magnifier and illuminating insect viewer lineup (catalog page)",
+              "product_description": "This catalog page is titled “BARREL ILLUMINATING MAGNIFIER/INSECT VIEWER/ILLUMINATING INSECT VIEWER.” It shows multiple MG20167 variants, including handheld viewer shapes and jar-style insect viewers, each with printed model codes and specification blocks. The page includes MG20167, MG20167-A, MG20167-B, and MG20167D, plus handheld magnifier-style variants MG20167E and MG20167F as shown. A large lifestyle photo is included on the right, labeled with MG20167F, showing the usage context depicted on the page. Each listing includes magnification and packaging information in the printed blocks. This entry represents the full page as one product record linked to the image file. All model identifiers are taken directly from the printed codes visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "54.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "BARREL ILLUMINATING MAGNIFIER/INSECT VIEWER/ILLUMINATING INSECT VIEWER",
+                "model_codes_shown": [
+                  "MG 20167",
+                  "MG 20167-A",
+                  "MG 20167-B",
+                  "MG20167D",
+                  "MG20167E",
+                  "MG20167F"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0055",
+              "product_name": "Cloth-Illuminating Magnifier + Suspension Magnifier (MG1411x / MG1108x / MG11B / MG1713 page)",
+              "product_title": "Cloth-illuminating magnifiers and suspension magnifiers (catalog page)",
+              "product_description": "This catalog page combines “CLOTH-ILLUMINATING MAGNIFIER” on the left and “SUSPENSION MAGNIFIER” on the right. The cloth-illuminating section shows multiple MG1411x models, each with a product photo and printed specification block. The suspension magnifier section shows multiple MG1108x models plus MG11B models and a MG1713-1 model, each with printed specification blocks and product photos. The page also includes an “LED suspended type, desktop dual-purpose magnifier” callout in the suspension section as printed. This entry represents the entire page as one product record linked to the image file. All model codes listed are taken only from the identifiers visible in the image text, and no additional variants are added beyond what is shown.",
+              "product_price": null,
+              "image_urls": [
+                "55.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "CLOTH-ILLUMINATING MAGNIFIER",
+                  "SUSPENSION MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 14110",
+                  "MG 14111",
+                  "MG 14109",
+                  "MG 14113",
+                  "MG 14114",
+                  "MG 14115",
+                  "MG 14115-A",
+                  "MG 14116",
+                  "MG 14116-A",
+                  "MG 14117",
+                  "MG 11086",
+                  "MG 11087",
+                  "MG 11088",
+                  "MG 11089",
+                  "MG 11B-1",
+                  "MG 11B-2",
+                  "MG 11B-3",
+                  "MG 1713-1"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0056",
+              "product_name": "Metal Hanging Chain Magnifier + European Style Metal Magnifier Sets (MG1209x / MG18154 / MG18155 page)",
+              "product_title": "Metal hanging chain magnifiers and European style metal magnifier sets (catalog page)",
+              "product_description": "This catalog page is titled “METAL HANGING CHAIN MAGNIFIER” and “SINGLE EUROPEAN STYLE METAL MAGNIFIER.” It includes multiple decorative hanging magnifiers labeled MG12090, MG12091, and MG12092 with printed specification blocks. It also includes a large European style metal magnifier lineup labeled MG18154-1 through MG18154-6, and a second lineup labeled MG18155-1 through MG18155-6, each with printed specification blocks. The page also includes MG18155-7 and MG18155-8 and shows boxed set products labeled MG18154 and MG18155 as printed. The layout is designed for browsing decorative and gift-style magnifiers with consistent printed spec blocks. This entry represents the full page as one product record linked to the image file. All model identifiers are taken directly from the printed codes visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "56.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "METAL HANGING CHAIN MAGNIFIER",
+                  "SINGLE EUROPEAN STYLE METAL MAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 12090",
+                  "MG 12091",
+                  "MG 12092",
+                  "MG 18154-1",
+                  "MG 18154-2",
+                  "MG 18154-3",
+                  "MG 18154-4",
+                  "MG 18154-5",
+                  "MG 18154-6",
+                  "MG 18155-1",
+                  "MG 18155-2",
+                  "MG 18155-3",
+                  "MG 18155-4",
+                  "MG 18155-5",
+                  "MG 18155-6",
+                  "MG 18155-7",
+                  "MG 18155-8",
+                  "MG 18154",
+                  "MG 18155"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0057",
+              "product_name": "Tweezers / LED Tweezers / Nail Scissors Magnifier (MG1814x / MG1713 page)",
+              "product_title": "Tweezers and nail scissors magnifiers (catalog page)",
+              "product_description": "This catalog page is titled “TWEEZERS, LED TWEEZERS, NAIL SCISSORS MAGNIFIER.” It includes multiple tweezer/scissor magnifier products with printed model codes and specification blocks, along with a lifestyle photo labeled MG1713-5~P123 showing manicure use as depicted. The page includes MG18143, MG18144, and MG18145 models shown with printed details. It also includes MG1713-4 and MG1713-5 models, each with printed magnification and packaging information. The layout is designed for quick comparison of model codes and intended tool form factors using the printed blocks. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are copied directly from the text visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "57.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "TWEEZERS, LED TWEEZERS, NAIL SCISSORS MAGNIFIER",
+                "model_codes_shown": [
+                  "MG 18143",
+                  "MG 18144",
+                  "MG 18145",
+                  "MG 1713-4",
+                  "MG 1713-5"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0058",
+              "product_name": "Jewellery Magnifier + LED Jewellery Magnifier (MG5536x / MG2100x / NO.9890 page)",
+              "product_title": "Jewellery magnifier and LED jewellery magnifier lineups (catalog page)",
+              "product_description": "This catalog page combines “JEWELLERYMAGNIFIER” and “LED JEWELLERYMAGNIFIER.” It shows multiple jewellery loupe models with printed model codes and specification blocks, including MG55367, MG55366-4, MG55367-A, and MG55368 as printed. It also lists additional models including MG21172, MG55366-2, MG55366, and MG55367-2, plus smaller items such as MG05007, 22188A, MG22184, and MG23193A as shown. The right side includes LED jewellery magnifiers MG21001, MG21002, MG21006, and MG21007, and also includes NO.9890 with a lens ring accessory shown. The page is formatted for model comparison and catalog browsing with printed spec blocks for each item. This entry represents the full page as one product record linked to the image file. All identifiers listed are taken only from the codes visible on the page.",
+              "product_price": null,
+              "image_urls": [
+                "58.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "JEWELLERYMAGNIFIER",
+                  "LED JEWELLERYMAGNIFIER"
+                ],
+                "model_codes_shown": [
+                  "MG 55367",
+                  "MG 55366-4",
+                  "MG 55367-A",
+                  "MG 55368",
+                  "MG 21172",
+                  "MG 55366-2",
+                  "MG 55366",
+                  "MG 55367-2",
+                  "MG 05007",
+                  "22188A",
+                  "MG 22184",
+                  "MG 23193A",
+                  "MG 21001",
+                  "MG 21002",
+                  "MG 21006",
+                  "MG 21007",
+                  "NO.9890"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0059",
+              "product_name": "Jewellery Illuminating Magnifier Series + Currency Detecting/Jewelry Identifying Types (MG21011/MG21016 and NO.98xx/95xx page)",
+              "product_title": "Jewellery illuminating magnifier series and identifying/currency-detecting loupes (catalog page)",
+              "product_description": "This catalog page combines “JEWLLERY ILLUMINATING MAGNIFIER SERIES” and “MAGNIFIER (LED CURRENCY DETECTING/JEWELRY IDENTIFYING TYPE).” The left side lists MG21011 variants (MG21011, MG21011-A, MG21011-B) and MG21016 variants (MG21016, MG21016-A, MG21016-B) with printed spec blocks. It also includes NO.9889 and NO.9889A with printed details and accessory images as shown. The right side lists NO.9888, NO.9895, and NO.9583 with printed spec blocks, and includes a product labeled NO.92530 with a lifestyle photo labeled NO.92530 on the page. The layout is designed for catalog browsing of compact identifying loupes and illuminated jewellery loupes. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are taken directly from the printed codes visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "59.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_headings": [
+                  "JEWLLERY ILLUMINATING MAGNIFIER SERIES",
+                  "MAGNIFIER(LED CURRENCY DETECTING/JEWELRY IDENTIFYING TYPE)"
+                ],
+                "model_codes_shown": [
+                  "MG 21011",
+                  "MG 21011-A",
+                  "MG 21011-B",
+                  "MG 21016",
+                  "MG 21016-A",
+                  "MG 21016-B",
+                  "NO.9889",
+                  "NO.9889A",
+                  "NO.9888",
+                  "NO.9895",
+                  "NO.9583",
+                  "NO.92530"
+                ]
+              }
+            },
+            {
+              "product_id": "P-0060",
+              "product_name": "Paperweight / Rotating Magnification / Ruler Magnifier (NO.PW6010x and MG1713x/MG1916x page)",
+              "product_title": "Paperweight, rotating magnification, and ruler magnifiers (catalog page)",
+              "product_description": "This catalog page is titled “PAPERWEIGHT, ROTATING MAGNIFICATION, RULER MAGNIFIER.” It shows multiple magnifier tool types including a paperweight magnifier with model NO.PW6010BC and a related model NO.PW6010C, each with printed specification blocks. The page also includes small tool magnifiers such as MG17138, MG17139, MG17141, and MG17137 with printed model codes and details. Along the bottom, it includes ruler-style magnifiers labeled MG19160, MG19161, and MG19163 with printed specification blocks. A large lifestyle photo on the right is labeled NO.PW6010BC, showing usage context as depicted. The page is structured for comparing model codes and basic parameters using the printed blocks. This entry represents the entire page as one product record linked to the image file. All model identifiers listed are taken directly from the printed codes visible on the image.",
+              "product_price": null,
+              "image_urls": [
+                "60.jpg"
+              ],
+              "category_id": "aRsrwa0",
+              "subcategory_id": "lNtotsS2",
+              "category": "Tools & Hardware",
+              "subcategory": "Hand Tools & Kits",
+              "specifications": {
+                "page_heading": "PAPERWEIGHT, ROTATING MAGNIFICATION, RULER MAGNIFIER",
+                "model_codes_shown": [
+                  "NO.PW6010BC",
+                  "NO.PW6010C",
+                  "MG 17138",
+                  "MG 17139",
+                  "MG 17141",
+                  "MG 17137",
+                  "MG 19160",
+                  "MG 19161",
+                  "MG 19163"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

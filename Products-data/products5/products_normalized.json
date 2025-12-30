@@ -1,0 +1,340 @@
+{
+  "products": {
+    "Healthcare Essentials": {
+      "category_id": "HltaaL2",
+      "subcategories": {
+        "Medical Tools & Equipment": {
+          "subcategory_id": "upqTiim0",
+          "products": [
+            {
+              "product_id": "prod_bamboo_toothbrush_eco_001",
+              "product_name": "Eco-Friendly Bamboo Toothbrush",
+              "product_title": "Eco-Friendly Bamboo Toothbrush (Bio-Degradable, No Plastic)",
+              "product_description": "Eco-Friendly Bamboo Toothbrush is presented as a bamboo toothbrush option with “BIO-DEGRADABLE” and “NO PLASTIC” messaging on the creative. The visual shows multiple bamboo toothbrushes with different bristle colors and bamboo-style packaging in the background. The poster highlights an eco-focused positioning and includes the phrase “DO YOUR BIT FOR THE ENVIRORENMENT- DOCTOR” as part of the design. If you are looking to reduce plastic usage in daily oral care, this product is framed as an alternative with a bamboo handle. The creative is branded with “PROSMART CONCEPTS” in the header area. The overall layout is intended for product marketing and showcases the toothbrush from multiple angles. This listing is based only on the text and visuals visible in the provided image. No pricing is shown in the image, so the price is kept as null.",
+              "product_price": null,
+              "image_urls": [
+                "Eco toothbrushes.png"
+              ],
+              "specifications": {
+                "highlights": [
+                  "BIO-DEGRADABLE (as written on the poster)",
+                  "NO PLASTIC (as written on the poster)"
+                ],
+                "material": "Bamboo (as implied by the product name on the poster)",
+                "notes": [
+                  "Bristle softness, exact pack size, and exact materials beyond what is shown are not specified in the poster."
+                ]
+              },
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment"
+            },
+            {
+              "product_id": "prod_ent_kit_001",
+              "product_name": "ENT Kit",
+              "product_title": "ENT Kit (Tuning Fork, Thudicum, Cleaning Probe/Knife)",
+              "product_description": "ENT Kit is shown as a set of instruments stored in a zippered pouch in the provided image. The text on the poster lists the kit items as: “1. Tuning Fork,” “2. Thudicum (For nose/ tongue),” and “3. Cleaning Probe/ knife (Ear & Nose).” The instrument names are also labeled directly on the photo near the items. The creative includes the “PROSMART CONCEPTS” branding in the top area. This listing captures the kit as shown, focusing on the included tools and the labeled use areas mentioned on the poster. The pouch format suggests it is meant to keep the tools organized and portable. No additional technical specifications (like sizes or materials) are visible in the image. The description is based strictly on what is printed and shown in the provided poster. Since no price is displayed, the product price is kept as null.",
+              "product_price": null,
+              "image_urls": [
+                "ENT KIT.jpg"
+              ],
+              "specifications": {
+                "includes": [
+                  "Tuning Fork",
+                  "Thudicum (For nose/ tongue)",
+                  "Cleaning Probe/ knife (Ear & Nose)",
+                  "Carrying pouch/case (as shown in the image)"
+                ],
+                "notes": [
+                  "Exact instrument sizes, grades, and materials are not specified in the poster."
+                ]
+              },
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment"
+            },
+            {
+              "product_id": "prod_laryngeal_mirror_kit_001",
+              "product_name": "Laryngeal Mirror Kit",
+              "product_title": "Laryngeal Mirror Kit (For ENT/GP)",
+              "product_description": "Laryngeal Mirror Kit is presented as a set of laryngeal mirrors used for indirect laryngoscopy. The poster states: “The Laryngeal Mirror provides thermal-tactile stimulation during swallowing therapy. It helps trigger a swallow by stimulating the anterior pillars of faces. The Mirror can be sterilized by steam, hot air or antiseptic solutions.” The poster also describes, “Laryngeal Mirror: used for indirect laryngoscopy,” and mentions the structures that can be visualized, including the base of the tongue, vallecula, epiglottis, false vocal cords, and true vocal cords. The image shows multiple mirror sizes and an illustration of laryngoscopy using a mirror. The poster includes “FOR, ENT GP,” indicating intended clinical use areas. This product description follows the exact statements shown on the poster without adding additional claims. Pricing is not shown, so the price remains null.",
+              "product_price": null,
+              "image_urls": [
+                "Laryngeal mirror.png"
+              ],
+              "specifications": {
+                "highlights": [
+                  "Used for indirect laryngoscopy (as written on the poster)",
+                  "Can be sterilized by steam, hot air or antiseptic solutions (as written on the poster)"
+                ],
+                "intended_for": [
+                  "ENT",
+                  "GP"
+                ],
+                "notes": [
+                  "Exact quantity, sizes, and material specifications are not provided in the image."
+                ]
+              },
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment"
+            },
+            {
+              "product_id": "prod_gp_kit_set_of_3_001",
+              "product_name": "GP Kit - Set of 3",
+              "product_title": "GP Kit - Set of 3 (Kidney Tray, Tweezers, Forceps)",
+              "product_description": "GP Kit - Set of 3 is shown as a small set containing three items for general-purpose clinical use. The poster title reads “G P KIT- SET OF 3” and lists the components as “KIDNEY TRAY” and “TWEEZERS | FORCEPS.” The visuals show a stainless-style kidney tray along with a pair of forceps and a pair of tweezers, and a packed set image is also included. A “PREMIUM” badge appears on the design, indicating a premium positioning in the marketing creative. The brand header area includes “Product Of: PROSMART CONCEPTS.” This listing is based only on the items named and pictured in the poster and does not assume additional contents. Since no price is shown on the image, the product price is kept as null.",
+              "product_price": null,
+              "image_urls": [
+                "GP KIT .png"
+              ],
+              "specifications": {
+                "includes": [
+                  "Kidney tray",
+                  "Tweezers",
+                  "Forceps"
+                ],
+                "notes": [
+                  "Exact steel grade, sizes, and sterilization guidance are not specified in the provided poster."
+                ]
+              },
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment"
+            },
+            {
+              "product_id": "prod_gynae_delivery_kit_001",
+              "product_name": "Gynae & Delivery Kit",
+              "product_title": "Gynae & Delivery Kit (Regular Use Kit) - 13 Contents Listed",
+              "product_description": "Gynae & Delivery Kit is presented as a “REGULAR USE KIT” with a detailed contents list on the left side of the poster. The contents section lists: “1. Surgeon Gown 50 GSM, 2. Maternity Pad with dripping sheet, 3. Perineal sheet with Leggings, 4. Gynae Drape, 5. Non woven shoe cover, 6. Bouffant Cap, 7. Sterile Latex Surgical Gloves, 8. 3 Ply face mask, 9. Baby Sheet, 10. Small Wipe, 11. Big Wipe, 12. Placenta Bag, 13. Couch sheet.” The product photo shows a sealed pack labeled “DELIVERY KIT” and a reference label that includes “REF SIK10A.” The header includes “PROSMART CONCEPTS,” an email address, and a telephone number as part of the artwork. An MRP is printed on the poster (“MRP- RS. 1650/-”), but since you requested not to guess and to keep pricing null, this listing keeps product_price as null. The description strictly reflects the items listed and shown in the image.",
+              "product_price": null,
+              "image_urls": [
+                "GYNAE KIT.png"
+              ],
+              "specifications": {
+                "contents_list": [
+                  "Surgeon Gown 50 GSM",
+                  "Maternity Pad with dripping sheet",
+                  "Perineal sheet with Leggings",
+                  "Gynae Drape",
+                  "Non woven shoe cover",
+                  "Bouffant Cap",
+                  "Sterile Latex Surgical Gloves",
+                  "3 Ply face mask",
+                  "Baby Sheet",
+                  "Small Wipe",
+                  "Big Wipe",
+                  "Placenta Bag",
+                  "Couch sheet"
+                ],
+                "reference": [
+                  "REF SIK10A (as shown on the pack label)"
+                ],
+                "notes": [
+                  "The poster shows an MRP value, but product_price is intentionally kept null as requested."
+                ]
+              },
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment"
+            },
+            {
+              "product_id": "prod_vibrating_jade_massager_kit_001",
+              "product_name": "Latest Vibrating Jade Massager Kit",
+              "product_title": "Latest Vibrating Jade Massager Kit (Controlled Vibrating Technology)",
+              "product_description": "Latest Vibrating Jade Massager Kit is shown as a facial massage tool kit with a rose-gold colored device and multiple attachments. The poster headline reads “LATEST VIBRATING JADE MASSAGER KIT” and prominently states “Controlled Vibrating Technology.” The benefit section on the poster says “BENIFITS : NATURAL JADE ~ PROVEN TO BE A REJUVENATION STONE” and mentions “MASSAGE VIBRATION TO INCREASE MICRONUTRIENTS ON SKIN,” plus “COUPLED WITH MASSGAE OIL FOR BEST RESULTS IF NEEDED.” The central panel includes bullet points such as “Deeper penetration of serums & moisturizers,” “Vibrating massage for improved skin tightening,” and “Lymphatic drainage for better blood flow,” with a comparison note “Compared to manual rollers.” The visuals show a roller head and other attachments, along with an ON/OFF rotate switch callout and “Durable Frames” as labeled. This description is limited to the wording and visuals shown on the poster and does not add extra claims beyond those statements. Pricing is not shown in the image, so product_price is null.",
+              "product_price": null,
+              "image_urls": [
+                "JADE MASSAGR KIT.jpg"
+              ],
+              "specifications": {
+                "poster_text_highlights": [
+                  "Controlled Vibrating Technology (as written on the poster)",
+                  "Natural jade (as written on the poster)",
+                  "Deeper penetration of serums & moisturizers (as written on the poster)",
+                  "Vibrating massage for improved skin tightening (as written on the poster)",
+                  "Lymphatic drainage for better blood flow (as written on the poster)"
+                ],
+                "visible_components": [
+                  "Handheld vibrating massager device (as shown)",
+                  "Roller head (as shown)",
+                  "Additional attachments (as shown in the poster visuals)"
+                ],
+                "notes": [
+                  "Exact number of attachments, battery type, and materials beyond what is labeled are not specified in the image."
+                ]
+              },
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment"
+            }
+          ]
+        }
+      }
+    },
+    "Gadgets & Accessories": {
+      "category_id": "isSseE1",
+      "subcategories": {
+        "Utility & Multi-Tools": {
+          "subcategory_id": "ytutILu9",
+          "products": [
+            {
+              "product_id": "prod_bite_itch_reliever_pen_001",
+              "product_name": "Bite & Itch Reliever Pen",
+              "product_title": "Bite Helper® Itch Neutralizer (Bite & Itch Reliever Pen)",
+              "product_description": "Bite & Itch Reliever Pen is shown as a handheld device marketed for itch relief in the provided creative. The poster headline reads “BITE & ITCH RELIEVER PEN” and states “RELIEVES ITCHING IN A NANO SECOND.” The branding on the same creative includes “BITE HELPER®” and “Itch Neutralizer,” along with a checklist that reads “Fast & Effective,” “Drug-Free,” and “Clinically Tested.” The image also includes a “HOW IT WORKS” section with step visuals and short instructions describing placing the device on the affected area and pressing the ON button. Additional logos and badges are shown in the artwork (for example, an “Innovation Awards 2018 Honoree” badge and a “Proven Wellness Device” mark). The device is shown being used on a bite-like spot on skin, emphasizing ease of use. This description only reflects text and visuals present in the image and does not add medical claims beyond what the poster itself states. Pricing is not shown on the poster, so the price is kept as null.",
+              "product_price": null,
+              "image_urls": [
+                "ITCH RELIEF PEN.jpg"
+              ],
+              "specifications": {
+                "highlights": [
+                  "RELIEVES ITCHING IN A NANO SECOND (as written on the poster)",
+                  "Fast & Effective (as written on the poster)",
+                  "Drug-Free (as written on the poster)",
+                  "Clinically Tested (as written on the poster)"
+                ],
+                "usage": [
+                  "Place the device on the affected area (as shown in the poster instructions)",
+                  "Press the ON button (as written in the poster instructions)"
+                ],
+                "notes": [
+                  "Exact battery type, materials, and warranty are not specified in the provided image."
+                ]
+              },
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools"
+            },
+            {
+              "product_id": "prod_safety_flower_vase_fire_extinguisher_001",
+              "product_name": "Safety Flower Vase Fire-Extinguisher",
+              "product_title": "Beautiful Flower Vase Safety Fire-Extinguisher (Impact-Activated)",
+              "product_description": "Safety Flower Vase Fire-Extinguisher is shown as a decorative vase-themed product promoted for fire emergencies. The poster text reads “BEAUTIFUL FLOWER VASE SAFETY FIRE-EXTINGUISHER” and states “PROTECT YOUR LOVED ONES IN CASE OF FIRE EMERGENCY WITH ULTIMATE EASE.” It also claims “CAN BE USED BY A CHILD ALSO” and describes “EASY TO USE | JUST THROW AT THE FIRE.” Additional lines on the artwork include “FAST & EFFECTIVE | NON- PRESSURISED” and “MAINTENANCE- FREE | COST EFFECTIVE.” The poster also mentions “INDIA’S #1 IMPACT-ACTIVATED FIRE EXTINGUISHER” and shows the brand “THRO VASE” alongside product visuals. A large vertical text reads “SAVE LIVES,” and the design notes it is “PART OF ALL HOME & OFFICE DECOR.” This listing repeats the poster’s marketing statements as shown without adding any additional performance claims. Pricing is not shown on the image, so product_price is null.",
+              "product_price": null,
+              "image_urls": [
+                "FIRE PROTECT VASE.jpg"
+              ],
+              "specifications": {
+                "highlights": [
+                  "Impact-activated fire extinguisher (as written on the poster)",
+                  "Just throw at the fire (as written on the poster)",
+                  "Non-pressurised (as written on the poster)",
+                  "Maintenance-free (as written on the poster)"
+                ],
+                "notes": [
+                  "Exact extinguisher agent, weight/capacity, and certifications are not provided in the image."
+                ]
+              },
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools"
+            },
+            {
+              "product_id": "prod_illuminated_scale_magnifier_001",
+              "product_name": "Illuminated Scale Magnifier",
+              "product_title": "Illuminated Scale Magnifier (XIN XIANG)",
+              "product_description": "Illuminated Scale Magnifier is shown as a handheld magnifying tool with a built-in light, pictured alongside its packaging. The box visible in the image shows the brand name “XIN XIANG” and the web address “www.chinaxinxiang.com.cn.” The packaging also includes the words “Illuminated” and “Scale-Magnifier” printed vertically on the right side. The product itself has a lens area at the front and a handle-shaped body, suggesting comfortable handheld use. A small glow near the front indicates illumination in the tool design. This listing captures only what is visible on the product and packaging and does not assume magnification power or measurement scale details that are not clearly readable. Pricing is not visible, so product_price is null.",
+              "product_price": null,
+              "image_urls": [
+                "Magnifier Millimter.jpeg"
+              ],
+              "specifications": {
+                "visible_text": [
+                  "XIN XIANG (as shown on the box)",
+                  "Illuminated Scale-Magnifier (as shown on the box)",
+                  "www.chinaxinxiang.com.cn (as shown on the box)"
+                ],
+                "features": [
+                  "Handheld magnifier form factor (as shown)",
+                  "Illumination (as implied by packaging and visible light glow)"
+                ],
+                "notes": [
+                  "Exact magnification level, scale type, and power source are not specified in the provided image."
+                ]
+              },
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools"
+            },
+            {
+              "product_id": "prod_protekt_mosquito_repellent_001",
+              "product_name": "PROTEKT Mosquito Repellents (Bracelet & Patch)",
+              "product_title": "PROTEKT Mosquito Repellents (Mosquito Repellents Bracelet + Anti Mosquito Patch)",
+              "product_description": "PROTEKT Mosquito Repellents are shown in the provided creative as a mosquito-repellent bracelet and an anti-mosquito patch product. The top heading reads “Mosquito Repellent Patch” and includes the line “A revolution from Insect protection.” The poster also states “Natural- Anti Mosquito Patch,” “100% natural citronella oil, ROHS, EN71,” and “Protects you for upto-48 Hrs.” It additionally lists “Certificate: CE, ROHS, EN71.” The product packaging shown includes “PROTEKT Mosquito Repellents Bracelet” and a separate pack that reads “PROTEKT ANTI MOSQUITO PATCH,” with a “DEET FREE” badge visible on the designs. The artwork includes small usage illustrations showing how the band is worn and how a patch is applied. This listing is based only on the visible text and visuals from the provided image and repeats the poster statements without adding extra safety claims. Pricing is not shown on the poster, so product_price is null.",
+              "product_price": null,
+              "image_urls": [
+                "Mosquito band for kids.jpg"
+              ],
+              "specifications": {
+                "visible_products": [
+                  "PROTEKT Mosquito Repellents Bracelet (as written on packaging)",
+                  "PROTEKT Anti Mosquito Patch (as written on packaging)"
+                ],
+                "poster_text_highlights": [
+                  "DEET FREE (as shown on packaging)",
+                  "100% natural citronella oil, ROHS, EN71 (as written on poster)",
+                  "Protects you for upto-48 Hrs. (as written on poster)",
+                  "Certificate: CE, ROHS, EN71 (as written on poster)"
+                ],
+                "notes": [
+                  "Exact pack counts and exact duration per piece are not fully clear beyond the poster’s statements."
+                ]
+              },
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools"
+            }
+          ]
+        }
+      }
+    },
+    "Smart Home": {
+      "category_id": "raoESM4",
+      "subcategories": {
+        "Home Decor & Utilities": {
+          "subcategory_id": "SLIouhI5",
+          "products": [
+            {
+              "product_id": "prod_hydrogen_water_new_age_water_001",
+              "product_name": "Hydrogen Water - The New Age Water",
+              "product_title": "Hydrogen Water “The New Age Water” (Hydrogen Water Bottle Visual)",
+              "product_description": "Hydrogen Water “The New Age Water” is presented in the poster as regular water with hydrogen gas added to it. The text says, “According to some resources, adding hydrogen gas to the water increases its anti-inflammatory and antioxidantproperties,” and also mentions claims about energy, aging process, and muscle recovery after a workout. The artwork includes the line “THE MAIN FUNCTION OF HYDROGEN WATER” and shows benefit callouts such as “Anti-oxidation,” “Conditioning the skin,” “To promote metabolism,” and “Improve skin sensitivity.” It also shows a recommended amount line “1.5L HYDROGEN WATER PER DAY” and a section titled “NEW SPE ELECTROLYSIS TECHNOLOGY,” with a diagram labeled “Platinum Titanium Electrolyte” and “Microporous ionic membrane.” Product images depict a bottle-style device with a base button and a glass body. This listing records the poster’s statements as they appear, without treating them as verified medical guarantees. Pricing is not shown in the poster, so the price is set to null.",
+              "product_price": null,
+              "image_urls": [
+                "HYDROGEN WATER.jpg"
+              ],
+              "specifications": {
+                "poster_text_highlights": [
+                  "Hydrogen water is regular water with hydrogen gas added to the water (as written on the poster)",
+                  "1.5L HYDROGEN WATER PER DAY (as written on the poster)",
+                  "NEW SPE ELECTROLYSIS TECHNOLOGY (as written on the poster)",
+                  "Platinum Titanium Electrolyte (as labeled on the poster diagram)",
+                  "Microporous ionic membrane (as labeled on the poster diagram)"
+                ],
+                "notes": [
+                  "This listing repeats the poster’s language (including ‘According to some resources’) and does not add extra claims.",
+                  "Exact capacity of the bottle device, power/battery details, and included accessories are not specified in the image."
+                ]
+              },
+              "category_id": "raoESM4",
+              "subcategory_id": "SLIouhI5",
+              "category": "Smart Home",
+              "subcategory": "Home Decor & Utilities"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

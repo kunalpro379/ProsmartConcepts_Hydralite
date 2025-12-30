@@ -1,0 +1,413 @@
+{
+    "products": [
+        {
+            "id": "refresh-bedskin",
+            "name": "Refresh Bedskin",
+            "category": "Healthcare",
+            "subcategory": "Hospital Care Fabric",
+            "description": "Refresh Bedskin is a new-age multilayer disposable hospital bed fabric designed to improve patient hygiene and comfort. It is water-absorbent yet waterproof, breathable, and has a cotton-soft feel. The fabric is anti-microbial, disposable, and eliminates the need for laundry, helping reduce hospital-acquired infections.",
+            "key_features": [
+                {
+                    "title": "Water Absorbent",
+                    "description": "Quickly absorbs fluids to keep patients dry and comfortable."
+                },
+                {
+                    "title": "Waterproof Layer",
+                    "description": "Prevents leakage and protects hospital bedding."
+                },
+                {
+                    "title": "Breathable Fabric",
+                    "description": "Ensures airflow for long-term patient comfort."
+                },
+                {
+                    "title": "Disposable Use",
+                    "description": "Eliminates laundry, reducing infection risk."
+                },
+                {
+                    "title": "Anti-Microbial",
+                    "description": "Helps reduce hospital-acquired infections."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022443/hydralite/refresh-bedskin/Refresh_Bedskin/1.png"
+                }
+            ]
+        },
+        {
+            "id": "water-powered-led-lamp",
+            "name": "Water-Powered LED Emergency Lamp Batteries",
+            "category": "Energy",
+            "subcategory": "Emergency Lighting",
+            "description": "An eco-friendly lighting solution powered only by water (saltwater)\u00e2\u20ac\u201dno electricity, batteries, or solar panels required. It can provide up to 120 hours of continuous light, making it ideal for rural areas, emergencies, outdoor use, and disaster relief.",
+            "key_features": [
+                {
+                    "title": "Water Powered",
+                    "description": "No batteries or solar panels required."
+                },
+                {
+                    "title": "Long Runtime",
+                    "description": "Provides up to 120 hours of light."
+                },
+                {
+                    "title": "Emergency Ready",
+                    "description": "Ideal for disasters and power cuts."
+                },
+                {
+                    "title": "Rural Focused",
+                    "description": "Designed for off-grid regions."
+                },
+                {
+                    "title": "Eco-Friendly",
+                    "description": "Reduces energy dependence and supports sustainable living."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022683/2_of0qmo.png"
+                }
+            ]
+        },
+        {
+            "id": "ambient-disinfection-lighting",
+            "name": "Ambient Disinfection Lighting (App Controlled)",
+            "category": "Healthcare",
+            "subcategory": "Infection Control",
+            "description": "Ambient Disinfection Lighting uses special visible light (non-UV) to kill bacteria, viruses, fungi, and mold in indoor spaces. It continuously sanitizes rooms such as hospitals, clinics, homes, and offices without harsh chemicals. The system is app-controlled and works over time to create safer, cleaner environments.",
+            "key_features": [
+                {
+                    "title": "Visible Light Technology",
+                    "description": "Non-UV light kills bacteria, fungi, and viruses safely."
+                },
+                {
+                    "title": "Chemical-Free",
+                    "description": "No harsh disinfectants or UV exposure."
+                },
+                {
+                    "title": "Hospital Ready",
+                    "description": "Ideal for clinics, wards, ICUs, homes, and offices."
+                },
+                {
+                    "title": "Continuous Protection",
+                    "description": "Works over time to inhibit microbial growth."
+                },
+                {
+                    "title": "App Controlled",
+                    "description": "Smart control for modern healthcare environments."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022445/hydralite/ambient-disinfection-lighting/Ambient_Disinfection_Lighting_%28App_Controlled%29/3.png"
+                }
+            ]
+        },
+        {
+            "id": "iv-alert-alarm",
+            "name": "I.V. Alert Alarm",
+            "category": "Healthcare",
+            "subcategory": "Patient Monitoring",
+            "description": "The I.V. Alert Alarm is a life-saving hospital device that continuously monitors saline levels. It alerts medical staff when IV fluid drops below critical levels, preventing air entry and medical emergencies.",
+            "key_features": [
+                {
+                    "title": "Real-Time Alerts",
+                    "description": "Instant notification when saline runs low."
+                },
+                {
+                    "title": "Easy Attachment",
+                    "description": "Seamlessly fits on standard IV bottles."
+                },
+                {
+                    "title": "Improved Staff Efficiency",
+                    "description": "Reduces manual checking workload."
+                },
+                {
+                    "title": "Emergency Prevention",
+                    "description": "Prevents air entry and medical emergencies."
+                },
+                {
+                    "title": "Patient Safety",
+                    "description": "Ensures continuous IV monitoring."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022446/hydralite/iv-alert-alarm/I.V._Alert_Alarm/4.png"
+                }
+            ]
+        },
+        {
+            "id": "mother-infant-anti-theft",
+            "name": "Mother\u00e2\u20ac\u201cInfant Anti-Theft Device",
+            "category": "Healthcare",
+            "subcategory": "Hospital Security",
+            "description": "This device prevents infant theft and accidental baby mismatching in hospitals. It provides real-time security and peace of mind to mothers and families.",
+            "key_features": [
+                {
+                    "title": "Infant Security",
+                    "description": "Prevents theft and mismatching of newborns."
+                },
+                {
+                    "title": "Instant Alerts",
+                    "description": "Triggers alarms during unauthorized movement."
+                },
+                {
+                    "title": "Hospital Integrated",
+                    "description": "Designed for maternity and neonatal wards."
+                },
+                {
+                    "title": "Parent Peace of Mind",
+                    "description": "Reassures families about infant safety."
+                },
+                {
+                    "title": "Real-Time Tracking",
+                    "description": "Ensures infants are securely tracked."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022447/hydralite/mother-infant-anti-theft/Mother%C3%A2%E2%82%AC%E2%80%9CInfant_Anti-Theft_Device/5.png"
+                }
+            ]
+        },
+        {
+            "id": "muscle-hand-dynamometer",
+            "name": "Muscle Hand Dynamometer (App Controlled)",
+            "category": "Healthcare",
+            "subcategory": "Rehabilitation Devices",
+            "description": "The Muscle Hand Dynamometer is a smart grip-strength measurement and rehabilitation device used for injury recovery, arthritis, nerve issues, and post-surgery therapy. It is app-controlled and suitable for home and clinical use.",
+            "key_features": [
+                {
+                    "title": "Strength Measurement",
+                    "description": "Accurately measures grip and muscle force."
+                },
+                {
+                    "title": "Rehabilitation Support",
+                    "description": "Tracks recovery progress digitally."
+                },
+                {
+                    "title": "App Controlled",
+                    "description": "Mobile-based insights and analytics."
+                },
+                {
+                    "title": "Home Therapy",
+                    "description": "Ideal for virtual physiotherapy."
+                },
+                {
+                    "title": "Post-Surgery Recovery",
+                    "description": "Supports injury and arthritis rehabilitation."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022447/hydralite/muscle-hand-dynamometer/Muscle_Hand_Dynamometer_%28App_Controlled%29/6.png"
+                }
+            ]
+        },
+        {
+            "id": "self-heating-food-box",
+            "name": "Self-Heating Food Heating Boxes",
+            "category": "Lifestyle",
+            "subcategory": "Portable Food Solutions",
+            "description": "Self-Heating Food Boxes are designed to instantly heat food without electricity. They ensure hygienic, warm meals for travel, hospitals, outdoor use, and emergencies.",
+            "key_features": [
+                {
+                    "title": "No Electricity Needed",
+                    "description": "Instant heating without power."
+                },
+                {
+                    "title": "Hygienic Heating",
+                    "description": "Keeps food contamination-free."
+                },
+                {
+                    "title": "Portable Use",
+                    "description": "Ideal for travel and outdoor use."
+                },
+                {
+                    "title": "Emergency Ready",
+                    "description": "Perfect for disaster situations."
+                },
+                {
+                    "title": "Safe & Warm Meals",
+                    "description": "Ensures meals are ready anytime."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022448/hydralite/self-heating-food-box/Self-Heating_Food_Heating_Boxes/7.png"
+                }
+            ]
+        },
+        {
+            "id": "numbease",
+            "name": "Numbease\u00e2\u201e\u00a2",
+            "category": "Healthcare",
+            "subcategory": "Pain Management Devices",
+            "description": "Numbease is a compact, wireless medical device that reduces pain instantly during injections using neuromodulation. No creams, ice, or delays \u00e2\u20ac\u201d just real comfort and improved patient compliance.",
+            "key_features": [
+                {
+                    "title": "Instant Pain Reduction",
+                    "description": "Works within seconds without gels or ice."
+                },
+                {
+                    "title": "Clinically Safe",
+                    "description": "Autoclave-sterilizable and reusable."
+                },
+                {
+                    "title": "Wireless & Portable",
+                    "description": "Compact, pocket-sized design."
+                },
+                {
+                    "title": "Improves Compliance",
+                    "description": "Reduces fear and anxiety in patients."
+                },
+                {
+                    "title": "Proven Technology",
+                    "description": "Based on gate-control neuromodulation."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022449/hydralite/numbease/Numbease%C3%A2%E2%80%9E%C2%A2/injection_1.png"
+                },
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022449/hydralite/numbease/Numbease%C3%A2%E2%80%9E%C2%A2/injection_2.png"
+                },
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022450/hydralite/numbease/Numbease%C3%A2%E2%80%9E%C2%A2/injection_3.jpg"
+                }
+            ]
+        },
+        {
+            "id": "sun-a-wear",
+            "name": "Sun-a-Wear",
+            "category": "Wearable Tech",
+            "subcategory": "UV Safety & Monitoring",
+            "description": "Sun-a-Wear is a solar-powered wearable UV tracking system paired with a mobile application that delivers real-time UV exposure insights, adaptive alerts, and smart sunscreen reminders. Designed for families and outdoor users, it helps prevent overexposure to harmful ultraviolet radiation and promotes safer outdoor habits.",
+            "key_features": [
+                {
+                    "title": "Real-Time UV Tracking",
+                    "description": "Continuously monitors UV radiation exposure using a solar-powered wearable sensor."
+                },
+                {
+                    "title": "Personal Dose Alerts",
+                    "description": "Notifies users when their safe UV exposure limit is reached."
+                },
+                {
+                    "title": "Smart Sunscreen Reminders",
+                    "description": "Provides timely alerts to reapply sunscreen based on UV intensity and exposure duration."
+                },
+                {
+                    "title": "Actionable Recommendations",
+                    "description": "Offers personalized guidance to reduce UV risk and stay protected outdoors."
+                },
+                {
+                    "title": "Solar-Powered & Lightweight",
+                    "description": "Operates without charging and is designed for comfortable everyday wear."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022451/hydralite/sun-a-wear/Sun-a-Wear/UV1.png"
+                },
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022452/hydralite/sun-a-wear/Sun-a-Wear/UV2.png"
+                },
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022453/hydralite/sun-a-wear/Sun-a-Wear/UV3.png"
+                },
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022454/hydralite/sun-a-wear/Sun-a-Wear/UV4.png"
+                },
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022455/hydralite/sun-a-wear/Sun-a-Wear/UV5.png"
+                }
+            ]
+        },
+        {
+            "id": "smart-handy",
+            "name": "Smart Handy",
+            "category": "Health Tech",
+            "subcategory": "Physiotherapy & Rehabilitation",
+            "description": "Smart Handy is an app-enabled muscle hand dynamometer designed to support upper extremity therapy and rehabilitation. It helps patients and therapists measure grip strength, track progress digitally, and support recovery from injuries, neurological conditions, and post-surgical rehabilitation.",
+            "key_features": [
+                {
+                    "title": "Grip Strength Measurement",
+                    "description": "Accurately measures hand grip and muscle strength."
+                },
+                {
+                    "title": "App Enabled",
+                    "description": "Connects with a mobile app for progress tracking and insights."
+                },
+                {
+                    "title": "Rehabilitation Support",
+                    "description": "Designed for physiotherapy, post-stroke, and injury recovery."
+                },
+                {
+                    "title": "Home & Clinical Use",
+                    "description": "Suitable for hospitals, clinics, and home-based therapy."
+                },
+                {
+                    "title": "Compact & Ergonomic",
+                    "description": "Comfortable design for repeated therapeutic use."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022455/hydralite/smart-handy/Smart_Handy/smart-handy-grip-trainer.png"
+                }
+            ]
+        },
+        {
+            "id": "energy-storage-system",
+            "name": "Energy Storage System",
+            "category": "Power Tech",
+            "subcategory": "Energy Storage Solutions",
+            "description": "The Energy Storage System is a battery-based energy storage solution designed to store electricity generated from renewable sources such as solar and wind. It enables reliable power availability for homes, institutions, and remote locations, supporting energy independence and sustainability.",
+            "key_features": [
+                {
+                    "title": "Renewable Energy Compatible",
+                    "description": "Stores power generated from solar and other renewable sources."
+                },
+                {
+                    "title": "Reliable Backup Power",
+                    "description": "Ensures continuous electricity during power outages."
+                },
+                {
+                    "title": "Scalable Capacity",
+                    "description": "Configurable for residential, commercial, and institutional use."
+                },
+                {
+                    "title": "Energy Independence",
+                    "description": "Reduces dependence on grid electricity."
+                },
+                {
+                    "title": "Sustainable Power Solution",
+                    "description": "Supports clean and efficient energy usage."
+                }
+            ],
+            "assets": [
+                {
+                    "type": "image",
+                    "path": "https://res.cloudinary.com/dstmt1w5p/image/upload/v1767022456/hydralite/energy-storage-system/Energy_Storage_System/energy-storage-system.png"
+                }
+            ]
+        }
+    ]
+}

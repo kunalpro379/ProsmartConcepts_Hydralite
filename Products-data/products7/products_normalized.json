@@ -1,0 +1,211 @@
+{
+  "products": {
+    "Personal Care": {
+      "category_id": "Erolna6",
+      "subcategories": {
+        "Personal Hygiene & Accessories": {
+          "subcategory_id": "IogaOSs0",
+          "products": [
+            {
+              "product_id": "prod_4in1_travel_dispenser_sureline",
+              "product_name": "4 in 1 Travel Dispenser",
+              "product_title": "Sureline 4 in 1 Travel Dispenser (Portable Travel Container Kit)",
+              "product_description": "The Sureline 4 in 1 Travel Dispenser is a portable travel container kit designed in a water-bottle size form factor that takes little space in your luggage or backpack. It lets you bring 4 kinds of lotions at a time in one compact dispenser. The body includes a visual window so you can see the contents while traveling. It features rotation switching to select between the chambers. The design is described as a unique 4-in-1 system and is reusable. The pack mentions it is TSA compliant for travel convenience. It is designed to be sealed to prevent leaks. The artwork also notes you don’t have to worry about leaks again as a result of air pressure changes, heat, cold, knocks, or bumps.",
+              "product_price": null,
+              "image_urls": [
+                "4-1 travel dispenser.png"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "IogaOSs0",
+              "category": "Personal Care",
+              "subcategory": "Personal Hygiene & Accessories",
+              "specifications": {
+                "design": "Unique 4 in 1 design",
+                "switching": "Rotation switching",
+                "window": "Visual window",
+                "tsa_compliant": "Yes (as printed on artwork)",
+                "reusable": "Yes (as printed on artwork)",
+                "leak_prevention": "Sealed to prevent leaks (as printed on artwork)"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Healthcare Essentials": {
+      "category_id": "HltaaL2",
+      "subcategories": {
+        "Medical Consumables": {
+          "subcategory_id": "dEiusae5",
+          "products": [
+            {
+              "product_id": "prod_duraskin_activaloe_nitrile_gloves",
+              "product_name": "Aloe Vera Coated Nitrile Hand Gloves",
+              "product_title": "DURASKIN ACTIValoe Moisturising Aloe Vera Coated Nitrile Hand Gloves (Powder Free)",
+              "product_description": "DURASKIN ACTIValoe nitrile hand gloves are described as moisturising gloves with an aloe vera coating. The artwork lists them as powder free and highlights “Aloe Coating” along with “100% Synthetic Nitrile Latex.” These are presented as nitrile examination gloves and are shown as non-sterile and chlorinated on the spec panel. The pack highlights that they contain no natural rubber proteins. The design notes ambidextrous use with finger textured grip and a beaded cuff. A storage note on the image says the gloves should maintain their properties when stored in a dry condition and to avoid direct sunlight. The shelf life shown is 3 years from the date of manufacturing. The artwork also shows multiple colour options listed as cornflower blue and rose pink.",
+              "product_price": null,
+              "image_urls": [
+                "Aloe vera gloves.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "dEiusae5",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Consumables",
+              "specifications": {
+                "type": "Nitrile Examination Glove",
+                "powder_free": "Yes",
+                "coating": "Aloe coating (Aloe Vera coated)",
+                "material": "100% synthetic Nitrile latex",
+                "sterility": "Non-sterile",
+                "processing": "Chlorinated",
+                "design_features": "Ambidextrous, finger textured, beaded cuff",
+                "colour_options": "Cornflower Blue, Rose Pink",
+                "storage": "Store dry; avoid direct sunlight",
+                "shelf_life": "3 years from date of manufacturing"
+              }
+            }
+          ]
+        },
+        "Medical Tools & Equipment": {
+          "subcategory_id": "upqTiim0",
+          "products": [
+            {
+              "product_id": "prod_3in1_ampoule_cutter",
+              "product_name": "3 in 1 Ampoule Cutter",
+              "product_title": "3 in 1 Ampoule Cutter (Replaceable Grinding Wheel, Glass Bottle Cutter, Ampoule Breaker)",
+              "product_description": "This 3 in 1 ampoule cutter is presented as a multi-functional ampoule cutter. The headline states it is an ampoule cutter with a replaceable grinding wheel, a glass bottle cutter, and an ampoule breaker. The image includes a “How to open ampoules” guide that shows cutting the neck of the ampoule with a grinding wheel. It then shows selecting an appropriate hole according to the size of the ampoule and gently breaking the bottle mouth. The tool is also shown for opening a capped glass bottle by placing the cap on the bottle opening of the device and gently prying it. Another panel shows “Syringe with needle” and indicates using the top of the nursing device to separate the injection needle. A callout names a syringe needle breaker function and indicates inserting the needle and twisting it up and down. The design highlights four holes of different sizes to break different sized ampoules.",
+              "product_price": null,
+              "image_urls": [
+                "Ampoule cutter1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "functions": "Ampoule cutter with replaceable grinding wheel, glass bottle cutter, ampoule breaker",
+                "ampoule_opening_steps": "Cut neck with grinding wheel; select appropriate hole; gently break bottle mouth (as shown on image)",
+                "additional_use": "Open capped glass bottle (as shown on image)",
+                "needle_feature": "Syringe needle breaker / syringe separation port (as shown on image)",
+                "holes": "Four holes of different sizes"
+              }
+            },
+            {
+              "product_id": "prod_sureline_pedia_nebuliser_mini_handheld",
+              "product_name": "Pedia Nebuliser (Mini Nebulizer)",
+              "product_title": "Sureline Pedia Nebuliser – Mini Hand Held Nebulizer (5V2A DC Motor)",
+              "product_description": "The Sureline Pedia Nebuliser is shown as a mini nebulizer with a 5V2A DC motor. The artwork states “3.5 micro‑m atomising” and describes it as portable and easy to carry. It also highlights “Less than 50 dB sound” for low-noise operation. The spec panel on the image lists a 3.5 µm atomizer particles size. It also lists an atomizer rate of ≥0.2 mL/min. The image shows “≤8 ml less residue” as a feature callout. A noise rating of ≤50 dB(A) is shown in the icons. The product size is printed as “MINI Size 128×90×130mm.” The poster also shows a nebulizer accessories panel with standard accessories and optional accessories, as depicted in the image.",
+              "product_price": null,
+              "image_urls": [
+                "Animal Pedia Nebuliser.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "type": "Hand held nebulizer / Mini nebulizer",
+                "motor": "DC motor",
+                "input": "5V2A",
+                "particle_size": "3.5 µm",
+                "atomizer_rate": "≥0.2 mL/min",
+                "residue": "≤8 ml (less residue)",
+                "noise": "≤50 dB(A)",
+                "mini_size": "128×90×130 mm",
+                "accessories": "Standard accessories and optional accessories (as depicted on artwork)"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Kids & Crafts": {
+      "category_id": "TFcark9",
+      "subcategories": {
+        "Games & Creative Supplies": {
+          "subcategory_id": "MieCPVS0",
+          "products": [
+            {
+              "product_id": "prod_infant_care_baby_mat_18x18",
+              "product_name": "Infant Care Mats (Baby Mat)",
+              "product_title": "Baby Mat – Infant Care Mats (Water‑Proof, Breathable, Multi‑Layer, Anti‑Slip Dots) – Standard Size 18×18",
+              "product_description": "This Baby Mat is presented as “Infant care Mats” under the title “BABY MAT.” The feature header lists “WATER‑PROOF,” “BREATHABLE,” “MULTI‑LAYER,” and “ANTI‑SLIP DOTS.” The artwork prints the standard size as 18 × 18. A diagram shows a layered construction and labels the top as “Surface combed yarn” described as soft and skin-friendly. The next layer is “Combed cotton yarn” with the note “Absorb water.” Another layer is labeled “Plant fiber absorbent” with notes that it absorbs a lot of water and does not reinfiltrate. A “Waterproof layer” is shown with the note “Waterproof,” followed by a “Knited jersey” layer marked breathable. The diagram also calls out “Anti-slip dots” for anti-slip performance. A “Multiple Functions” panel on the image mentions reusability, long life, and that it is washable and remains effective after multiple washes, as printed on the artwork.",
+              "product_price": null,
+              "image_urls": [
+                "Baby Mats 2-1.jpg"
+              ],
+              "category_id": "TFcark9",
+              "subcategory_id": "MieCPVS0",
+              "category": "Kids & Crafts",
+              "subcategory": "Games & Creative Supplies",
+              "specifications": {
+                "standard_size": "18 × 18",
+                "key_features": "Water-proof, breathable, multi-layer, anti-slip dots",
+                "layers": "Surface combed yarn; Combed cotton yarn; Plant fiber absorbent; Waterproof layer; Knited jersey; Anti-slip dots (as shown on artwork)",
+                "washability": "Washable; remains effective after multiple washes (as printed on artwork)",
+                "reusable": "Reusable & long life (as printed on artwork)"
+              }
+            },
+            {
+              "product_id": "prod_kids_double_side_play_mat_6x4",
+              "product_name": "Kids Double Side Play Mat (6 Feet × 4 Feet)",
+              "product_title": "Kids Double Side Play Mat – 6 FEET × 4 FEET (Baby Play Mat – 6 Feet Size) with Carry Bag",
+              "product_description": "This product is labeled as a “Kids double side Play Mat (6 FEET X 4 FEET).” The right-side panel also calls it “BABY PLAY MAT – 6 FEET SIZE.” The feature list on the artwork includes “SOFT & FLEXIBLE” and “WATERPROOF.” It also states “AS PER INTERNATIONAL STANDARDS” on the poster. The design highlights “ALPHABETS & NUMBERS” as a learning theme shown on the mat. A “Free Environmental Friendly Carry Bag” is shown in the artwork along with a picture of the bag. The visuals show the mat rolled and laid out, indicating portability and storage. The imagery focuses on use by kids in a home setting and emphasizes the large play area size printed on the poster.",
+              "product_price": null,
+              "image_urls": [
+                "BABY MATS 6 FT.jpg"
+              ],
+              "category_id": "TFcark9",
+              "subcategory_id": "MieCPVS0",
+              "category": "Kids & Crafts",
+              "subcategory": "Games & Creative Supplies",
+              "specifications": {
+                "size": "6 FEET × 4 FEET",
+                "type": "Kids double side play mat / Baby play mat",
+                "features": "Soft & flexible; Waterproof; As per international standards (as printed on artwork)",
+                "learning_theme": "Alphabets & Numbers (as shown on artwork)",
+                "carry_bag": "Free Environmental Friendly Carry Bag (as printed on artwork)"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Smart Home": {
+      "category_id": "raoESM4",
+      "subcategories": {
+        "Home Comfort Devices": {
+          "subcategory_id": "RVOeMse0",
+          "products": [
+            {
+              "product_id": "prod_zerq9_bladeless_portable_fan",
+              "product_name": "Advance Portable Bladeless Fan (ZERQ 9)",
+              "product_title": "ZERQ 9 Advanced Bladeless Aesthetic Fan – Rechargeable Portable Leafless Fan",
+              "product_description": "The artwork presents this as an “Advanced BLADELESS Aesthetic Fan” with the model name “ZERQ 9” and describes it as an advance portable bladeless fan. It is labeled rechargeable and highlights a long usage time of up to 4 hours. The poster lists it as safe, portable, lightweight, and suitable for desktop and handy use. A callout shows 3 gears and indicates “no vanes.” The battery capacity shown is 2000mAh. The icons also mention “Indoor&Outdoor Dual USE,” “Strong Wind 3 Speeds,” and “USB Rechargeable,” and show “UP to 8H Work” in the icon panel. The visuals show multiple color variants and a base, along with a USB line in the package contents panel. The product is also labeled “Portable leafless fan” on the image. A small line on the artwork notes “*DYSON top contender in consumer electronics brand,” as printed on the poster.",
+              "product_price": null,
+              "image_urls": [
+                "BLADELESS FAN.jpg"
+              ],
+              "category_id": "raoESM4",
+              "subcategory_id": "RVOeMse0",
+              "category": "Smart Home",
+              "subcategory": "Home Comfort Devices",
+              "specifications": {
+                "model": "ZERQ 9",
+                "type": "Advance portable bladeless fan / portable leafless fan",
+                "power": "Rechargeable",
+                "usage_time": "Up to 4 hours (as printed on artwork)",
+                "gears": "3 gears",
+                "vanes": "No vanes",
+                "battery": "2000mAh",
+                "charging": "USB rechargeable",
+                "use_case": "Indoor & outdoor dual use (as printed on artwork)",
+                "package_contents": "Package box, fan, base, USB line (as depicted on artwork)"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

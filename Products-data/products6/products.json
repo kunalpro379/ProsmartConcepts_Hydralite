@@ -1,0 +1,152 @@
+{
+  "products": {
+    "Healthcare Essentials": {
+      "category_id": "cat_healthcare_essentials",
+      "subcategories": {
+        "Dental Care": {
+          "subcategory_id": "subcat_dental_care",
+          "products": [
+            {
+              "product_id": "prod_dental_kit_5_pcs",
+              "product_name": "Dental Kit (5 pcs)",
+              "product_title": "Dental Kit (5 pcs) with Pouch",
+              "product_description": "This dental kit is designed as a compact oral-care instrument set that comes packed in a zip pouch. The kit contains 5 dental instruments as indicated on the image. Included items are 3 dental probes, one dental tweezer, and one mouth mirror for oral care. The pouch-style case supports organized storage and easy portability for clinics, camps, or travel use. Each instrument has a slim metal form factor suitable for detailed handling during basic oral examination and cleaning support. The set is shown with branding areas for both outer pouch branding and internal flap branding. Specifications: 5-piece dental instrument kit; contents—3 probes, 1 tweezer, 1 mouth mirror; supplied with zip pouch/case. Specifications: image-based included items only; product_price is intentionally not provided in this listing.",
+              "product_price": null,
+              "image_urls": [
+                "Dental Kit 5 pcs.jpg"
+              ],
+              "category_id": "cat_healthcare_essentials",
+              "subcategory_id": "subcat_dental_care",
+              "category": "Healthcare Essentials",
+              "subcategory": "Dental Care"
+            }
+          ]
+        },
+        "Dermatology Kits": {
+          "subcategory_id": "subcat_dermatology_kits",
+          "products": [
+            {
+              "product_id": "prod_derma_custom_kit",
+              "product_name": "Derma Kit (Custom Kit)",
+              "product_title": "Derma Custom Kit (Magnifier, Marker Pen, Razor, Scissors, Forceps)",
+              "product_description": "This derma kit is presented as a boxed custom kit for dermatology or clinical use. The image lists the kit components: magnifier, skin marker pen, surgical razor, scissors, and skin forceps. The set is shown packed inside a box with protective foam for neat placement and transport. It is suitable as an organized essentials kit where multiple small tools are kept together in one package. The contents list is clearly printed on the image, making it easy to communicate what’s included. The kit format supports gifting, onboarding kits, or clinic procurement where standard items are bundled. The outer packaging is shown along with the instrument layout inside the box. Specifications: boxed derma kit; contents—magnifier, skin marker pen, surgical razor, scissors, skin forceps; foam insert packaging. Specifications: exact brands/models are not specified on the image; product_price is intentionally kept null.",
+              "product_price": null,
+              "image_urls": [
+                "DERMA CUSTOM KIT.png"
+              ],
+              "category_id": "cat_healthcare_essentials",
+              "subcategory_id": "subcat_dermatology_kits",
+              "category": "Healthcare Essentials",
+              "subcategory": "Dermatology Kits"
+            },
+            {
+              "product_id": "prod_dermatologist_daily_essentials_kit",
+              "product_name": "Dermatologist Daily Essentials Kit",
+              "product_title": "Dermatologist Daily Essentials Kit (Fan Brush, Headband, Eye Mask, Glass Bowl)",
+              "product_description": "This product is shown as a “Dermatologist Daily Essentials Kit” featuring multiple supporting items for skin-peel and procedure prep. The image displays a fan brush for skin peels, a disposable headband for procedures by dermats, and an eye protection mask. It also shows a glass bowl intended for peel application. The kit is arranged as a visual bundle with each item pictured and labeled on the artwork. This type of set helps keep commonly used accessories together for routine dermatology workflows. The headband and eye mask support comfort and protection during procedures. The glass bowl provides a clean container for mixing or holding peel solutions as indicated. Specifications: kit contents—fan brush, disposable headband, eye protection mask, glass bowl; intended use—skin peels / dermatology procedures (as printed). Specifications: pricing printed on the artwork is not used here; product_price remains null.",
+              "product_price": null,
+              "image_urls": [
+                "Derma Kit.jpg"
+              ],
+              "category_id": "cat_healthcare_essentials",
+              "subcategory_id": "subcat_dermatology_kits",
+              "category": "Healthcare Essentials",
+              "subcategory": "Dermatology Kits"
+            }
+          ]
+        },
+        "Doctor Accessories": {
+          "subcategory_id": "subcat_doctor_accessories",
+          "products": [
+            {
+              "product_id": "prod_doctor_gp_kit",
+              "product_name": "Doctor GP Kit",
+              "product_title": "Doctor GP Kit (Instrument Set in Tray)",
+              "product_description": "This doctor GP kit is shown as a compact instrument set arranged in a fitted tray. The image displays multiple medical tools including a stainless-steel kidney tray (emesis basin) at the top. It also shows black plastic forceps/tweezers along with several metal instruments laid out below. A reflex hammer with a triangular rubber head is visible among the tools. Additional items shown include a metal scissor, a metal tweezer/forceps-style tool, and a round mirror-like instrument at the bottom right. The kit is packed in foam inside a box for protection and presentation. It is suitable as a starter or utility kit where key examination/support instruments are bundled together. Specifications: boxed GP kit; includes kidney tray plus assorted instruments as shown (forceps/tweezers, reflex hammer, scissors, metal tools, mirror-like instrument); foam packaging. Specifications: exact tool names/models beyond what is visually clear are not assumed; product_price is null.",
+              "product_price": null,
+              "image_urls": [
+                "doctor GP  kit.jpg"
+              ],
+              "category_id": "cat_healthcare_essentials",
+              "subcategory_id": "subcat_doctor_accessories",
+              "category": "Healthcare Essentials",
+              "subcategory": "Doctor Accessories"
+            }
+          ]
+        }
+      }
+    },
+    "Personal Care": {
+      "category_id": "cat_personal_care",
+      "subcategories": {
+        "Medical Apparel": {
+          "subcategory_id": "subcat_medical_apparel",
+          "products": [
+            {
+              "product_id": "prod_protekt_antimicrobial_scrub_suit",
+              "product_name": "Anti-Microbial Doctor Scrub Suit (Protekt)",
+              "product_title": "Protekt Smart Wear for Doctors – Anti-Microbial Scrub Suits",
+              "product_description": "This product is presented as “PROTEKT Smart Wear for Doctors” featuring anti-microbial doctor scrub suits. The artwork highlights anti-bacterial, anti-viral, and anti-microbial claims as printed on the image. It also states “PVE specially treated soft & smooth fabric,” indicating a fabric treatment and comfort focus. The design is suitable for hospitals, clinics, and healthcare staff uniforms where professional appearance and easy daily wear are important. The visual shows multiple scrub color options on healthcare models, supporting team uniforming. The brochure-style image suggests the product is intended for regular duty wear in medical environments. The overall positioning is smart medical apparel with hygiene-focused messaging. Specifications: product type—doctor scrub suit; features/claims—anti-bacterial, anti-viral, anti-microbial (as printed); fabric—PVE specially treated soft & smooth (as printed). Specifications: sizes, GSM, and composition details are not shown on the image; product_price remains null.",
+              "product_price": null,
+              "image_urls": [
+                "Dotors Anti microbial scrub suit.png"
+              ],
+              "category_id": "cat_personal_care",
+              "subcategory_id": "subcat_medical_apparel",
+              "category": "Personal Care",
+              "subcategory": "Medical Apparel"
+            }
+          ]
+        }
+      }
+    },
+    "Smart Home": {
+      "category_id": "cat_smart_home",
+      "subcategories": {
+        "Kitchen & Dining": {
+          "subcategory_id": "subcat_kitchen_dining",
+          "products": [
+            {
+              "product_id": "prod_dual_layer_insulated_borosilicate_cups",
+              "product_name": "Dual Layer Insulated Borosilicate Coffee & Tea Cups",
+              "product_title": "Dual Layer Insulated Borosilicate Coffee & Tea Cups (Double-Walled Glass Cup)",
+              "product_description": "These are dual-layer insulated borosilicate coffee and tea cups shown as double-walled glass cups. The artwork notes that a logo/message can be printed on the inner layer for a “surreal effect,” making them suitable for branding and gifting. The image also indicates that hot or cold beverages are supported. A feature callout highlights “microwave safe,” and the double-wall design is positioned for temperature comfort and longer hot/cold retention as shown. Multiple cup styles are depicted, including coffee cups, latte cups, cappuccino cups, tea mugs, and coffee mugs. The pictures show clear, modern glassware with a floating-beverage look due to the insulated inner wall. This product is suited for office gifting, hospitality, and premium drinkware sets where presentation matters. Specifications: material—borosilicate glass (as printed); construction—double-walled/dual layer; use—coffee/tea and hot/cold beverages; feature—microwave safe (as printed); branding—logo/message printable on inner layer (as printed). Specifications: capacity and pack size are not provided on the image; product_price is null.",
+              "product_price": null,
+              "image_urls": [
+                "Dual layer CuPs.jpg"
+              ],
+              "category_id": "cat_smart_home",
+              "subcategory_id": "subcat_kitchen_dining",
+              "category": "Smart Home",
+              "subcategory": "Kitchen & Dining"
+            }
+          ]
+        }
+      }
+    },
+    "Kids & Crafts": {
+      "category_id": "cat_kids_crafts",
+      "subcategories": {
+        "Festive Gifts": {
+          "subcategory_id": "subcat_festive_gifts",
+          "products": [
+            {
+              "product_id": "prod_silver_ganesha_laxmi_frame",
+              "product_name": "Silver Ganesha & Laxmi Frame",
+              "product_title": "Silver Ganesha & Laxmi Frame (Silver Purity 999) with Stand & Custom Box",
+              "product_description": "This is a “Silver Ganesha & Laxmi Frame” shown as a framed silver devotional artwork. The image states “Silver Purity: 999” and mentions that a certificate is enclosed for the full batch. It also notes a velvet back side with metal and a high-quality stand, indicating a display-ready product. The visuals show the front of the wooden-look frame with the silver artwork inset, and the back side with the stand mechanism. The artwork also mentions a customised box and 4C printing, suggesting gift packaging and branding support. This product is positioned well for festive gifting, corporate gifting, and devotional decor. The frame format makes it suitable for desk, shelf, or home temple placement as a display item. Specifications: product type—silver frame; purity—999 (as printed); packaging—customised box with 4C printing (as printed); back—velvet with metal; includes stand (as printed). Specifications: frame size and exact weight are not shown on the image; product_price is intentionally null.",
+              "product_price": null,
+              "image_urls": [
+                "DIWALI SILVER FRAME.jpg"
+              ],
+              "category_id": "cat_kids_crafts",
+              "subcategory_id": "subcat_festive_gifts",
+              "category": "Kids & Crafts",
+              "subcategory": "Festive Gifts"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

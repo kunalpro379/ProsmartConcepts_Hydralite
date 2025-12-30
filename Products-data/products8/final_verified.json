@@ -1,0 +1,1330 @@
+{
+  "products": {
+    "Gadgets & Accessories": {
+      "category_id": "isSseE1",
+      "subcategories": {
+        "Utility & Multi-Tools": {
+          "subcategory_id": "ytutILu9",
+          "products": [
+            {
+              "product_id": "yvp3xiE7Q5",
+              "product_name": "MG20167E Handheld Magnifier with Viewing Cup",
+              "product_title": "8X Hand Magnifier with 37mm Lens & LED",
+              "product_description": "The MG20167E is a compact handheld magnifier built for curious kids and casual inspection tasks. It offers 8X magnification with a clear 37mm lens that brings small details into sharp focus. A transparent viewing cup below the lens lets users trap and observe specimens comfortably. The unit includes 9 small LEDs around the lens to brighten the viewing area for indoor or low-light conditions. Powered by 3 AAA batteries, it is lightweight and easy to carry on nature walks or classroom activities. The ergonomic handle is shaped for a secure grip during extended use. Durable plastic construction resists everyday bumps and drops while remaining affordable. This magnifier is ideal for beginner naturalists, hobbyists, and educational kits.",
+              "product_price": 6.99,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173252/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/yvp3xiE7Q5/yvp3xiE7Q5_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "8X",
+                "Lens Diameter": "37MM",
+                "Focal Length": "62.5MM",
+                "Carton Size": "58X40X43.5CM",
+                "QTY/CTN": "100PCS",
+                "G.W./N.W.": "13.5 / 12KGS",
+                "Single Product Weight": "122G",
+                "Battery": "3AAA",
+                "Light": "9 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "c3pEtv5xU8",
+              "product_name": "MG 6H-5 Large Handheld Magnifier",
+              "product_title": "5X/12X Hand Magnifier with Dual Lens & LEDs",
+              "product_description": "The MG 6H-5 is a versatile handheld magnifier combining a large viewing lens with a small inset lens for close detail. Users get both 5X and 12X options in a single, easy-to-hold device that reduces the need to switch tools. The handle-mounted power button controls LED lighting for clearer viewing in dim environments. Lightweight construction and three AAA battery operation make it ideal for portable use. The magnifier is suitable for reading small print, examining stamps and coins, or classroom demonstrations. A simple, dependable design keeps maintenance minimal and operation straightforward. The optical quality emphasizes clarity while keeping distortion low across the field. This model balances magnification range and portability for everyday inspection tasks.",
+              "product_price": 7.99,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173253/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/c3pEtv5xU8/c3pEtv5xU8_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "5X / 12X",
+                "Lens Diameter": "75 / 19MM",
+                "Focal Length": "100 / 44MM",
+                "Carton Size": "64.5X39X43CM",
+                "QTY/CTN": "160PCS",
+                "G.W./N.W.": "23 / 21KGS",
+                "Single Product Weight": "109G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "ed55aS6nxG",
+              "product_name": "FS90RC Folding Hand Magnifier",
+              "product_title": "3.5X/10X Foldable Magnifier with Dust Cover and LEDs",
+              "product_description": "The FS90RC is a foldable magnifier designed for travelers and field use. Its hinged body protects the lens when not in use and includes a dust cover for added protection. The magnifier offers dual magnification levels so users can choose between overview and detail work without swapping tools. Built-in LEDs provide bright, directed illumination for evening or low-light inspections. The unit accepts three AAA batteries and can be powered via USB on some variants for extended use. The ergonomic handle and fold-flat design make it simple to store in a bag or glovebox. Optical clarity and durable casing suit hobbyists, librarians, and mobile professionals. Overall, FS90RC prioritizes portability and protective features while maintaining useful magnification.",
+              "product_price": 8.5,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173255/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/ed55aS6nxG/ed55aS6nxG_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "3.5X / 10X",
+                "Lens Diameter": "90MM / 20MM",
+                "Focal Length": "142 / 45MM",
+                "Carton Size": "49X43X53CM",
+                "QTY/CTN": "80PCS",
+                "G.W./N.W.": "22 / 20KGS",
+                "Single Product Weight": "255G",
+                "Battery": "3AAA",
+                "Light": "8 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "6PaK6q8ezu",
+              "product_name": "NO.10863 Handheld Magnifier",
+              "product_title": "2X Handheld Magnifier with 108x63mm Lens & LEDs",
+              "product_description": "The NO.10863 is a simple, ergonomic handheld magnifier designed for reading and inspection tasks. Its large rectangular 108x63mm lens provides a broad viewing area while maintaining consistent clarity across the field. Integrated LEDs illuminate the working area to reduce eye strain in low light. The comfortable handle and balanced weight make it easy to hold for extended sessions. It is powered by three AAA batteries for convenient, portable use. A compact dust-resistant design keeps the optics protected between uses. With its dependable LED lighting and ample lens area, this magnifier suits hobbyists, seniors, and light professional tasks. Durable construction ensures reliable daily use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173256/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/6PaK6q8ezu/6PaK6q8ezu_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173277/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/6PaK6q8ezu/6PaK6q8ezu_img2.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173279/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/6PaK6q8ezu/6PaK6q8ezu_img3.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "2X",
+                "Lens Diameter": "108X63MM",
+                "Focal Length": "250MM",
+                "Carton Size": "62.5X32X43CM",
+                "QTY/CTN": "90PCS",
+                "G.W./N.W.": "22 / 21KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "230G",
+                "Battery": "3AAA",
+                "Light": "5LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "2iYPvd8e6n",
+              "product_name": "NO.10863-21 Dual Lens Hand Magnifier",
+              "product_title": "2X & 20X Hand Magnifier with 108x63mm and 21mm Lenses",
+              "product_description": "The NO.10863-21 combines a wide-area primary lens with a small high-power auxiliary lens for close detail work. Its dual-lens arrangement lets users switch from overview to fine-detail inspection quickly. Built-in LEDs provide bright, even illumination suitable for reading, electronics work, and crafts. The hand-friendly grip balances the unit for comfortable one-handed operation. Powered by three AAA cells for straightforward field use, it is compact enough for tote or toolbox storage. A protective housing helps keep the optics clear when not in use. This model is useful for jewelry inspection, stamp and coin collectors, and small repairs that demand both context and detail. Construction focuses on ergonomic handling and consistent optical performance.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173280/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/2iYPvd8e6n/2iYPvd8e6n_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "2X / 20X",
+                "Lens Diameter": "108X63MM / 21MM",
+                "Focal Length": "250 / 22MM",
+                "Carton Size": "56X42X44.5CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "18 / 16.5KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "275G",
+                "Battery": "3AAA",
+                "Light": "2 COB Light Source"
+              }
+            },
+            {
+              "product_id": "GR9uzers30",
+              "product_name": "NO.77750 Hand Magnifier",
+              "product_title": "7X Handheld Magnifier with 50mm Lens & LEDs",
+              "product_description": "The NO.77750 is a compact handheld magnifier engineered for quick, accurate close-up inspection. Its 50mm lens delivers 7X magnification for reading small print, examining stamps, and hobby detail work. Built-in dual LEDs provide focused, shadow-reduced illumination for darker environments. The slim ergonomic handle keeps the unit balanced and comfortable for repeated use. Lightweight construction makes it ideal for mobile tasks where portability matters. The device runs on small button cells for long service life and easy replacement. Durable lens housing protects optics during everyday handling and storage. Its simple on/off operation keeps usage straightforward for all ages.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173282/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/GR9uzers30/GR9uzers30_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "7X",
+                "Lens Diameter": "50MM",
+                "Focal Length": "71.4MM",
+                "Carton Size": "61X40X49CM",
+                "QTY/CTN": "180PCS",
+                "G.W./N.W.": "14 / 13.5KGS",
+                "Single Product Weight": "75G",
+                "Battery": "3LR44",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "8sTqn0jB2v",
+              "product_name": "NO.77737 Pocket Magnifier",
+              "product_title": "11X Pocket Magnifier with 37mm Lens & LEDs",
+              "product_description": "The NO.77737 is a high-power pocket magnifier designed for precision tasks requiring strong magnification. With an 11X lens and small footprint, it is excellent for jewelry inspection, watch work, and detailed model assembly. Integrated LEDs ensure the inspection area is well lit for accurate observation. The lightweight build and protective shell make it convenient to carry in a pocket or kit without risk of damage. Simple operation and a tactile power switch let users focus on results quickly. The optics preserve clarity while maximizing close working distance for very small items. This loupe is ideal for professionals and serious hobbyists needing portable magnification. Its compact form factor ensures minimal storage space is required.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173283/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/8sTqn0jB2v/8sTqn0jB2v_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "11X",
+                "Lens Diameter": "37MM",
+                "Focal Length": "45.5MM",
+                "Carton Size": "73X40X33.5CM",
+                "QTY/CTN": "200PCS",
+                "G.W./N.W.": "14 / 12KGS",
+                "Single Product Weight": "60G",
+                "Battery": "3LR44",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "Egl1bxK0e2",
+              "product_name": "NO.RE3690 Multi-lens Loupe",
+              "product_title": "30X / 60X / 90X Pocket Loupe with LEDs & UV",
+              "product_description": "The NO.RE3690 is a compact multi-lens loupe offering three high-power magnifications for fine inspection. Its small lenses bring extreme detail into view for tasks like gem inspection and micro-surface analysis. The unit includes LED illumination and a UV diode for fluorescence checks when required. An integrated protective shell and wrist strap make it convenient and secure to use in the field. It runs on a replaceable button battery sized for long-lasting, on-demand light. The slim profile and light weight allow easy storage in a pocket or toolkit. Designed for quick interchange between powers, it helps technicians switch magnification without extra tools. Ergonomic placement of the switch gives simple, reliable control over lighting modes.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173284/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/Egl1bxK0e2/Egl1bxK0e2_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "30X / 60X / 90X",
+                "Lens Diameter": "25MM / 10MM / 8MM",
+                "Focal Length": "25 / 12 / 8MM",
+                "Carton Size": "34X30.5X37CM",
+                "QTY/CTN": "240PCS",
+                "G.W./N.W.": "15 / 13.5KGS",
+                "QTY/INNER BOX": "12PCS",
+                "Single Product Weight": "56G",
+                "Battery": "3LR1130",
+                "Light": "2 LED Ø3MM + 1 UV Ø3MM"
+              }
+            },
+            {
+              "product_id": "Kj39pF2yxl",
+              "product_name": "NO.OS-100W Pocket Microscope",
+              "product_title": "60X–100X Clip Loupe with LED/UV",
+              "product_description": "The NO.OS-100W is a compact clip-style microscope that offers high magnification in a pocket-sized form. With powers from 60X to 100X it reveals microscopic detail for inspection and hobby use. Onboard LED and UV lighting provide options for contrast and fluorescence observation. A clip attachment makes it easy to secure the unit to samples or straps during quick checks. The device runs on small replaceable batteries designed for lightweight operation. Its small size and low weight make it suitable for mobile testing or quick field checks. The built-in controls are simple to operate even when wearing gloves. Robust engineering ensures stable optical performance despite the miniature form.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173286/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/Kj39pF2yxl/Kj39pF2yxl_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "60X - 100X",
+                "Carton Size": "55X34.5X43.5CM",
+                "QTY/CTN": "100PCS",
+                "G.W./N.W.": "17 / 16KGS",
+                "Single Product Weight": "75G",
+                "Battery": "3AG13",
+                "Light": "1 LED Ø3MM + 1 UV Ø3MM"
+              }
+            },
+            {
+              "product_id": "7Rdm0yt2qZ",
+              "product_name": "NO.95108B Large LED Magnifier",
+              "product_title": "4X Hand Magnifier with 108mm Lens & 18 LEDs",
+              "product_description": "The NO.95108B is a large-area handheld magnifier aimed at users who need a broad viewing field. Its 108mm lens provides 4X magnification for reading, map work, and broad-surface inspection. A surround of 18 LEDs produces even illumination across the lens to reduce glare and shadows. The unit accepts three AAA batteries for straightforward replacement in field environments. Its robust ergonomics and balanced weight help steady the hand during prolonged viewing. Protective lens mounting reduces the risk of scratches during storage. This magnifier serves seniors, craftspeople, and anyone who benefits from both magnification and a large working area. Easy controls keep operation intuitive for immediate use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173287/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7Rdm0yt2qZ/7Rdm0yt2qZ_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "4X",
+                "Lens Diameter": "108MM",
+                "Focal Length": "125MM",
+                "Carton Size": "55X43X32CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "16 / 14.5KGS",
+                "Single Product Weight": "360G",
+                "Battery": "3AAA",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "vnsT4vWg58",
+              "product_name": "NO.95108A Dual-Lens Magnifier",
+              "product_title": "2X/6X Magnifier with 108mm Main Lens & Auxiliary Lens",
+              "product_description": "The NO.95108A combines a large main lens with a small auxiliary lens to offer flexible viewing options in one tool. Users can switch between the 2X overview lens and the 6X detail lens for different inspection needs. A ring of 18 LEDs provides uniform light across the working area for comfortable viewing. The ergonomically shaped handle keeps the magnifier stable during extended sessions. It is powered by three AAA batteries and designed for quick battery replacement. Protective features and a durable housing extend the life of the optics in everyday use. This two-lens arrangement suits both general reading and closer detail checks without swapping tools. The unit is practical for hobbyists, seniors, and technicians alike.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173289/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/vnsT4vWg58/vnsT4vWg58_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "2X / 6X",
+                "Lens Diameter": "108MM / 21MM",
+                "Focal Length": "250MM / 83MM",
+                "Carton Size": "55X43X47.5CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "18 / 16.5KGS",
+                "Single Product Weight": "269G",
+                "Battery": "3AAA",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "EsrjT1cm48",
+              "product_name": "NO.95100B Large LED Magnifier",
+              "product_title": "4X Hand Magnifier with 100mm Lens & 18 LEDs",
+              "product_description": "The NO.95100B is a wide-view hand magnifier designed for comfortable, detailed reading and inspection. Its 100mm lens gives 4X magnification across a broad field, reducing the need to reposition often. A powerful 18-LED array keeps the lens area evenly lit for consistent contrast. The device is built with a sturdy housing for long service life and easy cleaning. It uses three AAA batteries for dependable on-the-go operation. A balanced grip helps steady fine tasks such as model work and document review. This magnifier is appropriate for workplace and at-home use where visual assistance is needed. The design emphasizes comfort, clarity, and consistent illumination.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173290/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/EsrjT1cm48/EsrjT1cm48_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "4X",
+                "Lens Diameter": "100MM",
+                "Focal Length": "125MM",
+                "Carton Size": "51X36X43CM",
+                "QTY/CTN": "48PCS",
+                "G.W./N.W.": "22 / 21KGS",
+                "Single Product Weight": "430G",
+                "Battery": "3AAA",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "78OxrbkUj0",
+              "product_name": "NO.95090B Large LED Magnifier",
+              "product_title": "5X Hand Magnifier with 90mm Lens & 18 LEDs",
+              "product_description": "The NO.95090B offers a 5X magnification in a large viewing format, ideal for demanding reading and inspection tasks. Its 90mm lens creates a generous viewing area so users can see more context without moving the glass. The 18-LED ring produces bright, even illumination to reduce eye fatigue. Designed for regular use, the housing and lens mounting are durable and easy to handle. It uses three AAA batteries making it straightforward to keep powered in field or home work. The broad field of view and solid ergonomics suit both hobby and professional needs. A built-in auxiliary lens allows closer inspection without swapping devices in some variants. The product is optimized for reliability and clear optical performance.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173292/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/78OxrbkUj0/78OxrbkUj0_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "5X",
+                "Lens Diameter": "90MM",
+                "Focal Length": "100MM",
+                "Carton Size": "49X44X28CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "17 / 15.5KGS",
+                "Single Product Weight": "386G",
+                "Battery": "3AAA",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "gmP3eFa9t5",
+              "product_name": "NO.95090A Dual-Lens Magnifier",
+              "product_title": "3.5X / 10X Hand Magnifier with 90mm Main Lens",
+              "product_description": "The NO.95090A combines a 90mm main lens with an auxiliary insert to provide both overview and high-detail magnification. Users benefit from a 3.5X general lens and a 10X insert for close work, reducing tool switching. The surrounding LED array ensures even illumination across the working area for accurate inspection. The unit is lightweight and balanced for comfortable handling over long sessions. Power is supplied by three AAA cells for straightforward replacement anywhere. Protective features guard the lenses when stored or transported. This two-lens solution is suitable for crafts, electronics, and reading fine print. It emphasizes flexibility and consistent optical performance.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173293/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/gmP3eFa9t5/gmP3eFa9t5_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "3.5X / 10X",
+                "Lens Diameter": "90MM / 21MM",
+                "Focal Length": "142MM / 50MM",
+                "Carton Size": "49X44X55CM",
+                "QTY/CTN": "80PCS",
+                "G.W./N.W.": "18 / 16.5KGS",
+                "Single Product Weight": "208G",
+                "Battery": "3AAA",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "mdev4pV1J6",
+              "product_name": "NO.95080A Dual-Lens Hand Magnifier",
+              "product_title": "3.5X / 10X Hand Magnifier with 80mm Main Lens",
+              "product_description": "The NO.95080A is a dual-lens handheld magnifier tailored for portability and flexible magnification. It features an 80mm main lens for wide viewing and a smaller 19mm insert for close-detail work. The LED ring provides bright, even illumination while minimizing glare at the edges. Its low weight and compact shape are optimized for field use and easy storage. Three AAA batteries power the light for convenient replacements. The device is targeted at hobbyists, inspectors, and readers who need both overview and detail in one tool. Durable materials protect the optics in daily use. The design balances magnification coverage with practical handling.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173295/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/mdev4pV1J6/mdev4pV1J6_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173297/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/mdev4pV1J6/mdev4pV1J6_img2.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "3.5X / 10X",
+                "Lens Diameter": "80MM / 19MM",
+                "Focal Length": "142MM / 50MM",
+                "Carton Size": "48X44X63.5CM",
+                "QTY/CTN": "100PCS",
+                "G.W./N.W.": "17.5 / 16KGS",
+                "Single Product Weight": "159G",
+                "Battery": "3AAA",
+                "Light": "12 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "7fKu5Iay5y",
+              "product_name": "NO.95065A Compact Dual-Lens Magnifier",
+              "product_title": "4.5X / 11X Hand Magnifier with 65mm Main Lens",
+              "product_description": "The NO.95065A is a compact dual-lens magnifier offering both moderate and high magnification in a light frame. The 65mm main lens provides a solid viewing area while the small auxiliary insert reaches up to 11X for fine detail. Twelve LEDs deliver more focused illumination for consistent contrast and clarity. Its compact design and low weight make it suitable for mobile inspection tasks and hobby use. The unit is powered by three AAA batteries for straightforward operation anywhere. Durable construction and a secure lens mount reduce the risk of misalignment over time. This product is aimed at users who want a balance between portability and magnification range. Controls are simple and intended for quick, repeated use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173299/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7fKu5Iay5y/7fKu5Iay5y_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173301/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7fKu5Iay5y/7fKu5Iay5y_img2.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "4.5X / 11X",
+                "Lens Diameter": "65MM / 15MM",
+                "Focal Length": "111MM / 45MM",
+                "Carton Size": "87X46X32.5CM",
+                "QTY/CTN": "120PCS",
+                "G.W./N.W.": "16.5 / 15KGS",
+                "Single Product Weight": "125G",
+                "Battery": "3AAA",
+                "Light": "12 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "g8ern5yDC4",
+              "product_name": "NO.92530 Pocket Loupe",
+              "product_title": "30X Pocket Loupe with 25mm Lens & LEDs",
+              "product_description": "The NO.92530 is a classic pocket loupe delivering 30X magnification in a compact, protective housing. Its 25mm lens and small form factor make it ideal for gemology, field sampling, and quick inspections on the go. The loupe uses miniature batteries and built-in LEDs to illuminate samples clearly. Lightweight construction and a wrist strap ensure secure handling and storage. The unit is built for frequent field use and is easy to operate with one hand. Lens protection and a fold-over cover safeguard optics during transport. This loupe is suitable for collectors, technicians, and field researchers requiring strong magnification in a pocketable design. The device emphasizes convenience and focused performance.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173303/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/g8ern5yDC4/g8ern5yDC4_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "30X",
+                "Lens Diameter": "25MM",
+                "Focal Length": "25MM",
+                "Carton Size": "38.5X35.5X28CM",
+                "QTY/CTN": "360PCS",
+                "G.W./N.W.": "13 / 11.5KGS",
+                "QTY/INNER BOX": "12PCS",
+                "Single Product Weight": "31.7G",
+                "Battery": "3LR927",
+                "Light": "2 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "rlhIwlH510",
+              "product_name": "NO.77790 Multi-lens Magnifier Set",
+              "product_title": "3.5X / 5X / 11X Interchangeable Lens Set with Rechargeable Option",
+              "product_description": "The NO.77790 is a modular magnifier set including three interchangeable lenses for flexible inspection needs. Its main 90mm lens offers a broad field while additional 75mm and 37mm inserts deliver medium and high magnifications. The set includes a rechargeable option in some variants and a convenient charging cable for repeated use. LEDs provide bright, even lighting for consistent contrast across magnifications. The kit is thoughtfully packaged with an insert box to keep lenses protected and organized. This configuration is ideal for users who need both overview and detail in a single toolset. Robust construction and repeatable lens alignment support professional and hobby workflows. The set balances portability with useful optical coverage for many inspection tasks.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173304/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/rlhIwlH510/rlhIwlH510_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "3.5X / 5X / 11X",
+                "Lens Diameter": "90MM / 75MM / 37MM",
+                "Focal Length": "142 / 100 / 45.5MM",
+                "Carton Size": "51X39X49CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "19 / 17KGS",
+                "Single Product Weight": "290G",
+                "Battery": "Rechargeable model: 751635 or 3LR44 for battery variants",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "7CqdD36txh",
+              "product_name": "NO.77790+75+37DC Rechargeable Magnifier Set",
+              "product_title": "3.5X / 5X / 11X Interchangeable Lens Set - Rechargeable (DC)",
+              "product_description": "This rechargeable NO.77790 set includes three interchangeable lenses (90mm, 75mm, 37mm) to cover overview and close-detail tasks. The main 90mm lens gives a broad field for reading and layout work while the smaller 75mm and 37mm inserts handle medium and high magnification needs. A rechargeable battery pack (model 751635 in some variants) and included USB/charging cable eliminate single-use cells for frequent users. The housing is designed for quick lens swaps and repeatable alignment so users can switch powers without tools. Integrated LEDs deliver clear, even lighting across the viewing area to reduce shadows during inspection. Durable molded plastics and secure lens mounts protect optics in transport and storage. This kit is suitable for hobbyists, jewelers, and technicians who want a single, flexible toolset with rechargeable convenience. Careful balance between portability and optical coverage makes it useful both on the bench and in the field.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173306/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7CqdD36txh/7CqdD36txh_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173308/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7CqdD36txh/7CqdD36txh_img2.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173310/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7CqdD36txh/7CqdD36txh_img3.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173311/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/7CqdD36txh/7CqdD36txh_img4.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "3.5X / 5X / 11X",
+                "Lens Diameter": "90MM / 75MM / 37MM",
+                "Focal Length": "142 / 100 / 45.5MM",
+                "Carton Size": "51X39X49CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "19 / 17KGS",
+                "Single Product Weight": "290G",
+                "Battery": "Rechargeable model: 751635",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "th26uxz8LP",
+              "product_name": "NO.95100A Dual-Lens LED Magnifier",
+              "product_title": "2X / 6X Hand Magnifier with 108mm Main Lens & 21mm Insert",
+              "product_description": "The NO.95100A is a dual-lens handheld magnifier featuring a wide 108mm primary lens for comfortable reading and a 21mm auxiliary lens for closer detail. Users can switch from a 2X overview to a 6X insert without changing tools, making it versatile for reading, crafts, and inspection work. An 18-LED ring around the main lens provides even illumination that reduces glare and shadows across the working field. The ergonomically contoured handle helps steady the unit for prolonged use and minimizes hand fatigue. Robust housing keeps optics aligned and protected when stored or transported. The unit runs on three AAA batteries for convenient replacement when needed. This model is aimed at seniors, hobbyists, and technicians who value a large viewing area combined with a small high-power insert. Protective mounting and easy-to-access controls make it practical for everyday use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173312/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/th26uxz8LP/th26uxz8LP_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "2X / 6X",
+                "Lens Diameter": "108MM / 21MM",
+                "Focal Length": "250MM / 83MM",
+                "Carton Size": "55X43X47.5CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "18 / 16.5KGS",
+                "Single Product Weight": "269G",
+                "Battery": "3AAA",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "6HiV9wq9ei",
+              "product_name": "NO.9596 Multi-power Loupe Kit",
+              "product_title": "Modular Loupe with 12X/15X/19X/22X/27X Inserts",
+              "product_description": "The NO.9596 is a small modular loupe system offering multiple high-power inserts for flexible inspection. Its set covers 12X through 27X magnifications to suit a wide range of fine-detail tasks. The compact case stores inserts safely and allows quick swaps between powers. Built-in LED illumination and a UV option extend its utility for gem, textile and forensic checks. Lightweight construction and a belt-clip friendly design make it ideal for fieldwork. The loupe is powered by LR1130 cells for simple maintenance. Optical elements are configured to keep contrast high at strong magnifications. This kit is targeted at professionals and serious hobbyists who need a compact multi-power solution.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173313/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/6HiV9wq9ei/6HiV9wq9ei_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "12X / 15X / 19X / 22X / 27X",
+                "Lens Diameter": "15MM",
+                "Carton Size": "48X40X46CM",
+                "QTY/CTN": "240PCS",
+                "G.W./N.W.": "17 / 16KGS",
+                "QTY/INNER BOX": "12PCS",
+                "Single Product Weight": "68G",
+                "Battery": "3LR1130",
+                "Light": "1LEDØ3MM 1UVØ3MM"
+              }
+            },
+            {
+              "product_id": "Cl5vcw88uD",
+              "product_name": "NO.77775 Hand Magnifier",
+              "product_title": "5X Hand Magnifier with 75mm Lens & LEDs",
+              "product_description": "The NO.77775 is a user-focused handheld magnifier with a large 75mm lens delivering 5X magnification for comfortable reading and inspection. Its ergonomic handle balances the unit for steady one-handed operation and reduces hand fatigue during extended use. The built-in LED ring produces bright, even illumination to improve contrast and visibility in low-light conditions. The durable housing protects the optics during routine handling and storage, while the simple on/off switch keeps operation straightforward. The optical design minimizes distortion across the main viewing area so text and detail remain sharp. Lightweight construction makes it convenient to carry between work areas and tasks. Protective features and easy battery replacement make it suitable for seniors, hobbyists, and professionals who need reliable daily magnification. This model pairs a large viewing area with dependable illumination for reading, crafting and inspection.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173314/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/Cl5vcw88uD/Cl5vcw88uD_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173315/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/Cl5vcw88uD/Cl5vcw88uD_img2.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "5X",
+                "Lens Diameter": "75MM",
+                "Focal Length": "100MM",
+                "Carton Size": "67X40X41CM",
+                "QTY/CTN": "120PCS",
+                "G.W./N.W.": "14 / 13KGS",
+                "Single Product Weight": "105G",
+                "Battery": "3LR44",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "4Rfq5b2Fnz",
+              "product_name": "NO.77775+37 Two-Lens Set",
+              "product_title": "5X / 11X Interchangeable Lens Set (75mm + 37mm)",
+              "product_description": "The NO.77775+37 combines a 75mm main lens and a 37mm auxiliary insert to give both a broad overview (5X) and a high-detail option (11X) in one compact system. Lenses mount securely to preserve alignment when swapping between overview and close-up inspection. Integrated LEDs provide bright, even illumination for both magnification modes, improving contrast and making fine details easier to see. The lightweight handle and simple insertion mechanism make lens changes quick and repeatable without tools. Protective packaging and easy-to-clean lens surfaces keep optics serviceable through repeated use. This two-lens kit is ideal for hobbyists, jewelers, and technicians who need both context and close inspection without carrying multiple devices. Design emphasis is on portability, consistent lighting, and reliable optical performance.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173316/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/4Rfq5b2Fnz/4Rfq5b2Fnz_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173317/ProsmartProducts/Gadgets___Accessories/Utility___Multi-Tools/4Rfq5b2Fnz/4Rfq5b2Fnz_img2.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "Magnification": "5X / 11X",
+                "Lens Diameter": "75MM / 37MM",
+                "Focal Length": "100MM / 45.5MM",
+                "Carton Size": "69X47X37CM",
+                "QTY/CTN": "120PCS",
+                "G.W./N.W.": "18 / 16KGS",
+                "Single Product Weight": "135G",
+                "Battery": "3LR44",
+                "Light": "2 LED Ø5MM"
+              }
+            }
+          ]
+        },
+        "Office & Desk Gadgets": {
+          "subcategory_id": "IoETfGs2",
+          "products": [
+            {
+              "product_id": "8Qv3nw4Cpu",
+              "product_name": "NO.PW6010BC Desk/Hand Magnifier",
+              "product_title": "10X Hand/Desk Magnifier with 60mm Lens & USB",
+              "product_description": "The NO.PW6010BC is a versatile handheld magnifier suitable for both bench and portable use. Its 60mm lens gives clear 10X magnification for reading and detailed inspection. The unit supports USB to DC3.5 power as well as replaceable cells to accommodate different working environments. A single LED plus a UV diode enhance visibility for surface and fluorescence checks. Compact size and rounded ergonomics make extended handling comfortable. The device is made for hobbyists and professionals who require a stable lens and reliable illumination. Protective construction ensures optics remain clean when stored. It combines convenience with flexible power options for diverse workflows.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173318/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/8Qv3nw4Cpu/8Qv3nw4Cpu_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "10X",
+                "Lens Diameter": "60MM",
+                "Carton Size": "48X43.5X35CM",
+                "QTY/CTN": "80PCS",
+                "G.W./N.W.": "15 / 13.5KGS",
+                "Single Product Weight": "169G",
+                "Battery": "3AG13 or USB to DC3.5",
+                "Light": "1 LED Ø5MM + 1 UV Ø3MM"
+              }
+            },
+            {
+              "product_id": "fe9o7i6ZlS",
+              "product_name": "NO.774-60X Bench Loupe",
+              "product_title": "60X Pocket Microscope with LED/UV",
+              "product_description": "The NO.774-60X is a compact pocket microscope built for handheld micro-inspection. Its 60X optical power and 11mm lens reveal fine surface details on small specimens. The unit includes LED lighting and a UV diode for fluorescence and contrast checks. It runs on small replaceable batteries for reliable field use. The design incorporates a stable base and a user-friendly focus dial for precise observation. Lightweight and rugged, it fits easily in a field kit or pocket. The device is suitable for quick sample checks, hobbyist tasks, and basic lab screening. Protective features help maintain lens integrity between uses.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173319/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/fe9o7i6ZlS/fe9o7i6ZlS_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "60X",
+                "Lens Diameter": "11MM",
+                "Carton Size": "43X39X56CM",
+                "QTY/CTN": "200PCS",
+                "G.W./N.W.": "10 / 9KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "44G",
+                "Battery": "3LR44",
+                "Light": "1LEDØ3MM 1UVØ3MM"
+              }
+            },
+            {
+              "product_id": "twK2Kt69cf",
+              "product_name": "NO.DT120AC Desk Magnifier Lamp",
+              "product_title": "2X / 6X Desk Magnifier with 120mm Main Lens & USB",
+              "product_description": "The NO.DT120AC is a stable desk magnifier designed for bench and hobby use. It features a large 120mm main lens plus a small 23mm auxiliary lens to cover overview and detail tasks. A flexible gooseneck and weighted base allow precise positioning while the included dust cover protects the optics in storage. Power options include 3AAA cells or USB to DC3.5 for convenient bench powering. The unit's three front LEDs give bright, even illumination and two-level brightness control in some variants. Durable construction and serviceable parts suit light industrial and craft environments. Packaging and carton quantities are optimized for wholesale distribution. Overall, the DT120AC balances a wide viewing area with compact, portable bench use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173320/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/twK2Kt69cf/twK2Kt69cf_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173321/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/twK2Kt69cf/twK2Kt69cf_img2.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "2X / 6X",
+                "Lens Diameter": "120MM / 23MM",
+                "Focal Length": "250 / 83MM",
+                "Carton Size": "53X49X22CM",
+                "QTY/CTN": "12PCS",
+                "G.W./N.W.": "16 / 14.5KGS",
+                "Single Product Weight": "1200G",
+                "Battery": "3AAA or USB to DC3.5",
+                "Light": "3 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "42Fh2Jhpjf",
+              "product_name": "NO.DT108C Desk Magnifier Lamp",
+              "product_title": "2.5X / 6X Desk Magnifier with 108mm Main Lens & USB",
+              "product_description": "The NO.DT108C is a foldable desk magnifier tuned for hobbyists and light workshop tasks. It uses a 108mm main lens combined with a small auxiliary lens to supply both broad and close-up viewing. The adjustable arm and stable base provide comfortable, repeatable positioning on the bench. It supports 3AAA batteries or USB power in different variants for flexible operation. The 3-LED illumination helps reduce shadows and improve contrast at the working surface. Built-in dust cover and a compact storage profile make it easy to transport between workstations. The DT108C focuses on convenience and dependable bench illumination for detailed work. Cartonization accommodates small-batch and retail packing.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173322/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/42Fh2Jhpjf/42Fh2Jhpjf_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "2.5X / 6X",
+                "Lens Diameter": "108MM / 23MM",
+                "Focal Length": "200 / 83MM",
+                "Carton Size": "53X49X22CM",
+                "QTY/CTN": "12PCS",
+                "G.W./N.W.": "16 / 14.5KGS",
+                "Single Product Weight": "1200G",
+                "Battery": "3AAA or USB to DC3.5",
+                "Light": "3 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "Xfvz20hj5X",
+              "product_name": "MG16175-138C Bench Magnifier Lamp",
+              "product_title": "138mm Main Lens Desk Magnifier with 48 SMD LED & Clamp",
+              "product_description": "The MG16175-138C is a heavy-duty desk magnifier designed for professional workbenches. It features a large 138mm main lens plus a 75mm secondary lens to cover both wide area and fine detail tasks. A robust articulated arm and stable base support lengthy assembly or inspection sessions without drift. Integrated 48 SMD LEDs provide two brightness levels for comfortable eye relief during long tasks. It accepts external power (24V/500mA) and is optimized for continuous operation in electronics or jewelry work. The unit includes auxiliary clamps and a soldering holder for hands-free positioning. Durable materials and serviceable components make it suitable for repair shops and labs. Overall, the MG16175-138C focuses on stability, illumination, and optical coverage for demanding desktop applications.",
+              "product_price": 159.0,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173323/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/Xfvz20hj5X/Xfvz20hj5X_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173324/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/Xfvz20hj5X/Xfvz20hj5X_img2.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173325/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/Xfvz20hj5X/Xfvz20hj5X_img3.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173326/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/Xfvz20hj5X/Xfvz20hj5X_img4.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "1.5X / 4X",
+                "Lens Diameter": "138MM / 75MM",
+                "Focal Length": "330 / 125MM",
+                "Carton Size": "64X39.5X55CM",
+                "QTY/CTN": "4PCS",
+                "G.W./N.W.": "11 / 10KGS",
+                "Single Product Weight": "2300G",
+                "Battery": "External Power 100-240V",
+                "Light": "48 SMD LED"
+              }
+            },
+            {
+              "product_id": "Y26kKasti7",
+              "product_name": "MG3B-1E Folding Desk Magnifier",
+              "product_title": "Multi-angle Folding Desk Magnifier with 110mm Lens & LEDs",
+              "product_description": "The MG3B-1E is a folding desk magnifier combining portability with a large lens for detailed work. Its folding mechanism lets it collapse for travel or desk storage while offering stable angles during use. The 110mm main lens paired with a secondary lens gives flexible magnification options for both overview and detail. Built-in LEDs enhance visibility and are powered by AAA batteries or USB where supported. The base has a recessed area for small part handling and a clear working zone beneath the lens. This compact lamp is well suited for hobbyists who need both portability and a decent working area. The device emphasizes convenience without sacrificing optical area or lighting. It makes a good compromise between handheld magnifiers and heavier desktop lamps.",
+              "product_price": 42.0,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173327/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/Y26kKasti7/Y26kKasti7_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "2.3X / 6X",
+                "Lens Diameter": "110MM / 21MM",
+                "Focal Length": "230 / 85MM",
+                "Carton Size": "59X37X49CM",
+                "QTY/CTN": "30PCS",
+                "G.W./N.W.": "19 / 17KGS",
+                "Single Product Weight": "568G",
+                "Battery": "3AAA or USB to DC3.5",
+                "Light": "18 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "1ung48WssW",
+              "product_name": "NO.7768-24LC Desk Magnifier",
+              "product_title": "8X Desk Magnifier with 130mm Lens & 24 LEDs (External Power)",
+              "product_description": "The NO.7768-24LC is a dedicated desk magnifier built for continuous bench work and professional tasks. Its 130mm lens provides an 8X working field for detailed assembly and reading. The articulated arm and stable base allow precise positioning and prolonged use without drift. The unit is powered via external input (24V/500mA) for continuous, reliable operation. A full ring of 24 LEDs ensures even, high-contrast illumination across the working area. Dust cover and protective components help preserve optical clarity over time. The robust construction and serviceable components suit labs, repair shops, and demanding hobbyists. Overall, this product emphasizes optical coverage and operational reliability for desktop use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173328/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/1ung48WssW/1ung48WssW_img1.jpg",
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173328/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/1ung48WssW/1ung48WssW_img2.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "8X",
+                "Lens Diameter": "130MM",
+                "Focal Length": "147MM",
+                "Carton Size": "63.5X47X32.5CM",
+                "QTY/CTN": "12PCS",
+                "G.W./N.W.": "18 / 17KGS",
+                "Single Product Weight": "1436G",
+                "External Power": "INPUT:100-240V OUTPUT:24V=500MA",
+                "Light": "24LEDØ3MM"
+              }
+            },
+            {
+              "product_id": "9cvc4nPP1p",
+              "product_name": "NO.7767-21LC Desk Magnifier",
+              "product_title": "10X Desk Magnifier with 120mm Lens & 21 LEDs",
+              "product_description": "The NO.7767-21LC is a desktop magnifier offering a large working lens and strong, even LED illumination. The 120mm lens and 10X specification make it well suited for detailed tasks like soldering and jewelry work. External power input ensures stable light output for continuous operations. Its articulated arm provides repeatable positioning for comfortable long sessions. The integrated LED array reduces shadows and improves visual comfort during precision work. Durable base and dust cover protect optics between uses. This desktop unit is optimized for professional benches and workshops that require sturdy, long-running magnification. The design balances robust illumination with useful optical area.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173329/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/9cvc4nPP1p/9cvc4nPP1p_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "10X",
+                "Lens Diameter": "120MM",
+                "Focal Length": "125MM",
+                "Carton Size": "64X43X32CM",
+                "QTY/CTN": "12PCS",
+                "G.W./N.W.": "17.5 / 16.5KGS",
+                "Single Product Weight": "1387G",
+                "External Power": "INPUT:100-240V OUTPUT:24V=500MA",
+                "Light": "21LEDØ3MM"
+              }
+            },
+            {
+              "product_id": "D7l4f0Cvbj",
+              "product_name": "NO.7766 Folding Desk Magnifier",
+              "product_title": "2X Folding Desk Magnifier with 150mm Lens & LEDs",
+              "product_description": "The NO.7766 is a foldable desk magnifier offering a large 150mm lens and stable support for bench tasks. Its 2X magnification suits general reading and layout inspection while the articulated arm folds for compact storage. Power options include AAA batteries or USB-to-DC3.5 to suit both portable and bench setups. An LED cluster provides focused illumination to improve contrast and reduce eye strain. Robust mechanical joints and a stable base make it suitable for frequent repositioning. The unit is geared toward hobbyists and professionals needing a large, well-lit working area. Protective covers and serviceable components help prolong optical life between sessions. Easy-to-use controls keep the device accessible for a range of users.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173330/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/D7l4f0Cvbj/D7l4f0Cvbj_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "2X",
+                "Lens Diameter": "150MM",
+                "Focal Length": "250MM",
+                "Carton Size": "51X43.5X27.5CM",
+                "QTY/CTN": "8PCS",
+                "G.W./N.W.": "20 / 19KGS",
+                "Single Product Weight": "2400G",
+                "Battery": "3AAA or USB to DC3.5",
+                "Light": "6LEDØ5MM"
+              }
+            },
+            {
+              "product_id": "95zoa9BmhQ",
+              "product_name": "MG3B-1G Large Bench Magnifier Lamp",
+              "product_title": "1.7X/4X Desk Magnifier with 130/26mm Lenses & 24 LEDs",
+              "product_description": "The MG3B-1G is a heavy-duty bench magnifier engineered for prolonged professional work. It features a large 130mm main lens and a 26mm secondary lens to provide both broad viewing and fine-detail magnification. An articulated arm and stable round base support repeatable positioning without drift. The integrated 24 SMD LEDs offer bright, even illumination to reduce eye fatigue during long tasks. Power options include AAA batteries or USB-to-DC3.5 for flexible operation modes. The unit includes a square working opening and dust cover to protect optics between uses. Durable construction and serviceable joints suit lab and repair-shop environments. Overall, MG3B-1G blends optical coverage with dependable illumination for demanding desktop tasks.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173331/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/95zoa9BmhQ/95zoa9BmhQ_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "1.7X / 4X",
+                "Lens Diameter": "130 / 26MM",
+                "Focal Length": "295 / 120MM",
+                "Carton Size": "73X39X37CM",
+                "QTY/CTN": "24PCS",
+                "G.W./N.W.": "18 / 16.5KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "684G",
+                "Battery": "3AAA or USB to DC3.5",
+                "Light": "24LEDØ3MM"
+              }
+            },
+            {
+              "product_id": "fk2d1zN1fC",
+              "product_name": "MG3B-1F Folding Bench Magnifier",
+              "product_title": "2X/6X Folding Desk Magnifier with 120/23mm Lenses & 21 LEDs",
+              "product_description": "The MG3B-1F is a folding desk magnifier that combines a large lens with a compact transport profile for flexible bench use. Its 120mm main lens and 23mm auxiliary lens provide two magnification choices for overview and detail work. The articulated folding arm allows the unit to collapse for storage while retaining stable angles during use. A 21-LED array provides consistent illumination for extended inspection sessions. The unit supports AAA batteries or USB power in different variants for convenient operation. Rugged joints and a steady base make it appropriate for workshop or hobby benches. Included dust cover and lens protection extend optical life between sessions. Designed for portability without sacrificing optical area or lighting performance.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173331/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/fk2d1zN1fC/fk2d1zN1fC_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "2X / 6X",
+                "Lens Diameter": "120 / 23MM",
+                "Focal Length": "250 / 85MM",
+                "Carton Size": "59X38X52CM",
+                "QTY/CTN": "30PCS",
+                "G.W./N.W.": "20 / 18.5KGS",
+                "Single Product Weight": "615G",
+                "Battery": "3AAA or USB to DC3.5",
+                "Light": "21LEDØ3MM"
+              }
+            },
+            {
+              "product_id": "5OcA1jeo7z",
+              "product_name": "NO.9898.7 (RD) Adjustable Head Magnifier",
+              "product_title": "Multi-power Head Magnifier 1.2X–4.5X (Battery)",
+              "product_description": "The NO.9898.7 (RD) is an adjustable head magnifier that provides a range of magnifications for close inspection. The flip-down lens system permits quick transitions between magnification levels without removing the headset. Strong LED lighting enhances contrast for small features and reduces shadows. The adjustable headband and light controls let users customize fit and brightness. Battery power offers easy field replacement when needed. A robust hinge mechanism maintains consistent optics alignment under use. This headset is aimed at technicians, jewelers, and medical practitioners who need variable hands-free magnification. Practical ergonomics and dependable illumination are central to its design.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173332/ProsmartProducts/Gadgets___Accessories/Office___Desk_Gadgets/5OcA1jeo7z/5OcA1jeo7z_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "Magnification": "1.2X / 1.8X / 2.5X / 3.5X / 4.5X",
+                "Lens Diameter": "115X41MM",
+                "Focal Length": "410 / 270 / 200 / 140 / 110MM",
+                "Carton Size": "73X45X37CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "19 / 18KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "440G",
+                "Battery": "3AAA",
+                "Light": "5 LED Ø3MM"
+              }
+            }
+          ]
+        },
+        "Educational Kits & Models": {
+          "subcategory_id": "iieSNlm0",
+          "products": [
+            {
+              "product_id": "CyIhi579db",
+              "product_name": "MG20167D Bug Viewer Kit",
+              "product_title": "8X & 5X Kid's Bug Viewer with Tweezers and Collecting Ball",
+              "product_description": "The MG20167D is a kid-friendly exploration kit that combines magnification and safe specimen handling tools. It features an integrated viewing container with 37mm lens and a pair of tweezers for easy specimen placement. The set includes a small scissor-like grabber and a transparent collecting ball to inspect insects from all angles. Dual magnification (8X and 5X) allows children to see both overall shape and fine detail in one kit. The bright colors and simple latching top keep kids engaged while providing easy operation. Lightweight and battery-free for the lens, it is ideal for school science projects and outdoor discovery. The durable plastics withstand rough handling while remaining inexpensive to replace. This kit encourages curiosity and hands-on learning in nature study.",
+              "product_price": 5.49,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173332/ProsmartProducts/Gadgets___Accessories/Educational_Kits___Models/CyIhi579db/CyIhi579db_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "iieSNlm0",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Educational Kits & Models",
+              "specifications": {
+                "Magnification": "8X / 5X",
+                "Lens Diameter": "37MM",
+                "Focal Length": "30 / 42MM",
+                "Carton Size": "59X38X37CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "10 / 8.5KGS",
+                "Single Product Weight": "140G",
+                "Battery": "None",
+                "Light": "N/A"
+              }
+            }
+          ]
+        },
+        "Wearable & Audio Gadgets": {
+          "subcategory_id": "gstoRlE6",
+          "products": [
+            {
+              "product_id": "a48zLz8pnQ",
+              "product_name": "MG19156-3 LED Magnifying Glasses",
+              "product_title": "2.5X Headset Magnifier Glasses with LED",
+              "product_description": "The MG19156-3 are lightweight magnifying glasses ideal for hands-free close-up work. They offer approximately 2.5X magnification suitable for reading, crafting, and precision assembly. A small LED unit mounted on the bridge provides focused lighting for shadow-prone tasks. These glasses use a compact CR1620 battery pack to keep weight low and comfort high. The frame resembles standard spectacles so they sit naturally on the face without complex straps. Designers aimed to balance optical clarity with minimal distortion across the lens field. This makes them well suited to watch repair, jewelry inspection, and hobby modeling. Their affordability and hands-free convenience appeal to both hobbyists and occasional users.",
+              "product_price": 12.99,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173333/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/a48zLz8pnQ/a48zLz8pnQ_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "2.5X",
+                "Lens Diameter": "53X35MM",
+                "Focal Length": "100MM",
+                "Carton Size": "54X47.5X31CM",
+                "QTY/CTN": "300PCS",
+                "G.W./N.W.": "11 / 9KGS",
+                "Single Product Weight": "30G",
+                "Battery": "2CR1620",
+                "Light": "2 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "uma78P4wVe",
+              "product_name": "NO.32225-21SX Flip-Up Loupe Headset",
+              "product_title": "15X Flip-Up Loupe Headset with Interchangeable Lenses",
+              "product_description": "The NO.32225-21SX is a flip-up loupe headset engineered for hands-free close work. It features loupe optics that flip up when not needed, keeping your field of view clear while working. The lightweight frame and cushioned temples make extended wear comfortable in the workshop or clinic. Included lens inserts let users adapt magnification quickly for inspection or fine assembly. On-board LEDs bring shadow-free illumination to the work area, improving contrast and detail visibility. The headset is compact and easy to store with its protective case for lens inserts. Durable components hold alignment through repeated use and adjustments. This model serves jewelers, technicians, and hobbyists who need reliable hands-free magnification.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173334/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/uma78P4wVe/uma78P4wVe_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "15X",
+                "Carton Size": "53.5X49.5X51CM",
+                "QTY/CTN": "72PCS",
+                "G.W./N.W.": "17 / 16KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "217G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "7N8l6umvUz",
+              "product_name": "NO.11642DC Rechargeable Headset Magnifier",
+              "product_title": "Multi-power Headset Magnifier 1.5X–4.5X with Rechargeable Battery",
+              "product_description": "The NO.11642DC is a rechargeable headset magnifier offering a wide range of magnifications for varied tasks. It includes multiple lens options to let users select between gentle enlargement and higher detail views. A built-in rechargeable battery connects via USB and provides portable illumination without disposable cells. The lightweight headband and adjustable focus system maintain comfort and optical alignment during long sessions. LEDs mounted on the front provide targeted illumination for shadow-free work. The compact carrying case for lens inserts makes transport and storage simple. Precision optics keep distortion low while preserving contrast across magnifications. This headset is suitable for medical inspection, electronics, and precision hobbies requiring repeatable results.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173336/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/7N8l6umvUz/7N8l6umvUz_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.5X / 2.0X / 2.5X / 3.5X / 4.0X / 4.5X",
+                "Lens Diameter": "116X42MM",
+                "Focal Length": "357 / 274 / 204 / 158 / 136 / 125MM",
+                "Carton Size": "60X39.5X32.5CM",
+                "QTY/CTN": "48PCS",
+                "G.W./N.W.": "15 / 13KGS",
+                "QTY/INNER BOX": "8PCS",
+                "Single Product Weight": "277G",
+                "Battery": "USB connected to 3.7V 380MAH rechargeable battery",
+                "Light": "2 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "d42kxXcj8N",
+              "product_name": "NO.11537DC Rechargeable Magnifying Glasses",
+              "product_title": "1.5X–5.0X Magnifying Glasses with USB Rechargeable Battery",
+              "product_description": "The NO.11537DC are rechargeable magnifying glasses designed for hands-free precision work. They provide a range of lens magnifications so users can switch between overview and detailed tasks without changing tools. The internal rechargeable battery powers LEDs for consistent, bright illumination. A comfortable frame design and adjustable nose area make them suitable for long wear. Included lens inserts are stored in a compact case for quick access and portability. The optics deliver clear edges and natural color rendition for accurate inspection. Robust construction withstands workshop conditions while remaining lightweight. These glasses are useful for hobbyists, technicians, and professionals needing dependable illumination and magnification.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173338/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/d42kxXcj8N/d42kxXcj8N_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.5X / 2.5X / 3.5X / 5.0X",
+                "Lens Diameter": "115X37MM",
+                "Focal Length": "330 / 200 / 142 / 100MM",
+                "Carton Size": "64.5X47X40CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "18 / 16KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "394G",
+                "Battery": "USB connected to 3.7V 300MAH rechargeable battery",
+                "Light": "2 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "0i38wPbruJ",
+              "product_name": "NO.11537A Magnifying Glasses with Lens Set",
+              "product_title": "1.5X–3.5X Magnifying Glasses with Interchangeable Inserts",
+              "product_description": "The NO.11537A offers a compact, affordable hands-free magnifier solution for craft and inspection tasks. Interchangeable lens inserts let users tailor magnification for reading, sewing, or light electronics work. A slim, lightweight frame provides comfort during extended wear and easy storage in its carrying case. The optical design prioritizes a broad field of view to reduce head movement while working. Included inserts are organized in a small box for quick swaps. The unit is ideal for hobbyists and occasional precision tasks where portability matters. Its materials offer scratch resistance and easy cleaning to maintain clarity. The NO.11537A balances functionality with a low-profile, wearable form factor.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173341/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/0i38wPbruJ/0i38wPbruJ_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.5X / 2.5X / 3.5X",
+                "Lens Diameter": "115X37MM",
+                "Focal Length": "330 / 200 / 142MM",
+                "Carton Size": "74X39X32.5CM",
+                "QTY/CTN": "60PCS",
+                "G.W./N.W.": "16 / 15KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "245G"
+              }
+            },
+            {
+              "product_id": "zd7V46wqoJ",
+              "product_name": "NO.9898.8 (RD) Headband Magnifier",
+              "product_title": "Multi-power Headband Magnifier (Battery)",
+              "product_description": "The NO.9898.8 (RD) headband magnifier provides multiple magnification options in a comfortable, adjustable headband. It is designed to offer extended hands-free operation for inspection, repair, and medical tasks. The headband includes a flip-down lens assembly that stays in place during focused work. On-board LED lights help illuminate fine details without external lamps. Durable construction ensures alignment and repeatability through repeated adjustments. The compact carrying case stores interchangeable lenses for quick swaps in the field. This battery-powered variant uses standard cells for simple replacement. It is a practical solution for users who prefer field-replaceable power and robust mechanical features.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173341/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/zd7V46wqoJ/zd7V46wqoJ_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.0X / 1.5X / 2.0X / 2.5X / 3.5X",
+                "Lens Diameter": "95X34MM",
+                "Focal Length": "555 / 381 / 278 / 183 / 156MM",
+                "Carton Size": "73X43X37CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "15 / 13.5KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "330G",
+                "Battery": "3AAA",
+                "Light": "5 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "6Yill9it7O",
+              "product_name": "NO.9898.8 (RDC) Rechargeable Headband Magnifier",
+              "product_title": "Multi-power Headband Magnifier with USB Rechargeable Battery",
+              "product_description": "The NO.9898.8 (RDC) is a rechargeable version of a multi-power headband magnifier tailored for frequent use. A USB-rechargeable battery powers bright LEDs, eliminating the need for disposable cells. Multiple magnification options and an adjustable lens carriage let users tailor the view for any task. The lightweight headband and cushioned supports reduce pressure for prolonged wear. Included lens inserts cover a range of powers for inspection and detailed work. Robust housing protects optics while remaining easy to clean. This design improves workflow by combining hands-free magnification with convenient recharging. Its dependable illumination and optics support long inspection shifts.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173342/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/6Yill9it7O/6Yill9it7O_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.0X / 1.5X / 2.0X / 2.5X / 3.5X",
+                "Lens Diameter": "95X34MM",
+                "Focal Length": "555 / 381 / 278 / 183 / 156MM",
+                "Carton Size": "73X43X37CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "15 / 13.5KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "330G",
+                "Battery": "USB connected to 3.7V 380MAH rechargeable battery",
+                "Light": "5 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "9Dy86zxPzu",
+              "product_name": "NO.9898.7 (RDC) Rechargeable Head Magnifier",
+              "product_title": "Multi-power Head Magnifier 1.2X–4.5X with USB Recharge",
+              "product_description": "The NO.9898.7 (RDC) provides rechargeable convenience alongside multiple magnification settings for flexible hands-free use. Its USB rechargeable battery supports steady LED illumination without disposable cells. Adjustable magnification and a secure headband make it suitable for repetitive precision tasks. The lens set covers a useful range from low to moderate powers for inspection and assembly. Ergonomic design and robust mounting maintain optical alignment during extended use. A compact lens case keeps inserts organized and protected. The rechargeable option helps reduce running costs for frequent users. This model is suited to medical, dental, and workshop environments needing reliable illumination and magnification.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173343/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/9Dy86zxPzu/9Dy86zxPzu_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.2X / 1.8X / 2.5X / 3.5X / 4.5X",
+                "Lens Diameter": "115X41MM",
+                "Focal Length": "410 / 270 / 200 / 140 / 110MM",
+                "Carton Size": "73X45X37CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "19 / 18KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "455G",
+                "Battery": "USB connected to 3.7V 380MAH rechargeable battery",
+                "Light": "5 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "dqdU59lVo6",
+              "product_name": "NO.9892 (RD) Binocular Loupe Headset",
+              "product_title": "6X / 10X / 25X Binocular Loupe Headset with LED",
+              "product_description": "The NO.9892 (RD) is a binocular loupe headset offering high-power magnification options for precise inspection. Its separate loupe barrels provide stereo viewing useful for depth perception in detailed tasks. Integrated LED lighting ensures the area under inspection is well lit for accurate work. Lightweight construction and adjustable arms help maintain comfort during use. The headset is compatible with small spare bulbs and standard batteries for easy field servicing. Lens inserts are stored in a small container to keep them protected and organized. This loupe is suitable for dental work, micro-assembly, watch repair, and similar fine-detail applications. The robust build supports frequent professional use.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173343/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/dqdU59lVo6/dqdU59lVo6_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "6X / 10X / 25X",
+                "Focal Length": "83 / 50 / 20MM",
+                "Carton Size": "69X37.5X46CM",
+                "QTY/CTN": "100PCS",
+                "G.W./N.W.": "16 / 14.5KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "144G",
+                "Battery": "3AG10",
+                "Light": "2 LED Ø3MM"
+              }
+            },
+            {
+              "product_id": "1cxbv59yJS",
+              "product_name": "NO.9892E3 Multi-power Head Loupe",
+              "product_title": "Wide-range Headset Magnifier with Extensive Insert Set (E3)",
+              "product_description": "The NO.9892E3 is a high-flexibility loupe headset with an extensive insert set covering very low to very high magnifications. Its design supports a broad set of tasks from overview inspection to demanding micro-detail work. The headset includes strong front LEDs that illuminate the work area with minimal shadows. A comfortable head strap distributes weight evenly for longer sessions. Interchangeable inserts are kept in a compact case for organized storage. The optics are engineered to minimize aberrations across the magnification range. This model is robust for field use and workshop tasks that demand both range and clarity. It is targeted at professionals requiring a single, flexible loupe solution.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173344/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/1cxbv59yJS/1cxbv59yJS_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.2X / 1.8X / 2.5X / 3.5X / 4.5X / 5X / 6X / 7X / 8X / 12X / 20X / 25X / 28X",
+                "Lens Diameter": "115X41MM",
+                "Focal Length": "417 ~ 35MM",
+                "Carton Size": "48X48X56.5CM",
+                "QTY/CTN": "36PCS",
+                "G.W./N.W.": "14 / 13KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "400G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "Dsf92zs8Gp",
+              "product_name": "NO.9892E2 Wide-range Head Loupe",
+              "product_title": "Extensive-power Headset Magnifier (E2)",
+              "product_description": "The NO.9892E2 is a heavy-duty headset loupe providing a broad magnification range for demanding tasks. Its insert set covers intermediate to high powers, enabling precise inspection and micro-assembly. Front-mounted LEDs supply strong illumination for the working area. The frame and strap are designed for secure fit and repeated adjustments without losing optical alignment. Insert storage and a compact lens box make the unit transportable and easy to organize. Sturdy materials stand up to workshop and field conditions while preserving optical performance. It is an excellent choice where flexibility and long-term reliability are priorities. Professionals in repair, dentistry, and electronics benefit from its capability set.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173345/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/Dsf92zs8Gp/Dsf92zs8Gp_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.2X / 1.8X / 2.5X / 3.5X / 4.5X / 5X / 8X / 12X / 20X / 25X / 28X",
+                "Lens Diameter": "95X34MM",
+                "Focal Length": "417 ~ 35MM",
+                "Carton Size": "49X48X56.5CM",
+                "QTY/CTN": "36PCS",
+                "G.W./N.W.": "18 / 16.5KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "458G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "0Dfx2krMw3",
+              "product_name": "NO.9892E1 Compact Multi-power Head Loupe",
+              "product_title": "Multi-power Headset Magnifier (E1) with Insert Box",
+              "product_description": "The NO.9892E1 provides a flexible magnification set in a compact headset platform for portable precision work. Its insert options span a useful range for hobby and light professional applications. The frame balances comfort and rigidity for accurate alignment when focusing on small details. LEDs mounted in front deliver targeted illumination to reveal fine features. The insert case protects lenses and keeps them readily accessible. Built for repeatable tasks, it supports both bench and field operations. This model is appropriate for users who require a robust insert selection in a compact housing. The overall package focuses on usability, storage, and lighting consistency.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173345/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/0Dfx2krMw3/0Dfx2krMw3_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.0X / 1.5X / 2.0X / 2.5X / 3.5X / 4.0X / 4.5X / 5.0X / 5.5X / 6.0X / 5X / 8X / 12X / 20X / 25X / 28X",
+                "Lens Diameter": "84X28MM",
+                "Focal Length": "500 ~ 35MM",
+                "Carton Size": "47X45X58CM",
+                "QTY/CTN": "36PCS",
+                "G.W./N.W.": "14 / 13KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "450G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "Jy2k4s1mgW",
+              "product_name": "NO.9892C2 Compact Headset Magnifier",
+              "product_title": "Multi-power Headset Magnifier C2 with LED Inserts",
+              "product_description": "The NO.9892C2 is a value-oriented headset magnifier offering a practical set of magnifications for workshop tasks. It features interchangeable inserts and LED lighting for clear, shadow-free viewing. The lightweight head strap and adjustable frame make it comfortable for routine use. Insert protection and a small storage box keep optics safe during transport. The wide focal length range lets users work both close-up and at slightly greater distances depending on task demands. Designed for repeatable accuracy, it holds focus and alignment through regular adjustments. This unit is ideal for hobbyists and technicians needing an affordable, multi-power headset solution. Ease of use and durability are primary design goals.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173346/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/Jy2k4s1mgW/Jy2k4s1mgW_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.0X / 1.5X / 2.0X / 2.5X / 3.5X / 4.0X / 4.5X / 5.0X / 5.5X / 6.0X",
+                "Lens Diameter": "95X34MM",
+                "Focal Length": "500 ~ 35MM",
+                "Carton Size": "50.5X37X28CM",
+                "QTY/CTN": "36PCS",
+                "G.W./N.W.": "12 / 10KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "290G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "7ihIklBq93",
+              "product_name": "NO.9892C1 Entry-level Headset Magnifier",
+              "product_title": "Multi-power Headset Magnifier C1 with Insert Set",
+              "product_description": "The NO.9892C1 is an entry-level headset magnifier tailored for basic inspection and hobby use. It is lightweight and simple to adjust, providing quick access to multiple magnifications via insert lenses. The design emphasizes portability and ease of lens swapping with a small protective case. LEDs illuminate the working area for clearer viewing when needed. Its construction aims to maintain alignment during everyday tasks and occasional heavy use. The unit is ideal for learners, students, and casual users who need hands-free magnification. Compact size and modest weight make it convenient to carry between workstations. This product focuses on accessibility and straightforward operation.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173347/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/7ihIklBq93/7ihIklBq93_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.0X / 1.5X / 2.0X / 2.5X / 3.5X / 4.0X / 4.5X / 5.0X / 5.5X / 6.0X",
+                "Lens Diameter": "84X28MM",
+                "Focal Length": "500 ~ 35MM",
+                "Carton Size": "34X32X41.5CM",
+                "QTY/CTN": "36PCS",
+                "G.W./N.W.": "12 / 10KGS",
+                "QTY/INNER BOX": "6PCS",
+                "Single Product Weight": "290G",
+                "Battery": "3AAA",
+                "Light": "2 LED Ø5MM"
+              }
+            },
+            {
+              "product_id": "a0aFr0e8oJ",
+              "product_name": "NO.9892B2C USB Rechargeable Headset Magnifier",
+              "product_title": "1.0X–3.5X Rechargeable Headset with LED and Insert Box",
+              "product_description": "The NO.9892B2C combines rechargeable convenience with a compact head-mount loupe for hands-free tasks. The USB-rechargeable battery powers bright LEDs while eliminating disposable cells for frequent users. Interchangeable lenses provide flexible magnification from general overview down to focused detail. The frame offers good balance and stable optics alignment for repetitive work. Included insert storage keeps lenses safe and ready for quick swaps. Durable materials in the hinge and mount ensure continued accuracy through regular use. This product is designed for technicians and hobbyists who prefer rechargeable operation and easy lens management. It delivers consistent illumination and practical magnification for bench and field work.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766173348/ProsmartProducts/Gadgets___Accessories/Wearable___Audio_Gadgets/a0aFr0e8oJ/a0aFr0e8oJ_img1.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "gstoRlE6",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Wearable & Audio Gadgets",
+              "specifications": {
+                "Magnification": "1.0X / 1.5X / 2.0X / 2.5X / 3.5X",
+                "Lens Diameter": "95X34MM",
+                "Focal Length": "500 / 330 / 250 / 200 / 140MM",
+                "Carton Size": "73X45X37CM",
+                "QTY/CTN": "40PCS",
+                "G.W./N.W.": "19 / 18KGS",
+                "QTY/INNER BOX": "10PCS",
+                "Single Product Weight": "440G",
+                "Battery": "USB connected to 3.7V 300MAH rechargeable battery",
+                "Light": "2 LED Ø3MM"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

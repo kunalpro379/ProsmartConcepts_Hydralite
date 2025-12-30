@@ -1,0 +1,343 @@
+{
+  "products": {
+    "Healthcare Essentials": {
+      "category_id": "HltaaL2",
+      "subcategories": {
+        "Medical Tools & Equipment": {
+          "subcategory_id": "upqTiim0",
+          "products": [
+            {
+              "product_id": "NhsZZ8004",
+              "product_name": "LED Rechargeable Torch + Hair Forceps Set (Box With Branding)",
+              "product_title": "Box with branding: LED rechargeable torch set for 2 hair forceps",
+              "product_description": "This product listing is based on the item shown in image 0.jpg. The image text describes a “Box with branding” that includes an LED rechargeable torch and a set for 2 hair forceps. The presentation shown is a folding outer 4C presentation box. The kit appears arranged in a molded inner tray for organized storage. The listing focuses on the packaged set as displayed in the creative. Any included quantity and key components are taken directly from the image label. The product is shown as a branded packaging option for the instruments in the set. For exact contents beyond what is visible in the image, please confirm the packing list.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177659/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/NhsZZ8004/NhsZZ8004_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "0.jpg",
+                "includes": [
+                  "LED rechargeable torch",
+                  "Set for 2 hair forceps",
+                  "Folding outer 4C presentation box"
+                ],
+                "notes": "Details are taken from the text visible in the image."
+              }
+            },
+            {
+              "product_id": "zpRPq5690",
+              "product_name": "Hydraroller Hair Delivery System",
+              "product_title": "Hydraroller: hair delivery system (0.5mm titanium needle length shown)",
+              "product_description": "This product listing is based on the item shown in image 2.jpg. The image headline reads “Hydraroller” and “Hair delivery system.” The graphic shows a vial and a roller-style applicator in use on the scalp. The image also lists a protective cover to prevent needle contamination. It further mentions a “High quality titanium needle” with “0.5mm length” as shown on the creative. The brown bottle is described as protecting the serum from sunlight, per the image text. This listing reflects only the features stated or depicted in the image. If you want us to add exact pack contents or compatibility details, please share the official product sheet.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177660/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/zpRPq5690/zpRPq5690_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "2.jpg",
+                "product_label": "Hydraroller - Hair delivery system",
+                "needle_length_shown": "0.5mm",
+                "needle_material_shown": "Titanium",
+                "features_shown_on_image": [
+                  "Protective cover to prevent needle contamination",
+                  "Brown bottle protects the serum from sunlight"
+                ],
+                "hsn_shown": "9018",
+                "price_shown_on_image": "Rs. 260/-"
+              }
+            },
+            {
+              "product_id": "PviTK5913",
+              "product_name": "Derma Stamp (Adjustable Length Microneedling)",
+              "product_title": "Derma Stamp: localised microneedling with adjustable length (as shown)",
+              "product_description": "This product listing is based on the item shown in image 3.jpg. The image title reads “DERMA STAMP” and the bullets mention “Localised,” “Adjustable Length,” and “microneedling.” The creative shows the device being used on the scalp and also includes a product box visual. The listing is written from the exact labels and visuals in the image. It presents the tool as a derma stamp device with adjustable length as stated. No additional medical or performance claims are added beyond what is shown. For needle counts, needle sizes, or sterilization details, please provide the manufacturer specifications. If multiple variants exist, share the variant list so we can split them correctly.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177661/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/PviTK5913/PviTK5913_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "3.jpg",
+                "product_label": "DERMA STAMP",
+                "features_shown_on_image": [
+                  "Localised",
+                  "Adjustable length",
+                  "Microneedling"
+                ],
+                "hsn_shown": "9018",
+                "price_shown_on_image": "Rs. 595/-"
+              }
+            },
+            {
+              "product_id": "oyTey2528",
+              "product_name": "Hair Transplant Forceps Kit",
+              "product_title": "Hair transplant forceps kit (set shown in case)",
+              "product_description": "This product listing is based on the item shown in image 6.jpg. The creative is titled “Hair Transplant forceps kit.” The photo shows multiple forceps/instruments arranged together in a case. The listing describes the product as a kit because the image shows a grouped set stored in a carrying case. No assumptions are made about steel grade, exact sizes, or included count beyond what is visible. The product is presented as a hair transplant forceps kit as labeled. If you want specific instrument names and quantities, please share the kit contents list. This will let us create more precise specifications for each included tool.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177661/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/oyTey2528/oyTey2528_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "6.jpg",
+                "product_label": "Hair Transplant forceps kit",
+                "hsn_shown": "9018",
+                "price_shown_on_image": "Rs. 390/-"
+              }
+            },
+            {
+              "product_id": "HxJJE9895",
+              "product_name": "Derma Roller (540 Needles shown)",
+              "product_title": "Derma roller (features and 540 needles shown on pack)",
+              "product_description": "This product listing is based on the item shown in image 9.jpg. The creative shows a derma roller product with packaging and the label “Derma Roller.” The right-side panel lists features such as anti-slip grip, stable and inflexible needles, and cross-line needle arrangement, as shown on the image. The image also shows “540 needles” on the pack. It lists available needle sizes on the creative (as printed). This listing includes only the details that appear in the image. No extra claims are added beyond the visible labels. For the exact needle size variant for this specific unit, please confirm which size you sell.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177662/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/HxJJE9895/HxJJE9895_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "9.jpg",
+                "product_label": "Derma Roller",
+                "needles_shown": "540 needles",
+                "features_shown_on_image": [
+                  "Anti-slip grip",
+                  "Stable and inflexible needles",
+                  "Cross-line needle arrangement",
+                  "Ultra-sharp needle tips"
+                ],
+                "available_needle_sizes_shown": [
+                  "0.25",
+                  "0.5",
+                  "1.0",
+                  "1.5"
+                ],
+                "hsn_shown": "9018",
+                "price_shown_on_image": "Rs. 250/-"
+              }
+            },
+            {
+              "product_id": "HHUNq8107",
+              "product_name": "Laser Hair Regeneration Brush",
+              "product_title": "Laser hair regeneration brush (as labeled in image)",
+              "product_description": "This product listing is based on the item shown in image 10.jpg. The title on the creative reads “LASER Hair Regeneration Brush.” The visuals show a handheld device with illuminated points and an example of use on the scalp. The creative also includes explanatory graphics about how the device is presented to work, as shown. This listing keeps the description strictly tied to the labeled product name and what is visually depicted. It is presented as a brush/device for hair regeneration as written on the image. No additional technical specifications (like wavelength or power) are assumed. If you have exact technical specs and certifications, share them and we can add them into the specifications section.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177663/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/HHUNq8107/HHUNq8107_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "10.jpg",
+                "product_label": "Laser Hair Regeneration Brush",
+                "hsn_shown": "90291090",
+                "price_shown_on_image": "Rs. 795/-"
+              }
+            },
+            {
+              "product_id": "uaWUI0728",
+              "product_name": "PRP Kit (Platelet Rich Plasma Injection Therapy)",
+              "product_title": "PRP kit: platelet rich plasma injection therapy (as shown)",
+              "product_description": "This product listing is based on the item shown in image 13.jpg. The creative headline reads “PRP KIT” and also mentions “Platelet Rich plasma injection therapy.” The image includes explanatory text describing the PRP therapy concept and shows a kit layout with tubes and accessories in a tray. This listing reflects only what is shown in the image and does not add any additional medical claims. It presents the item as a PRP kit as labeled on the creative. The product is shown as a packaged set intended for PRP procedures, per the poster context. For exact included items, volumes, and sterile status, please provide the kit’s official packing list. That will allow us to add accurate specifications without assumptions.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177664/ProsmartProducts/Healthcare_Essentials/Medical_Tools___Equipment/uaWUI0728/uaWUI0728_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "shown_in_image": "13.jpg",
+                "product_label": "PRP KIT",
+                "hsn_shown": "9018",
+                "price_shown_on_image": "Rs 550/-"
+              }
+            }
+          ]
+        },
+        "Diagnostic & Monitoring Devices": {
+          "subcategory_id": "daootnm2",
+          "products": [
+            {
+              "product_id": "FtxXw8609",
+              "product_name": "Hair Densitometer",
+              "product_title": "Hair densitometer (compact instrument with own LED light source)",
+              "product_description": "This product listing is based on the item shown in image 1.jpg. The image title clearly labels the product as a “Hair Densitometer.” The creative highlights that it is compact and has its own LED light source. It also mentions a scale for easy measurement and presents the product as functional. The visuals show the device alongside close-up measurement imagery. The listing is created from what is visible in the image and does not assume extra features beyond that. The instrument is presented as a handheld tool for hair-related measurement/assessment as indicated by the label. For any clinical claims or included accessories beyond what is shown, please provide official documentation.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177664/ProsmartProducts/Healthcare_Essentials/Diagnostic___Monitoring_Devices/FtxXw8609/FtxXw8609_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "daootnm2",
+              "category": "Healthcare Essentials",
+              "subcategory": "Diagnostic & Monitoring Devices",
+              "specifications": {
+                "shown_in_image": "1.jpg",
+                "product_label": "Hair Densitometer",
+                "highlights_on_image": [
+                  "Compact",
+                  "Own LED light source",
+                  "Scale for easy measurement",
+                  "Functional"
+                ],
+                "hsn_shown": "90291090",
+                "price_shown_on_image": "Rs. 500/-"
+              }
+            },
+            {
+              "product_id": "rgKnx0313",
+              "product_name": "Mobile Illuminated 30x Magnification Tricoscope",
+              "product_title": "Mobile illuminated tricoscope (30x magnification shown)",
+              "product_description": "This product listing is based on the item shown in image 5.jpg. The headline on the creative states “Mobile Illuminated 30 x magnification Tricoscope.” The image indicates that it can take digital pictures with 30x magnification and record videos, as written on the banner. It also mentions saving and compiling for study and reference. The visuals show the magnifier attached to a phone and sample close-up hair/scalp images. This listing only includes capabilities that are explicitly written or pictured in the image. It is presented as a hair analysis/inspection accessory as shown. For supported phone models, app requirements, or exact optical specs, please share official documentation.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177665/ProsmartProducts/Healthcare_Essentials/Diagnostic___Monitoring_Devices/rgKnx0313/rgKnx0313_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "daootnm2",
+              "category": "Healthcare Essentials",
+              "subcategory": "Diagnostic & Monitoring Devices",
+              "specifications": {
+                "shown_in_image": "5.jpg",
+                "product_label": "Mobile Illuminated 30x magnification Tricoscope",
+                "magnification_shown": "30x",
+                "hsn_shown": "90291090",
+                "price_shown_on_image": "Rs. 310/-"
+              }
+            },
+            {
+              "product_id": "AJItM1192",
+              "product_name": "USB Dermascope / Digital Microscope (PC & Mobile Interface)",
+              "product_title": "Digital microscope with PC & mobile interface (USB dermascope shown)",
+              "product_description": "This product listing is based on the item shown in image 7.jpg. The creative includes the label “USB DERMASCOPE” and “Digital Microscope – PC & Mobile interface.” The diagram shows a USB-connected microscope with LED lights and a stand. The image text mentions plug-and-play usage across systems and describes it as a digital microscope. The listing reflects the product as a digital microscope/dermascope with PC and mobile interface as written. No extra claims about magnification ranges or compatibility are added beyond what is presented on the image. For exact magnification specifications, supported devices, and included accessories, please provide the official datasheet.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177666/ProsmartProducts/Healthcare_Essentials/Diagnostic___Monitoring_Devices/AJItM1192/AJItM1192_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "daootnm2",
+              "category": "Healthcare Essentials",
+              "subcategory": "Diagnostic & Monitoring Devices",
+              "specifications": {
+                "shown_in_image": "7.jpg",
+                "labels_shown_on_image": [
+                  "USB DERMASCOPE",
+                  "Digital Microscope - PC & Mobile interface"
+                ],
+                "hsn_shown": "90291090",
+                "price_shown_on_image": "Rs. 895/-"
+              }
+            },
+            {
+              "product_id": "dmwLM9007",
+              "product_name": "Hair Magnifier with Interchangeable Lenses (Up to 3–5X)",
+              "product_title": "Hair magnifier with interchangeable lenses (up to 3–5X as shown)",
+              "product_description": "This product listing is based on the item shown in image 8.jpg. The creative text states “Hair magnifier with interchangeable LENSES upto 3-5 X.” The visual shows a head-worn magnifier and multiple lens pieces/accessories laid out. It also includes sample close-up images of hair/scalp and an accessories case. The listing keeps the description aligned with what is visible in the image. It is presented as a magnifier tool for hair/scalp inspection, as implied by the label and examples shown. No additional optical performance details are assumed beyond the stated range. For exact lens powers included in the box and battery details (if any), please confirm the package contents.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177667/ProsmartProducts/Healthcare_Essentials/Diagnostic___Monitoring_Devices/dmwLM9007/dmwLM9007_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "daootnm2",
+              "category": "Healthcare Essentials",
+              "subcategory": "Diagnostic & Monitoring Devices",
+              "specifications": {
+                "shown_in_image": "8.jpg",
+                "product_label": "Hair magnifier with interchangeable lenses upto 3-5X",
+                "magnification_shown": "Up to 3–5X",
+                "hsn_shown": "90291090",
+                "price_shown_on_image": "Rs. 550/-"
+              }
+            },
+            {
+              "product_id": "JQaSo2733",
+              "product_name": "LED Magnifiers (Different Sizes)",
+              "product_title": "Different sizes of LED magnifiers (as shown)",
+              "product_description": "This product listing is based on the item shown in image 12.jpg. The title on the creative reads “Different sizes of LED magnifiers.” The image shows three magnifiers of different sizes side by side. This listing represents the magnifiers as shown in the photo. It does not assume the magnification power, battery type, or lumen output because these are not specified in the image. The product is presented as LED magnifiers in multiple sizes as labeled. If you sell each size separately, tell me which size corresponds to which SKU and I will split them into separate variants. If you sell them as a set, confirm the included pieces.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177667/ProsmartProducts/Healthcare_Essentials/Diagnostic___Monitoring_Devices/JQaSo2733/JQaSo2733_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "daootnm2",
+              "category": "Healthcare Essentials",
+              "subcategory": "Diagnostic & Monitoring Devices",
+              "specifications": {
+                "shown_in_image": "12.jpg",
+                "product_label": "Different sizes of LED magnifiers",
+                "hsn_shown": "90291090",
+                "price_shown_on_image": "Rs. 250/-"
+              }
+            }
+          ]
+        },
+        "Medical Consumables": {
+          "subcategory_id": "dEiusae5",
+          "products": [
+            {
+              "product_id": "KmZAe3553",
+              "product_name": "Dandruff Testing Strips (SmartSlide)",
+              "product_title": "Dandruff testing strips (SmartSlide shown)",
+              "product_description": "This product listing is based on the item shown in image 11.jpg. The creative headline reads “Dandruff Testing strips.” The image shows the strips and indicates “compare results,” and the word “SmartSlide” appears in the design. The visuals demonstrate applying the strip to the hair parting area for best results, as shown in the image. This listing is written directly from the visible labels and demonstration images. It presents the product as dandruff testing strips as titled. No extra claims about accuracy or medical diagnosis are added beyond the image content. For pack quantity and interpretation guidance, please provide the official instructions or insert.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177668/ProsmartProducts/Healthcare_Essentials/Medical_Consumables/KmZAe3553/KmZAe3553_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "dEiusae5",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Consumables",
+              "specifications": {
+                "shown_in_image": "11.jpg",
+                "product_label": "Dandruff Testing strips",
+                "brand_or_series_shown": "SmartSlide",
+                "price_shown_on_image": "Rs. 6/-"
+              }
+            },
+            {
+              "product_id": "tOxVa9071",
+              "product_name": "Aloe Vera Coated Nitrile Hand Gloves (Box of 50)",
+              "product_title": "Moisturising aloe vera coated nitrile hand gloves (box of 50 pcs)",
+              "product_description": "This product listing is based on the item shown in image 4.jpg. The creative reads “Moisturising ALOE VERA coated Nitrile hand gloves.” It also shows the “DURASKIN” branding and mentions a box of 50 pieces on the image. The text on the poster highlights that the gloves are aloe vera coated and presents them as premium. The listing is written from the visible packaging and text in the image only. It is positioned as clinic/medical-use hand gloves based on the nitrile glove presentation. No extra claims about certification standards are added beyond what is shown. If you have size options (S/M/L) or certification details, share them and we will add them under specifications.",
+              "product_price": null,
+              "image_urls": [
+                "https://res.cloudinary.com/dstmt1w5p/image/upload/v1766177669/ProsmartProducts/Healthcare_Essentials/Medical_Consumables/tOxVa9071/tOxVa9071_img1.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "dEiusae5",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Consumables",
+              "specifications": {
+                "shown_in_image": "4.jpg",
+                "product_label": "Moisturising aloe vera coated nitrile hand gloves",
+                "pack_size_shown": "Box of 50 pcs",
+                "hsn_shown": "9018",
+                "price_shown_on_image": "Rs. 275/-"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "products": {
+    "Personal Care": {
+      "category_id": "Erolna6",
+      "subcategories": {
+        "Grooming Tools": {
+          "subcategory_id": "oslitom5",
+          "products": [
+            {
+              "product_id": "bBnri6853",
+              "product_name": "Derma Roller",
+              "product_title": "Derma Roller (Collagen Induction Therapy Roller)",
+              "product_description": "This product is labeled as a V Roller and is presented as an efficient system for collagen induction therapy. The flyer highlights an anti-slip grip to help you hold the handle securely during use. It also mentions stable and inflexible needles as a key build feature. The needle arrangement is shown as a cross-line pattern on the roller head. The flyer calls out ultra-sharp needle tips and shows the roller head close-up. It lists available needle sizes as 0.25, 0.5, 1.0, and 1.5 mm. The packaging mentions “540 needles” and “sterile EO.” The image provided is the exact product flyer shown for this item.",
+              "product_price": null,
+              "image_urls": [
+                "12.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "9018",
+                "needle_count": "540 needles",
+                "needle_sizes_mm": [
+                  "0.25",
+                  "0.5",
+                  "1.0",
+                  "1.5"
+                ],
+                "sterile": "Sterile EO (as shown on flyer)",
+                "highlights": [
+                  "Anti-slip grip (as shown on flyer)",
+                  "Cross-line needle arrangement (as shown on flyer)",
+                  "Ultra-sharp needle tips (as shown on flyer)"
+                ]
+              }
+            },
+            {
+              "product_id": "LCaXF6144",
+              "product_name": "6 in 1 Ice Derma Roller System",
+              "product_title": "6 in 1 Ice Derma Roller System",
+              "product_description": "This flyer describes a “6 in 1 Ice Derma Roller system.” The set is shown with multiple attachments in a storage case. The image labels an ice roller head for head massage. It also labels a silicon brush for skin cleaning. The flyer shows “12 needles” for topical use as one of the heads. It additionally shows “720 needles” for use on face and “300 needles” for use on eye. The branding and layout indicate this is a multi-head system rather than a single roller. The included image is the exact flyer artwork for the system.",
+              "product_price": null,
+              "image_urls": [
+                "15.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "9018",
+                "included_heads": [
+                  "Ice roller head (for head massage)",
+                  "Silicon brush (for skin cleaning)",
+                  "12 needles head (for topical use)",
+                  "720 needles head (for use on face)",
+                  "300 needles head (for use on eye)"
+                ]
+              }
+            },
+            {
+              "product_id": "WKiUG1873",
+              "product_name": "Derma Stamp",
+              "product_title": "Derma Stamp (Adjustable Length Microneedling)",
+              "product_description": "This product is labeled “Derma Stamp” on the flyer. The flyer also states “Localised” and “Adjustable Length” along with “microneedling.” The product is shown as a handheld stamping tool intended for targeted application. The flyer includes a small feature box that references improving dull skin tone and mentions collagen stimulation in its feature text. The design indicates it is meant for localized use compared to a roller style head. The image is presented as a standalone product slide with HSN and pricing printed on it. The exact image file is used for this product entry.",
+              "product_price": null,
+              "image_urls": [
+                "24.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "9018",
+                "features_on_flyer": [
+                  "Localised use",
+                  "Adjustable length",
+                  "Microneedling"
+                ]
+              }
+            },
+            {
+              "product_id": "YdVbD6822",
+              "product_name": "Hydra Roller",
+              "product_title": "Hydra Roller (Microneedle Serum Applicator Roller)",
+              "product_description": "This flyer is titled “HydRA Roller” / “Hydra Roller.” It shows a roller head integrated with a small bottle designed to deliver product as you roll. The flyer text describes it as a simple way to administer dosage from 1.5 mm to 2.0 mm sizes. It also mentions micro gold plated needles administering micro-dosages of the content of the bottle. The layout highlights a rolling system and shows the product being used while holding the container. The right side of the flyer shows a “micro derma stamp” reference and calls out “20 micro needles.” A “0.5mm” marking also appears on the flyer as a size callout. The image is the exact promotional flyer used for this listing.",
+              "product_price": null,
+              "image_urls": [
+                "26.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "9018",
+                "dosage_size_range_mm": "1.5 mm - 2.0 mm (as shown on flyer)",
+                "micro_needle_note": "20 micro needles (as shown on flyer)",
+                "size_callout": "0.5mm (as shown on flyer)",
+                "needle_material_note": "Micro gold plated needles (as shown on flyer)"
+              }
+            },
+            {
+              "product_id": "nTuIE1071",
+              "product_name": "Ice Roller",
+              "product_title": "Ice Roller",
+              "product_description": "This product is labeled “Ice Roller” on the flyer. The image shows the handheld roller and its retail box together. The layout presents it as a simple rolling tool intended for facial use. The product handle and roller head are clearly visible in the photograph. The flyer includes a printed HSN code and a price label, but pricing is kept null in this JSON as requested. The branding area indicates it is being listed under the Prosmart Concepts materials. The image is a single-product flyer slide with the product name prominently displayed. The exact filename is used for this product entry.",
+              "product_price": null,
+              "image_urls": [
+                "13.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "9018"
+              }
+            },
+            {
+              "product_id": "QzUao4020",
+              "product_name": "Facial Jade Roller",
+              "product_title": "Facial Jade Roller",
+              "product_description": "This product is labeled “Facial Jade Roller” on the flyer. The image shows a dual-ended roller tool and demonstrates use on the face. The flyer includes callouts such as promote blood circulation and relax muscle. It also includes a callout for elimination of dark circles. Another callout references reducing wrinkles on the face. The visual shows a before/after style split face graphic to illustrate intended use. The flyer includes HSN information and a displayed price label, while the JSON keeps price null as requested. The product is presented as a manual facial rolling tool. The exact image file is used as the only image URL for this product.",
+              "product_price": null,
+              "image_urls": [
+                "21.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "9018",
+                "claims_on_flyer": [
+                  "Promote blood circulation",
+                  "Elimination of dark circles",
+                  "Relax muscle",
+                  "Reduce wrinkles on face"
+                ]
+              }
+            },
+            {
+              "product_id": "NZdQu0331",
+              "product_name": "Acne Light Therapy Pen",
+              "product_title": "Acne Light Therapy Pen (Light Therapy Acne Spot Treatment)",
+              "product_description": "This flyer is titled “Acne Light Therapy Pen.” The product shown is labeled “Light Therapy Acne Spot Treatment” in the packaging image. The left text panel states that blue light targets acne-causing bacteria and red light reduces inflammation. It also says the red and blue light therapy can help remove acne and spots without irritation as written on the flyer. The instructions panel mentions a 2-minute treatment and states the device will automatically turn off after 2 minutes. The flyer also mentions “Use 3 times per day until the pimple is gone” and references a dermatologist’s recommendation as printed text. The image shows the pen device emitting light at the tip and being used on the face. The flyer includes HSN information and a displayed price label, while the JSON keeps price null. The exact image file is used for this product.",
+              "product_price": null,
+              "image_urls": [
+                "25.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "hsn": "90291090",
+                "light_types_on_flyer": [
+                  "Blue light",
+                  "Red light"
+                ],
+                "timer_on_flyer": "Auto turn off after 2 minutes (as shown on flyer)"
+              }
+            },
+            {
+              "product_id": "uBwpW3645",
+              "product_name": "App Based Bluetooth Moisture Detector Pen",
+              "product_title": "App Based Bluetooth Moisture Detector Pen (Skin Moisture Detector)",
+              "product_description": "This flyer is titled “APP BASED BLUETOOTH MOISTURE DETECTOR PEN.” The header text says it helps keep accurate track of skin hydration and select correct products to use. The product is shown as a small handheld “skin moisture detector” device alongside mobile app screenshots. The flyer includes a section titled “Keep Tracking of your Skin Moisture Content” and shows a graph-style interface. It also states “Bluetooth 4.0 Transmission” on the flyer. The visuals show compatibility icons for Apple and Android. A “Moisture Detector” label appears on the flyer along with a “Patented” stamp graphic. The image is a single flyer containing both the device and app UI examples. The exact image filename is used for this product.",
+              "product_price": null,
+              "image_urls": [
+                "29.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "bluetooth": "Bluetooth 4.0 Transmission (as shown on flyer)",
+                "platforms_on_flyer": [
+                  "iOS",
+                  "Android"
+                ]
+              }
+            }
+          ]
+        },
+        "Skin Care": {
+          "subcategory_id": "eakNsIc2",
+          "products": [
+            {
+              "product_id": "Hoqat6916",
+              "product_name": "Skin Care Tool Facial Monitor",
+              "product_title": "Skin Care Tool Facial Monitor (Moisture Tester / Analyzer)",
+              "product_description": "This flyer is titled “Skin Care Tool Facial Monitor.” The subtitle line describes it as a facial moisture tester, detector, analyzer, and monitor. The images show a handheld digital device with an LCD display. The flyer includes product diagrams and labels around the device body. A small “About the product” section is visible on the flyer as printed content. The product is presented as a personal facial skin care moisture analyzer. The flyer also includes HSN information and a displayed price, while price remains null in the JSON. The product visuals show the device with a stand and multiple units pictured. The exact image file is linked as the product image.",
+              "product_price": null,
+              "image_urls": [
+                "16.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "eakNsIc2",
+              "category": "Personal Care",
+              "subcategory": "Skin Care",
+              "specifications": {
+                "hsn": "90291090",
+                "display": "Digital LCD display (as shown on flyer)"
+              }
+            },
+            {
+              "product_id": "gTZaL7661",
+              "product_name": "Ultrasonic Skin Scrubber",
+              "product_title": "Ultrasonic Skin Scrubber (Multi-functional Skin Scrubber)",
+              "product_description": "This flyer presents a “Multi-functional Skin Scrubber” and also labels it as a “Multi Function SKIN Cleanser.” It highlights an ultrasonic function and states “DEEP-Cleans the Layers of SKIN.” The left panel shows use modes such as deep cleansing, moisturizing, EMS massage, and daily cleansing. The flyer also mentions “Ultrasonic Ion Vibration Technology” as a technology highlight. The right panel shows the device with buttons and icons for deep clean and other labeled functions. The layout includes before/after style skin images in a small panel. The flyer includes HSN information and a displayed price, while the JSON keeps price null per your rule. The exact image filename is attached for this product.",
+              "product_price": null,
+              "image_urls": [
+                "20.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "eakNsIc2",
+              "category": "Personal Care",
+              "subcategory": "Skin Care",
+              "specifications": {
+                "hsn": "90291090",
+                "technology": "Ultrasonic ion vibration technology (as shown on flyer)",
+                "modes_on_flyer": [
+                  "Deep cleansing",
+                  "Moisturizing",
+                  "EMS massage",
+                  "Daily cleansing"
+                ]
+              }
+            },
+            {
+              "product_id": "WVZCo9727",
+              "product_name": "Sun Meter",
+              "product_title": "Sun Meter (UV Index Meter)",
+              "product_description": "This flyer is titled “Sun Meter.” The image shows a small handheld meter with a display and buttons. The flyer includes educational panels about UV rays and their effect on skin. It also shows a UV index chart with a color-coded scale and level numbers. The product is presented as a tool to measure or indicate sun/UV index values. The flyer includes HSN information and a displayed price label, while the JSON keeps price null. The background panels include diagrams labeled for UVA, UVB, and UVC as part of the explanatory content. The exact image file is used for this product listing.",
+              "product_price": null,
+              "image_urls": [
+                "18.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "eakNsIc2",
+              "category": "Personal Care",
+              "subcategory": "Skin Care",
+              "specifications": {
+                "uv_index": "UV index reference chart shown on flyer"
+              }
+            },
+            {
+              "product_id": "stOil4438",
+              "product_name": "Dermographometer for Testing of Urticaria",
+              "product_title": "Dermographometer for Testing of Urticaria",
+              "product_description": "This flyer is titled “DERMOGRAPHOMETER FOR TESTING OF URTICARIA.” The images show the tool being used on skin and the resulting lines appearing on the surface. The flyer contains an explanatory section describing dermographism (urticaria factitia) as printed educational content. It includes bullet points related to diagnostic testing and mentions the tool as a dermographometer. The layout looks like a clinical information sheet combined with product imagery. The flyer includes HSN information and a displayed price label, while the JSON keeps price null as requested. The product is shown as a simple handheld device rather than an electronic unit. The exact image file is used as the product image URL.",
+              "product_price": null,
+              "image_urls": [
+                "22.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "eakNsIc2",
+              "category": "Personal Care",
+              "subcategory": "Skin Care",
+              "specifications": {
+                "hsn": "9018",
+                "use_case_on_flyer": "Testing of urticaria (as shown on flyer)"
+              }
+            },
+            {
+              "product_id": "elEQt8910",
+              "product_name": "PRP Kit",
+              "product_title": "PRP Kit (Platelet Rich Plasma Injection Therapy)",
+              "product_description": "This flyer is labeled “PRP KIT” and also includes the heading “Platelet Rich plasma injection therapy.” The left panel provides a printed overview of platelet rich plasma therapy and includes a diagram showing separated blood components. The flyer also shows a kit layout image with multiple included items arranged in a tray. A “PRP Advantage” graphic is visible on the flyer as part of the presentation. The text panel also includes “PRP for aesthetic” and lists multiple areas such as wrinkles and acne scars as printed on the flyer. The flyer includes HSN information and a displayed price label, while the JSON keeps price null. The product is presented as a packaged kit rather than a single handheld tool. The exact image file is used for this product entry.",
+              "product_price": null,
+              "image_urls": [
+                "27.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "eakNsIc2",
+              "category": "Personal Care",
+              "subcategory": "Skin Care",
+              "specifications": {
+                "hsn": "9018",
+                "label_on_flyer": "Platelet Rich Plasma injection therapy"
+              }
+            }
+          ]
+        },
+        "Hair Care": {
+          "subcategory_id": "rheIaCr3",
+          "products": [
+            {
+              "product_id": "tnzzQ1527",
+              "product_name": "Laser Hair Regeneration Brush",
+              "product_title": "Laser Hair Regeneration Brush",
+              "product_description": "This flyer is titled “LASER Hair Regeneration Brush.” The text mentions genuine IR and laser diodes and states an effect in 3 weeks as printed on the image. It also notes it is used by professionals worldwide and mentions low cost in the header area. The layout shows before/after style hair images and a diagram titled “How Laser Hair Regrowth Works.” The product itself is shown as a handheld device with multiple illuminated points. The flyer includes HSN information and a displayed price label, while the JSON keeps price null as requested. The packaging photo is also visible on the flyer to show what is included. The exact image file is used for this product entry.",
+              "product_price": null,
+              "image_urls": [
+                "14.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "rheIaCr3",
+              "category": "Personal Care",
+              "subcategory": "Hair Care",
+              "specifications": {
+                "hsn": "90291090",
+                "technology_on_flyer": [
+                  "IR",
+                  "Laser diodes"
+                ]
+              }
+            },
+            {
+              "product_id": "CfEwp8543",
+              "product_name": "Hair Densitometer",
+              "product_title": "Hair Densitometer",
+              "product_description": "This flyer is labeled “Hair Densitometer.” The header line mentions that it is compact and has its own LED light source. The flyer also lists “Scale for easy measurement” and “Functional” as feature callouts. The images show the instrument body, a measuring scale close-up, and the device with batteries pictured. The flyer text notes “use 2 AA battery” and indicates the product is shown without battery. Multiple angles of the densitometer are shown to clarify the form factor. The flyer includes HSN information and a displayed price label, while the JSON keeps price null. The exact image file is linked for this product.",
+              "product_price": null,
+              "image_urls": [
+                "17.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "rheIaCr3",
+              "category": "Personal Care",
+              "subcategory": "Hair Care",
+              "specifications": {
+                "hsn": "90291090",
+                "features_on_flyer": [
+                  "Own LED light source",
+                  "Scale for easy measurement",
+                  "Compact"
+                ],
+                "power_on_flyer": "Uses 2 AA batteries (as shown on flyer)"
+              }
+            },
+            {
+              "product_id": "iIriW1803",
+              "product_name": "Dandruff Testing Strips",
+              "product_title": "Dandruff Testing Strips (SmartSlide)",
+              "product_description": "This product is labeled “Dandruff Testing strips” on the flyer. The image shows a strip being applied to the hair parting area and then compared for results. The flyer includes the word “SmartSlide” alongside the product visuals. The lower panel repeats the product name as “Dandruff Testing Strips” with a short instruction line visible. The photo set shows a step-by-step style usage sequence. The flyer includes a displayed price label, while the JSON keeps price null as requested. The product is presented as a consumable strip format rather than an electronic device. The exact image filename is used for the product image.",
+              "product_price": null,
+              "image_urls": [
+                "19.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "rheIaCr3",
+              "category": "Personal Care",
+              "subcategory": "Hair Care",
+              "specifications": {
+                "brand_on_flyer": "SmartSlide (as shown on flyer)"
+              }
+            },
+            {
+              "product_id": "mHRhX9529",
+              "product_name": "Mobile Illuminated 30x Magnification Tricoscope",
+              "product_title": "Mobile Illuminated 30x Magnification Tricoscope",
+              "product_description": "This flyer is titled “Mobile Illuminated 30 X Magnification Tricoscope.” The header text says to take digital pictures at 30x magnification and record videos. The flyer also mentions saving a complete set for study and reference as printed text. The images show the tricoscope attachment used with a mobile phone and illuminated viewing. Multiple hair and scalp close-up images are shown as examples of what can be captured. The product is presented as a mobile-compatible analysis instrument. The flyer includes HSN information and a displayed price label, while the JSON keeps price null. The exact image file is used as the product image URL.",
+              "product_price": null,
+              "image_urls": [
+                "23.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "rheIaCr3",
+              "category": "Personal Care",
+              "subcategory": "Hair Care",
+              "specifications": {
+                "hsn": "90291090",
+                "magnification": "30x (as shown on flyer)",
+                "features_on_flyer": [
+                  "Illuminated",
+                  "Take digital pictures",
+                  "Record videos"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Gadgets & Accessories": {
+      "category_id": "isSseE1",
+      "subcategories": {
+        "Utility & Multi-Tools": {
+          "subcategory_id": "ytutILu9",
+          "products": [
+            {
+              "product_id": "ILZyi2390",
+              "product_name": "LED Magnifiers",
+              "product_title": "Different Sizes of LED Magnifiers",
+              "product_description": "This flyer is titled “Different sizes of LED magnifiers.” The image shows three handheld magnifiers in different sizes placed side by side. Each magnifier has a handle and a circular lens area. The flyer includes an HSN code and a displayed price label, while the JSON keeps product_price set to null. The visual focus is on the physical size variations rather than detailed technical specifications. The image suggests these are LED magnifiers, as named in the title text. The product is presented as a simple inspection/accessory tool. The exact filename is used for the product image URL.",
+              "product_price": null,
+              "image_urls": [
+                "28.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "ytutILu9",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Utility & Multi-Tools",
+              "specifications": {
+                "hsn": "90291090",
+                "note_on_flyer": "Different sizes of LED magnifiers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

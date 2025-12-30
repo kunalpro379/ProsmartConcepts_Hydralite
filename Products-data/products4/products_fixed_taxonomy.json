@@ -1,0 +1,419 @@
+{
+  "products": {
+    "Personal Care": {
+      "category_id": "Erolna6",
+      "subcategories": {
+        "Personal Hygiene & Accessories": {
+          "subcategory_id": "IogaOSs0",
+          "products": [
+            {
+              "product_id": "PRD-0001",
+              "product_name": "WOXOUR Motivational Water Bottle",
+              "product_title": "Motivational Water Bottle with Time Marker & Removable Straw (32oz)",
+              "product_description": "This motivational water bottle is designed to help you track and stay consistent with your daily water intake using printed time markers and reminders. The design shown includes a one-click open lid with a locking mechanism for convenient one-hand opening. It features a removable carry strap and a removable straw, making it easy to drink on the go. The bottle is described as leakproof and intended for fitness, hiking, and everyday use. The poster highlights that it is BPA free and made of Eastman Tritan (Tritan sport water bottle). The time-marked water lines are meant to guide intake throughout the day so you can pace hydration. A wide-mouth opening is shown for easier filling and cleaning. Overall, it’s positioned as a well-designed, portable hydration bottle with practical features for active lifestyles.",
+              "product_price": null,
+              "image_urls": [
+                "Motivational bottle.jpeg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "IogaOSs0",
+              "category": "Personal Care",
+              "subcategory": "Personal Hygiene & Accessories",
+              "specifications": {
+                "capacity": "32oz",
+                "material": "Eastman Tritan (as shown)",
+                "bpa_free": true,
+                "features": [
+                  "Time marker",
+                  "One-hand opening",
+                  "Leakproof (as shown)",
+                  "Removable straw",
+                  "Carry strap",
+                  "Wide mouth"
+                ]
+              }
+            }
+          ]
+        },
+        "Grooming Tools": {
+          "subcategory_id": "oslitom5",
+          "products": [
+            {
+              "product_id": "PRD-0002",
+              "product_name": "Dental plaque detector",
+              "product_title": "UV Light Dental Plaque Detector for Easy Plaque Detection",
+              "product_description": "This dental plaque detector is presented as a device that makes plaque easier to spot using UV light. The poster explains that plaque can be invisible to the naked eye but becomes visibly highlighted through the detector. It illustrates the orange-red area as plaque when viewed under the device, making it easier to identify areas that need better brushing. The visuals show different mouth positions and usage on teeth, along with the device design. It is positioned as a quick way to check brushing effectiveness at home. The design emphasizes intuitive visibility and easy plaque detection. The message encourages users to verify whether they have really brushed their teeth by checking for highlighted plaque areas. It’s marketed as a simple and practical oral-care aid for improving daily dental hygiene routines.",
+              "product_price": null,
+              "image_urls": [
+                "PLAGUE DETECTOR.jpg"
+              ],
+              "category_id": "Erolna6",
+              "subcategory_id": "oslitom5",
+              "category": "Personal Care",
+              "subcategory": "Grooming Tools",
+              "specifications": {
+                "detection_method": "UV light (as shown)",
+                "highlight_color": "Orange-red plaque indication (as shown)",
+                "use_case": [
+                  "Plaque visibility check",
+                  "Brushing effectiveness check"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Gadgets & Accessories": {
+      "category_id": "isSseE1",
+      "subcategories": {
+        "Office & Desk Gadgets": {
+          "subcategory_id": "IoETfGs2",
+          "products": [
+            {
+              "product_id": "PRD-0003",
+              "product_name": "Patented Logo Pen",
+              "product_title": "Patented Logo Pen — Customize Your Product Directly on the Pen",
+              "product_description": "This product is shown as a range of “Patented-Logo-Pen” styles designed for branding and customization. The poster explicitly states that you can customize your product directly on the pen and mentions a world renowned manufacturer. Multiple pen designs are displayed, including variations with logos, themed toppers, and different color bodies. The visuals indicate options suitable for promotions, corporate gifting, or brand visibility. The collection includes standard click pens as well as novelty styles with decorative elements. The purpose of the product is to provide a pen body that can carry branding in a visible, integrated way. The layout suggests a broad assortment so you can match the design to your brand theme. Overall, it’s presented as a customizable pen solution for promotional and gifting needs.",
+              "product_price": null,
+              "image_urls": [
+                "Product PEN.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "customization": "Customise directly on the pen (as shown)",
+                "styles_shown": [
+                  "Click pens",
+                  "Novelty logo pens",
+                  "Multiple color variants"
+                ]
+              }
+            },
+            {
+              "product_id": "PRD-0009",
+              "product_name": "Sureline pH Pen",
+              "product_title": "Water pH Testing Meter (Pen) — Instant pH Test with Digital Accuracy",
+              "product_description": "This product is shown as a Sureline pH Pen designed to test water pH instantly with digital accuracy. The poster labels it as a “Water pH Testing Meter (Pen)” and shows two pen-style meter variants. A pH scale is displayed with acidic to alkaline ranges and a neutral range note indicating pH 7.0 to 8.5 as good for the human body (as shown). The visuals include buffer powder sachets labeled pH 4.01 @ 25°C and pH 6.86 @ 25°C. Button labels on the device are visible, including an ON/OFF button and a CAL button on one model. The pen form factor is presented as portable and easy to use. The image shows the probe end being dipped into a glass of water for measurement. Overall, it’s a compact pH measuring tool intended for quick and clear readings with calibration support shown via buffer solutions.",
+              "product_price": null,
+              "image_urls": [
+                "pH Pen new.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "type": "Water pH testing meter (pen)",
+                "buttons_shown": [
+                  "ON/OFF",
+                  "CAL"
+                ],
+                "buffers_shown": [
+                  "pH 4.01 @ 25°C buffer powder",
+                  "pH 6.86 @ 25°C buffer powder"
+                ],
+                "scale_shown": "Acidic (4.0+) to Alkaline (10.0) with Neutral range shown"
+              }
+            },
+            {
+              "product_id": "PRD-0011",
+              "product_name": "Tewameter TM 300",
+              "product_title": "Trans Epidermal Water Loss & Skin Barrier Function Measuring Device — TEWAMETER",
+              "product_description": "This product is shown as the Tewameter® TM 300, a device for measuring transepidermal water loss and skin barrier function. The poster headline reads “Trans Epidermal Water Loss & Skin Barrier Function - Measuring Device” and prominently labels the product as TEWAMETER. It mentions German technology / German precision and states it is most accepted for doctors and professionals (as shown). The description references an “open chamber” principle and positions the device for assessment of transepidermal water loss (TEWL). The visuals show the probe being used on skin areas including the hand and scalp, indicating dermatology or skin research style usage. A “Measurement Principle” section and supporting imagery are included on the poster. The layout suggests clinical and cosmetic dermatological research applications for monitoring skin barrier condition. Overall, it’s a professional skin measurement instrument intended for accurate TEWL evaluation and skin barrier assessment in medical or research settings.",
+              "product_price": null,
+              "image_urls": [
+                "TEWA meter.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "model": "Tewameter® TM 300",
+                "measurement": [
+                  "Transepidermal Water Loss (TEWL)",
+                  "Skin barrier function"
+                ],
+                "principle_shown": "Open chamber (as shown)"
+              }
+            },
+            {
+              "product_id": "PRD-0014",
+              "product_name": "Sureline Smart Pill-Box",
+              "product_title": "Smart Pill Box — Intelligent Time Reminder + Buzzer Reminder (App-Based)",
+              "product_description": "This product is shown as a Sureline Smart Pill-Box designed to help users manage weekly medication with reminders. The poster highlights a six-grid design for one-week dosage organization. It mentions getting reminders on the phone for pills due date and times, indicating app-based reminder support. It also states you can fill up to six different pills in one box and emphasizes a sturdy pocketable design. A no-sound mute function is listed, suggesting reminders can be managed without audible alerts if needed. The image shows a phone app interface and a “scan and download” section, reinforcing the app connection. Specifications displayed include dimensions 92.0 × 65.0 × 23.5 mm and a CR2032 battery. It also shows Bluetooth 4.0 connectivity and system requirements listed as iOS 9.0 / Android 6.0 or above. Overall, it’s a compact, app-enabled pill organizer aimed at improving adherence through scheduled reminders and weekly compartment planning.",
+              "product_price": null,
+              "image_urls": [
+                "SMART PILL BOX.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "IoETfGs2",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Office & Desk Gadgets",
+              "specifications": {
+                "design": "Six grid design (one week dosage) (as shown)",
+                "dimensions": "92.0 × 65.0 × 23.5 mm",
+                "battery": "CR2032 x 1",
+                "bluetooth": "Bluetooth 4.0",
+                "system_requirements": "iOS 9.0 / Android 6.0 or above (as shown)",
+                "features": [
+                  "Phone reminders for due date & times (as shown)",
+                  "Mute function (as shown)",
+                  "Pocketable design (as shown)"
+                ]
+              }
+            }
+          ]
+        },
+        "Travel & Car Accessories": {
+          "subcategory_id": "AcseCco7",
+          "products": [
+            {
+              "product_id": "PRD-0004",
+              "product_name": "Pashtush Shawl / Scarves Gift Pack",
+              "product_title": "Top Brands “Pashtush” Shawl / Scarves — Superpack Pashmina Gift Set",
+              "product_description": "This product is presented as “Top Brands ‘Pashtush Shawl / Scarves’” with a premium gift packaging theme. The visuals show branded Pashtush boxes, envelope-style packaging, and neatly presented shawls/scarves suitable for gifting. The poster highlights “Envelope Gift Packaging” and depicts a luxury presentation with decorative motifs. It also mentions “Superpack Pashmina Pashtush Shawl from best of India,” positioning it as a high-quality pashmina-style gift set. The layout shows multiple packaging styles, including a box with patterned fabric and ribbon branding. The intent is to provide a ready-to-gift presentation that looks premium and celebratory. The imagery emphasizes traditional, rich aesthetics and a curated feel. Overall, it’s a branded shawl/scarf gifting option with sophisticated packaging presentation.",
+              "product_price": null,
+              "image_urls": [
+                "PASHTUS SHAWLS.jpg"
+              ],
+              "category_id": "isSseE1",
+              "subcategory_id": "AcseCco7",
+              "category": "Gadgets & Accessories",
+              "subcategory": "Travel & Car Accessories",
+              "specifications": {
+                "packaging": [
+                  "Envelope gift packaging (as shown)",
+                  "Gift box packaging (as shown)"
+                ],
+                "brand_shown": "Pashtush",
+                "product_type": "Shawl / Scarves (as shown)"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Smart Home": {
+      "category_id": "raoESM4",
+      "subcategories": {
+        "Home Appliances": {
+          "subcategory_id": "PMphLsC7",
+          "products": [
+            {
+              "product_id": "PRD-0005",
+              "product_name": "Handheld Garment Steamer / Easy Steam Iron",
+              "product_title": "Handheld Garment Steamer — Easy Steam Iron with Ceramic Soleplate",
+              "product_description": "This handheld garment steamer is presented as an “Easy Steam Iron” suitable for all fabric types. The poster highlights a ceramic soleplate and positions the device as portable and extra lightweight for easy handling. The visuals show the steamer being used on clothes and demonstrate steam output during use. Multiple attachments are pictured, suggesting interchangeable heads or accessories for different garment-care tasks. The design is promoted as very versatile, with a compact form factor that is easy to store and carry. It’s intended for quick wrinkle removal and everyday garment refreshing at home or while traveling. The imagery focuses on convenience, portability, and multi-surface usability. Overall, it’s a practical home garment-care device for steaming and smoothing fabric efficiently.",
+              "product_price": null,
+              "image_urls": [
+                "Portable Steam Iron.png"
+              ],
+              "category_id": "raoESM4",
+              "subcategory_id": "PMphLsC7",
+              "category": "Smart Home",
+              "subcategory": "Home Appliances",
+              "specifications": {
+                "soleplate": "Ceramic (as shown)",
+                "positioning": [
+                  "Portable",
+                  "Extra lightweight",
+                  "For all fabric types (as shown)"
+                ],
+                "accessories_shown": [
+                  "Multiple attachments/heads (as shown)"
+                ]
+              }
+            }
+          ]
+        },
+        "Home Decor & Utilities": {
+          "subcategory_id": "SLIouhI5",
+          "products": [
+            {
+              "product_id": "PRD-0006",
+              "product_name": "Custom Bed Sheets & Pillow Covers",
+              "product_title": "Elegant Custom Bed Sheets & Pillow Covers (Can Be Custom Printed & Designed)",
+              "product_description": "This product is shown as elegant custom bed sheets and pillow covers with a coordinated look for a bedroom setup. The poster states that the set can be custom printed and designed, emphasizing personalization. The visuals include a bedsheet set, matching pillow covers, and printed drapes shown on a curtain rod. Multiple cushion cover designs are displayed, including playful and patterned options. The overall presentation highlights a premium, “very exclusive” positioning with a clean, modern interior background. The set appears designed to create a consistent aesthetic across bedding and soft furnishings. The imagery suggests suitability for clinics or themed interiors where coordinated textiles are needed. Overall, it’s a customizable home-linen solution covering bedding, cushions, and drapes in matching styles.",
+              "product_price": null,
+              "image_urls": [
+                "Pedia  custom bedsheet.jpg"
+              ],
+              "category_id": "raoESM4",
+              "subcategory_id": "SLIouhI5",
+              "category": "Smart Home",
+              "subcategory": "Home Decor & Utilities",
+              "specifications": {
+                "customization": "Custom printed & designed (as shown)",
+                "items_shown": [
+                  "Bed sheets",
+                  "Pillow covers",
+                  "Cushion covers",
+                  "Drapes/curtains"
+                ]
+              }
+            }
+          ]
+        },
+        "Home Comfort Devices": {
+          "subcategory_id": "RVOeMse0",
+          "products": [
+            {
+              "product_id": "PRD-0007",
+              "product_name": "STEPUP Digital Clock Bluetooth Speaker",
+              "product_title": "Digital Clock + Bluetooth Speaker with LCD Display (V5.0)",
+              "product_description": "This product is shown as a STEPUP digital clock combined with a Bluetooth speaker in a single device. The poster highlights an LCD display that is described as clear and bright. It lists Bluetooth version V5.0 and a transmission distance of 10 meters. The material is stated as ABS, with a built-in 1200 mAh lithium battery. Playing time is shown as 4 hours and charging time is around 2 hours. Frequency response is listed as 100 Hz to 20 KHz. The ports shown include TF card, AUX, micro port, and USB port. Overall, it’s positioned as an all-in-one bedside/desk gadget combining mirror-style display, alarm clock features, and wireless speaker playback.",
+              "product_price": null,
+              "image_urls": [
+                "TABLE CLOCK.JPG"
+              ],
+              "category_id": "raoESM4",
+              "subcategory_id": "RVOeMse0",
+              "category": "Smart Home",
+              "subcategory": "Home Comfort Devices",
+              "specifications": {
+                "bluetooth_version": "V5.0",
+                "transmission_distance": "10m",
+                "material": "ABS",
+                "battery": "1200 mAh li-battery (built-in)",
+                "playing_time": "4H",
+                "charging_time": "Around 2H",
+                "frequency_response": "100Hz - 20KHz",
+                "ports": [
+                  "TF Card",
+                  "AUX",
+                  "Micro Port",
+                  "USB Port"
+                ]
+              }
+            }
+          ]
+        },
+        "Smart Controls & Security": {
+          "subcategory_id": "IlUrNCO3",
+          "products": [
+            {
+              "product_id": "PRD-0008",
+              "product_name": "Wall Mounted Mobile Holder",
+              "product_title": "Wall Mounted Mobile Holder with Extra-Strong Holding Tape (Long-Term Hold)",
+              "product_description": "This wall mounted mobile holder is designed to keep phones and small items organized while freeing up desk or counter space. The poster highlights extra-strong holding tape and claims guaranteed holding for long-term use. The visuals show multiple color options and installation on walls near power sockets for convenient charging. It also shows that the holder can be used as a pocket organizer for items like remotes, stationery, and other small accessories. A “charge easily” panel indicates a reserved charging port at the bottom of the box, allowing a cable to pass through while the phone sits inside. The design is compact and intended for neat, clutter-free placement of everyday items. Multiple use scenes are displayed, including near workspaces and bedside areas. Overall, it’s a simple wall-mounted storage and charging-support solution for phones and small essentials.",
+              "product_price": null,
+              "image_urls": [
+                "Wall Mobile holder.jpg"
+              ],
+              "category_id": "raoESM4",
+              "subcategory_id": "IlUrNCO3",
+              "category": "Smart Home",
+              "subcategory": "Smart Controls & Security",
+              "specifications": {
+                "mounting": "Wall mounted",
+                "adhesive": "Extra-strong holding tape (as shown)",
+                "feature_shown": "Reserved charging port at bottom (as shown)",
+                "use_cases_shown": [
+                  "Phone holder while charging",
+                  "Small-item organizer"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    "Healthcare Essentials": {
+      "category_id": "HltaaL2",
+      "subcategories": {
+        "Medical Tools & Equipment": {
+          "subcategory_id": "upqTiim0",
+          "products": [
+            {
+              "product_id": "PRD-0010",
+              "product_name": "Sureline Veinseek Vein Finder",
+              "product_title": "Pedia & Adult Vein Finder — Sureline VEINSEEK",
+              "product_description": "This product is shown as the Sureline VEINSEEK, labeled as a “Pedia & Adult Vein Finder.” The poster explains that the vein finder can help medical professionals locate certain superficial veins. It is described as intended to be used as a supplement to appropriate medical training and experience. The text states it enables users to locate certain superficial veins in connection with medical procedures such as veni-puncture. The visuals show the device in use on a hand and an arm, with a red illumination ring highlighting the vein area. It is presented for use in hospitals and clinics where vein location determination is appropriate. The poster also highlights “Vein Detection Made EASY.” A “1 year warranty” note is shown on the design. Overall, it’s a handheld vein visualization aid intended to assist with vein identification during clinical procedures.",
+              "product_price": null,
+              "image_urls": [
+                "Veinseek.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "intended_users": "Medical professionals (as shown)",
+                "use_case": "Vein detection for veni-puncture support (as shown)",
+                "warranty_shown": "1 year warranty",
+                "light_shown": "Red illumination ring (as shown)"
+              }
+            },
+            {
+              "product_id": "PRD-0013",
+              "product_name": "LEVRAM LEV-ACP PRP Kit",
+              "product_title": "PRP in Orthopaedics — LEVRAM LEV-ACP Kit (Applications & References Poster)",
+              "product_description": "This product image presents a LEVRAM-branded LEV-ACP kit under the title “PRP in Orthopaedics — The Latest Therapy.” The kit components listed include LEV-ACP tubes (8ml x 2), a blood collection needle (22G x 1), a needle holder (x 1), a 5 ml syringe with needle (22G x 1), a 2 ml syringe with needle (24G x 1), and sterile tubes (x 2). The poster shows the packaged kit and highlights “APPLICATIONS” with illustrated conditions including osteoarthritis of knee, lateral epicondylitis, rotator cuff pathologies, patellar tendinopathy, and plantar fasciitis. A references section is included with multiple citations related to PRP use in orthopaedic conditions. The imagery reinforces a clinical, evidence-oriented presentation for medical use. Branding on the kit indicates LEV-ACP autologous conditioned plasma on the box (as shown). The layout provides both product component details and application context for orthopaedic therapy. Overall, it’s a PRP/ACP kit presentation focused on orthopaedic applications and supporting references.",
+              "product_price": null,
+              "image_urls": [
+                "PRP ortho.jpg"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "upqTiim0",
+              "category": "Healthcare Essentials",
+              "subcategory": "Medical Tools & Equipment",
+              "specifications": {
+                "kit_components_as_shown": [
+                  "LEV-ACP Tubes 8ml x 2",
+                  "Blood Collection Needle 22G x 1",
+                  "Needle Holder x 1",
+                  "5 ml Syringe with Needle 22G x 1",
+                  "2 ml Syringe with Needle 24G x 1",
+                  "Sterile Tubes x 2"
+                ],
+                "applications_as_shown": [
+                  "Osteoarthritis of knee",
+                  "Lateral epicondylitis",
+                  "Rotator cuff pathologies",
+                  "Patellar tendinopathy",
+                  "Plantar fasciitis"
+                ],
+                "brand_shown": "LEVRAM / LEV-ACP"
+              }
+            }
+          ]
+        },
+        "Diagnostic & Monitoring Devices": {
+          "subcategory_id": "daootnm2",
+          "products": [
+            {
+              "product_id": "PRD-0012",
+              "product_name": "LEV-ACP PRP Kit",
+              "product_title": "PRP in Orthopaedics — The Latest Therapy (LEV-ACP Kit Components)",
+              "product_description": "This product is presented as a PRP (platelet-rich plasma) kit for orthopaedics, titled “PRP in Orthopaedics — The Latest Therapy.” The poster lists kit components including LEV-ACP tubes (8 ml x 2), a blood collection needle (22G x 1), a needle holder (x 1), a 5 ml syringe with needle (22G x 1), a 2 ml syringe with needle (24G x 1), and sterile tubes (x 2). The kit box shown is labeled LEV-ACP and includes a visible tray with tubes and accessories. The poster also includes medical illustrations of joints and highlights common injury/condition areas in a body diagram. It describes the kit as “the only CDSO & FDA approved kit” on the graphic (as shown). The lower section shows an overview of PRP preparation and injection visuals for context. The layout positions it as an orthopaedic therapy support kit used in clinical settings. Overall, it’s a packaged PRP kit with specified components intended for PRP procedures in orthopaedics.",
+              "product_price": null,
+              "image_urls": [
+                "PRP in Orthopaedics.png"
+              ],
+              "category_id": "HltaaL2",
+              "subcategory_id": "daootnm2",
+              "category": "Healthcare Essentials",
+              "subcategory": "Diagnostic & Monitoring Devices",
+              "specifications": {
+                "kit_components_as_shown": [
+                  "LEV-ACP Tubes 8ml x 2",
+                  "Blood Collection Needle 22G x 1",
+                  "Needle Holder x 1",
+                  "5 ml Syringe with Needle 22G x 1",
+                  "2 ml Syringe with Needle 24G x 1",
+                  "Sterile Tubes x 2"
+                ],
+                "therapy_area": "Orthopaedics (as shown)",
+                "product_type": "Platelet-rich plasma (PRP) kit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

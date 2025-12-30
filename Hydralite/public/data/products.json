@@ -1,0 +1,94 @@
+{
+    "products": [
+        {
+            "id": "smart-handy-grip-trainer",
+            "name": "Smart Handy",
+            "short_title": "Smart Grip Trainer",
+            "description": "Smart Handy is an app-enabled muscle hand dynamometer designed to support upper extremity therapy and rehabilitation. It helps measure grip strength and assists therapists and patients in tracking recovery progress during physiotherapy sessions.",
+            "how_it_works": "The device detects grip force when squeezed and wirelessly transmits the data to a connected mobile application for real-time monitoring and progress tracking.",
+            "images": ["/hydralite/1.png", "/hydralite/2.png"],
+            "key_features": [
+                { "title": "Accuracy", "description": "Measures grip strength accurately" },
+                { "title": "Connectivity", "description": "Wireless connectivity with mobile application" },
+                { "title": "Support", "description": "Supports upper extremity rehabilitation therapy" },
+                { "title": "Versatility", "description": "Works best for at-home sessions and virtual therapy" },
+                { "title": "Design", "description": "Compact, lightweight, and easy to use" }
+            ],
+            "usage": [
+                "Physiotherapy sessions",
+                "Upper limb rehabilitation",
+                "Home-based therapy",
+                "Virtual and remote therapy programs"
+            ],
+            "category": "Healthcare",
+            "subcategory": "Rehabilitation"
+        },
+        {
+            "id": "water-power-led-lamp",
+            "name": "Water Power LED Lamp",
+            "short_title": "Saltwater Powered LED Lamp",
+            "description": "The Water Power LED Lamp is a portable lighting solution that operates using saltwater. It uses a magnesium anode and carbon cathode to generate electricity through a chemical reaction, providing light without the need for batteries, electricity, or solar panels.",
+            "how_it_works": "When saltwater is added to the lamp, a chemical reaction occurs between the magnesium anode and carbon cathode, generating electrical energy that powers the LED light.",
+            "images": ["/hydralite/2.png", "/hydralite/3.png"],
+            "key_features": [
+                { "title": "Saltwater Power", "description": "Powered entirely by saltwater" },
+                { "title": "Battery-free", "description": "No electricity, batteries, or solar panels required" },
+                { "title": "Long-lasting", "description": "Provides up to 120 hours of continuous light per use" },
+                { "title": "Safety", "description": "Simple, safe, and easy to operate" },
+                { "title": "Emergency", "description": "Suitable for off-grid and emergency situations" }
+            ],
+            "usage": [
+                "Rural and off-grid households",
+                "Emergency and disaster relief",
+                "Power outage situations",
+                "Outdoor and remote locations"
+            ],
+            "category": "Energy",
+            "subcategory": "Emergency Lighting"
+        },
+        {
+            "id": "energy-storage-system",
+            "name": "Energy Storage System",
+            "short_title": "Renewable Energy Battery System",
+            "description": "The Energy Storage System is a battery-based energy storage solution designed to store electricity generated from renewable sources such as solar power. It provides reliable backup energy for use during power shortages or emergencies.",
+            "images": ["/hydralite/3.png", "/hydralite/4.png"],
+            "key_features": [
+                { "title": "Storage", "description": "Stores energy generated from solar and renewable sources" },
+                { "title": "Backup", "description": "Provides backup power during outages" },
+                { "title": "Design", "description": "Designed for homes, hospitals, and rural infrastructure" },
+                { "title": "Sustainability", "description": "Supports sustainable and low-carbon energy usage" }
+            ],
+            "usage": [
+                "Residential homes",
+                "Hospitals and healthcare facilities",
+                "Rural and off-grid areas",
+                "Emergency power backup"
+            ],
+            "category": "Energy",
+            "subcategory": "Storage"
+        },
+        {
+            "id": "sun-a-wear-uv-tracker",
+            "name": "Sun-a-Wear",
+            "short_title": "Wearable UV Tracking System",
+            "description": "The Sun-a-Wear system consists of a solar-powered portable UV sensor and the Sun-a-Wear mobile application. It helps users monitor UV radiation exposure throughout the day and take preventive actions to protect skin health.",
+            "images": ["/hydralite/4.png", "/hydralite/1.png"],
+            "key_features": [
+                { "title": "Tracking", "description": "Real-time UV radiation tracking" },
+                { "title": "Alerts", "description": "Custom UV dose limit alerts" },
+                { "title": "Recommendations", "description": "Protective recommendations based on exposure" },
+                { "title": "Reminders", "description": "Sunscreen reapplication reminders" },
+                { "title": "Knowledge", "description": "Knowledge base on skin health and sun protection" },
+                { "title": "Management", "description": "Ability to manage up to 4 sensors from one app" }
+            ],
+            "usage": [
+                "Daily sun exposure monitoring",
+                "Skin protection for adults and children",
+                "Outdoor activities",
+                "Family UV safety management"
+            ],
+            "category": "Healthcare",
+            "subcategory": "Monitoring"
+        }
+    ]
+}

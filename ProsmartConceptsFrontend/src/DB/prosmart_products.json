@@ -1,0 +1,2461 @@
+{
+  "products": {
+    "Healthcare Essentials": {
+      "Medical Devices": {
+        "category_id": "cat_001",
+        "subcategories": {
+          "Diagnostic Tools": {
+            "subcategory_id": "subcat_001",
+            "products": [
+              {
+                "product_name": "TEmkin Otoscope with LED",
+                "product_title": "TEmkin Otoscope with LED – Professional Veterinarian Ear Scope with Multi-Size Accessories",
+                "product_description": "A professional-grade diagnostic otoscope featuring bright LED illumination, high-quality optics, and a portable ergonomic design. Suitable for examining the ear canal and eardrum in pets of different sizes. Includes multiple reusable ear specula, magnification lens, and textured grip for precise control. Ideal for healthcare professionals and home users.",
+                "product_id": "prod_0001",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670225/Medical_Devices/Diagnostic_Tools/prod_0001/prod_0001_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670226/Medical_Devices/Diagnostic_Tools/prod_0001/prod_0001_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670228/Medical_Devices/Diagnostic_Tools/prod_0001/prod_0001_img5.jpg"
+                ]
+              }
+            ]
+          },
+          "Fetal Dopplers": {
+            "subcategory_id": "subcat_002",
+            "products": [
+              {
+                "product_name": "JSL-T501 Fetal Doppler",
+                "product_title": "JSL-T501 Handheld Fetal Doppler with Digital Display",
+                "product_description": "A handheld fetal heartbeat detection device using Doppler ultrasound. Includes speaker, digital BPM display, and probe for pregnancy monitoring.",
+                "product_id": "prod_0002",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670237/Medical_Devices/Fetal_Dopplers/prod_0002/prod_0002_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670243/Medical_Devices/Fetal_Dopplers/prod_0002/prod_0002_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670247/Medical_Devices/Fetal_Dopplers/prod_0002/prod_0002_img5.jpg"
+                ]
+              }
+            ]
+          },
+          "Fetal Monitors": {
+            "subcategory_id": "subcat_003",
+            "products": [
+              {
+                "product_name": "Sureline Foetal Doppler",
+                "product_title": "Sureline Portable Foetal Doppler Heartbeat Monitor",
+                "product_description": "A portable fetal doppler designed to detect and monitor a baby’s heartbeat from home. Features LCD display, 3.0MHz ultrasound frequency, and built-in speakers.",
+                "product_id": "prod_0003",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670251/Medical_Devices/Fetal_Monitors/prod_0003/prod_0003_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670252/Medical_Devices/Fetal_Monitors/prod_0003/prod_0003_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670253/Medical_Devices/Fetal_Monitors/prod_0003/prod_0003_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Eye Care": {
+            "subcategory_id": "subcat_004",
+            "products": [
+              {
+                "product_name": "Just Tears Eye Drops",
+                "product_title": "Just Tears Lubricating Eye Drops 10ml",
+                "product_description": "A 10ml lubricating eye drop solution used to relieve dryness and irritation. Suitable for daily use and available through major pharmacies.",
+                "product_id": "prod_0004",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670230/Medical_Devices/Eye_Care/prod_0004/prod_0004_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670231/Medical_Devices/Eye_Care/prod_0004/prod_0004_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670233/Medical_Devices/Eye_Care/prod_0004/prod_0004_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Antacids": {
+            "subcategory_id": "subcat_005",
+            "products": [
+              {
+                "product_name": "Ranraft Tablet",
+                "product_title": "Ranraft Antacid Sugar-Free Mint Tablets",
+                "product_description": "A sugar-free antacid tablet that relieves acidity, heartburn, and indigestion. Contains sodium alginate, magnesium stearate, and potassium bicarbonate.",
+                "product_id": "prod_0005",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670223/Medical_Devices/Antacids/prod_0005/prod_0005_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Sanitizers": {
+            "subcategory_id": "subcat_006",
+            "products": [
+              {
+                "product_name": "Perisafe Professional Alcofoam HS",
+                "product_title": "Perisafe Professional Alcofoam HS Foaming Hand Sanitizer",
+                "product_description": "A foaming hand sanitizer containing 70% ethyl alcohol. Kills 99.99% germs with a non-sticky, gentle formula.",
+                "product_id": "prod_0006",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670254/Medical_Devices/Sanitizers/prod_0006/prod_0006_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670255/Medical_Devices/Sanitizers/prod_0006/prod_0006_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670256/Medical_Devices/Sanitizers/prod_0006/prod_0006_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Medical Branding Boxes": {
+            "subcategory_id": "subcat_007",
+            "products": [
+              {
+                "product_name": "Sanrad Medical Systems Box",
+                "product_title": "Sanrad Medical Systems Equipment Packaging Box",
+                "product_description": "A branded box from Sanrad Medical Systems, suppliers of diagnostic imaging solutions such as CT, MRI, and X-ray machines.",
+                "product_id": "prod_0007",
+                "product_price": null,
+                "image_urls": []
+              }
+            ]
+          }
+        }
+      },
+      "Healthcare": {
+        "category_id": "cat_006",
+        "subcategories": {
+          "Skincare": {
+            "subcategory_id": "subcat_023",
+            "products": [
+              {
+                "product_name": "Photostable sunscreen and Bristaa",
+                "product_title": "Photostable Sunscreen & Bristaa Intense Brightening Cream",
+                "product_description": "Photostable is a dermatologist-recommended SPF sunscreen offering broad-spectrum protection with a matte non-greasy finish. Bristaa Intense is a steroid-free cream for brightening skin and reducing dark spots, enriched with moisturizers and natural extracts.",
+                "product_id": "prod_0027",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670119/Healthcare/Skincare/prod_0027/prod_0027_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Medicines": {
+            "subcategory_id": "subcat_024",
+            "products": [
+              {
+                "product_name": "Zolsoma tablets",
+                "product_title": "Zolsoma Tablets with Zolpidem & Melatonin",
+                "product_description": "Zolsoma tablets combine Zolpidem and Melatonin to help treat insomnia by promoting natural sleep cycles. Available through online pharmacies.",
+                "product_id": "prod_0028",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670116/Healthcare/Medicines/prod_0028/prod_0028_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670117/Healthcare/Medicines/prod_0028/prod_0028_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "Loceryl medicated nail lacquer",
+                "product_title": "Loceryl 5% Amorolfine Medicated Nail Lacquer",
+                "product_description": "Loceryl medicated nail lacquer is an antifungal treatment containing 5% amorolfine. It is used to treat fungal nail infections and is typically applied once weekly to affected fingernails or toenails. Available in 2.5 ml and 5 ml bottle sizes.",
+                "product_id": "prod_0029",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670118/Healthcare/Medicines/prod_0029/prod_0029_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Vitamins & Supplements": {
+            "subcategory_id": "subcat_025",
+            "products": [
+              {
+                "product_name": "Speedral Iron and Folic Acid Capsules",
+                "product_title": "Speedral Iron & Folic Acid Capsules with Sucrosomial Technology",
+                "product_description": "A patented iron and folic acid supplement using Sucrosomial Technology for uninterrupted absorption. Marketed as a revolutionary formulation with enhanced bioavailability.",
+                "product_id": "prod_0030",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670122/Healthcare/Vitamins__Supplements/prod_0030/prod_0030_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670123/Healthcare/Vitamins__Supplements/prod_0030/prod_0030_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670125/Healthcare/Vitamins__Supplements/prod_0030/prod_0030_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Skincare Tools": {
+            "subcategory_id": "subcat_026",
+            "products": [
+              {
+                "product_name": "Smartslide Ice Roller",
+                "product_title": "Smartslide Facial Ice Roller for Cold Therapy Massage",
+                "product_description": "A cold therapy facial roller used to reduce puffiness, tighten pores, and soothe skin. Ideal for use after waxing, dermaplaning, or microdermabrasion. Suitable for face, neck, and body massage.",
+                "product_id": "prod_0031",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670119/Healthcare/Skincare_Tools/prod_0031/prod_0031_img1.jpg"
+                ]
+              },
+              {
+                "product_name": "SK-IV Digital Moisture Monitor",
+                "product_title": "SK-IV Digital Skin Moisture & Oil Analyzer",
+                "product_description": "A portable digital moisture monitor using biosensing technology to measure skin hydration and oil levels. Features an LCD display and one-touch operation. Useful for home skincare routines and salon use.",
+                "product_id": "prod_0032",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670121/Healthcare/Skincare_Tools/prod_0032/prod_0032_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Medications": {
+            "subcategory_id": "subcat_027",
+            "products": [
+              {
+                "product_name": "Alaspan AM",
+                "product_title": "Alaspan AM Non-Sedating 24-Hour Allergy Relief Tablets",
+                "product_description": "Alaspan AM antihistamine tablets marketed for 24-hour non-sedating allergy relief with 'Triple A action.' Manufactured by MSD.",
+                "product_id": "prod_0033",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670110/Healthcare/Medications/prod_0033/prod_0033_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670112/Healthcare/Medications/prod_0033/prod_0033_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "MHG Lotion",
+                "product_title": "MHG Lotion for Vitiligo Treatment",
+                "product_description": "A vitiligo treatment lotion containing fibroblast growth factor-derived decapeptide. Promotes melanocyte growth and movement to restore natural pigmentation. Commonly available in 3ml or 6ml.",
+                "product_id": "prod_0034",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670113/Healthcare/Medications/prod_0034/prod_0034_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670115/Healthcare/Medications/prod_0034/prod_0034_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "Lastavin HTZ Tablets",
+                "product_title": "Lastavin HTZ Valsartan + Hydrochlorothiazide Tablets",
+                "product_description": "A combination medication containing valsartan and hydrochlorothiazide used to treat hypertension. Helps relax blood vessels and reduce excess fluid to lower blood pressure.",
+                "product_id": "prod_0035",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670115/Healthcare/Medications/prod_0035/prod_0035_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Fitness & Medical Equipment": {
+        "category_id": "cat_011",
+        "subcategories": {
+          "Strength Measuring Devices": {
+            "subcategory_id": "subcat_036",
+            "products": [
+              {
+                "product_name": "Camry EH101 Electronic Hand Dynamometer",
+                "product_title": "Camry EH101 Electronic Hand Dynamometer Grip Strength Meter",
+                "product_description": "A digital hand dynamometer with a high-precision strain gauge sensor, adjustable handle, and 8 memory profiles. Measures grip strength up to 90 kg with an LCD display showing strength levels and progress tracking.",
+                "product_id": "prod_0044",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670097/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670097/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670098/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img13.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670099/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img14.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670099/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670100/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670101/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670103/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670103/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img8.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670104/Fitness__Medical_Equipment/Strength_Measuring_Devices/prod_0044/prod_0044_img9.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Dental Care": {
+        "category_id": "cat_012",
+        "subcategories": {
+          "Electric Dental Cleaners": {
+            "subcategory_id": "subcat_037",
+            "products": [
+              {
+                "product_name": "Portable Ultrasonic Electric Tooth Cleaner",
+                "product_title": "Portable Ultrasonic Electric Tartar Remover with LED Spotlight",
+                "product_description": "A handheld ultrasonic dental cleaner designed for removing plaque, tartar, and stains. Features 4 adjustable intensity settings, LED spotlight, and vibration technology for home dental care.",
+                "product_id": "prod_0045",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670085/Dental_Care/Electric_Dental_Cleaners/prod_0045/prod_0045_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical Equipment": {
+        "category_id": "cat_013",
+        "subcategories": {
+          "BP Accessories": {
+            "subcategory_id": "subcat_038",
+            "products": [
+              {
+                "product_name": "Diamond Blood Pressure Cuff Cloth Bag",
+                "product_title": "Diamond Replacement Cloth Bag for BP Monitor Cuffs",
+                "product_description": "A reusable and durable cloth bag designed for Diamond brand BP monitor cuffs. Made from high-quality fabric, lightweight, and eco-friendly.",
+                "product_id": "prod_0046",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670261/Medical_Equipment/BP_Accessories/prod_0046/prod_0046_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Nebulizers": {
+            "subcategory_id": "subcat_039",
+            "products": [
+              {
+                "product_name": "JSL-W302 Mesh Nebulizer",
+                "product_title": "JSL-W302 Portable Mesh Nebulizer",
+                "product_description": "A compact mesh nebulizer featuring one-touch operation, quiet function, USB or battery power, and a detachable 10ml chamber for respiratory treatments.",
+                "product_id": "prod_0047",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670264/Medical_Equipment/Nebulizers/prod_0047/prod_0047_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670267/Medical_Equipment/Nebulizers/prod_0047/prod_0047_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Pharmaceuticals": {
+        "category_id": "cat_019",
+        "subcategories": {
+          "Medications": {
+            "subcategory_id": "subcat_046",
+            "products": [
+              {
+                "product_name": "Tellzy / Tellzy-AM",
+                "product_title": "Tellzy & Tellzy-AM Telmisartan Tablets by Alembic",
+                "product_description": "Blood pressure management tablets including Telmisartan (Tellzy) and Telmisartan + Amlodipine (Tellzy-AM). Used for hypertension control.",
+                "product_id": "prod_0054",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670357/Pharmaceuticals/Medications/prod_0054/prod_0054_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Smart Health Devices": {
+        "category_id": "cat_022",
+        "subcategories": {
+          "Pill Management": {
+            "subcategory_id": "subcat_050",
+            "products": [
+              {
+                "product_name": "Smart Pill Box",
+                "product_title": "Cipla Smart Slide Medication Organizer",
+                "product_description": "A medication organizer featuring LED and sound alerts, consumption tracking, and long battery life. Helps users manage daily medication schedules.",
+                "product_id": "prod_0058",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670374/Smart_Health_Devices/Pill_Management/prod_0058/prod_0058_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670374/Smart_Health_Devices/Pill_Management/prod_0058/prod_0058_img4.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Ear Care Devices": {
+        "category_id": "cat_023",
+        "subcategories": {
+          "Ear Scopes": {
+            "subcategory_id": "subcat_051",
+            "products": [
+              {
+                "product_name": "Portronics Xlife Ear Otoscope",
+                "product_title": "Portronics Xlife Wireless Smart Ear Otoscope Cleaner",
+                "product_description": "A 1080p FHD wireless ear otoscope featuring 6 LED lights, a 3.5mm lens, and a 3-axis gyroscope. Connects to mobile apps for real-time ear canal visualization and cleaning.",
+                "product_id": "prod_0059",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670086/Ear_Care_Devices/Ear_Scopes/prod_0059/prod_0059_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670087/Ear_Care_Devices/Ear_Scopes/prod_0059/prod_0059_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "Xlife Smart Visual Ear Cleaner",
+                "product_title": "Xlife Smart Visual Ear Cleaner with FHD Camera",
+                "product_description": "A wireless ear cleaning device with a 1080P HD camera and LED lights for safe wax removal. Connects to a smartphone for visual cleaning guidance.",
+                "product_id": "prod_0060",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670088/Ear_Care_Devices/Ear_Scopes/prod_0060/prod_0060_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Personal Care": {
+      "Beauty & Personal Care": {
+        "category_id": "cat_002",
+        "subcategories": {
+          "Makeup Tools": {
+            "subcategory_id": "subcat_008",
+            "products": [
+              {
+                "product_name": "Makeup Mirror with LED Light",
+                "product_title": "Foldable LED Makeup Mirror with Touch Control & Adjustable Lighting",
+                "product_description": "A slim, foldable LED makeup mirror featuring stepless dimming and three light color modes. Designed for travel, home use, and quick touch-ups. Offers bright, clear illumination with touch controls for customized lighting.",
+                "product_id": "prod_0008",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670034/Beauty__Personal_Care/Makeup_Tools/prod_0008/prod_0008_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670037/Beauty__Personal_Care/Makeup_Tools/prod_0008/prod_0008_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "MEIYITING Cosmetic Makeup Brushes",
+                "product_title": "MEIYITING Professional Cosmetic Makeup Brush Set",
+                "product_description": "A set of face blender and cosmetic makeup brushes by MEIYITING, suitable for salon and personal use. Packaged in a clear bag labeled 'Best Quality for Make Up'.",
+                "product_id": "prod_0009",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670041/Beauty__Personal_Care/Makeup_Tools/prod_0009/prod_0009_img1.jpg"
+                ]
+              },
+              {
+                "product_name": "Red Square Small Handle Hand Mirror",
+                "product_title": "Red Square Wooden Frame Portable Handheld Vanity Mirror",
+                "product_description": "A portable wooden-frame handheld mirror suitable for personal grooming, travel, and daily makeup use. Lightweight and designed for women and girls.",
+                "product_id": "prod_0010",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670043/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670043/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670045/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img11.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670046/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img12.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670047/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670047/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670048/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670048/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670049/Beauty__Personal_Care/Makeup_Tools/prod_0010/prod_0010_img8.jpg"
+                ]
+              }
+            ]
+          },
+          "Hair Care": {
+            "subcategory_id": "subcat_009",
+            "products": [
+              {
+                "product_name": "Hair Dye Stick - for Gray Hair Coverage - 2-in-1",
+                "product_title": "2-in-1 Gray Hair Coverage Dye Stick with Scalp Applicator",
+                "product_description": "A portable 2-in-1 hair dye stick and scalp applicator designed for precise application on hair roots. Features rolling ball teeth for even distribution and improved absorption. Suitable for applying oils, serums, and hair treatments directly to the scalp.",
+                "product_id": "prod_0011",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670010/Beauty__Personal_Care/Hair_Care/prod_0011/prod_0011_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670012/Beauty__Personal_Care/Hair_Care/prod_0011/prod_0011_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670013/Beauty__Personal_Care/Hair_Care/prod_0011/prod_0011_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670015/Beauty__Personal_Care/Hair_Care/prod_0011/prod_0011_img5.jpg"
+                ]
+              },
+              {
+                "product_name": "5-in-1 derma roller kit",
+                "product_title": "5-in-1 Microneedling Derma Roller Kit with Interchangeable Titanium Heads",
+                "product_description": "A 5-in-1 derma roller kit with multiple interchangeable microneedle heads made of titanium. Helps improve collagen production, reduce wrinkles, acne scars, and stretch marks. Enhances serum absorption and suitable for both facial and body care.",
+                "product_id": "prod_0012",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670016/Beauty__Personal_Care/Hair_Care/prod_0012/prod_0012_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Personal Grooming Tools": {
+            "subcategory_id": "subcat_010",
+            "products": [
+              {
+                "product_name": "Manicure and Pedicure Tool Set",
+                "product_title": "Stainless Steel Manicure & Pedicure Grooming Kit",
+                "product_description": "A complete manicure and pedicure grooming set with nail clippers, cuticle scissors, files, and pedicure knives. Comes in a portable black case suitable for travel.",
+                "product_id": "prod_0013",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670050/Beauty__Personal_Care/Personal_Grooming_Tools/prod_0013/prod_0013_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Storage & Organizers": {
+            "subcategory_id": "subcat_011",
+            "products": [
+              {
+                "product_name": "Flexbox L Storage Box",
+                "product_title": "Flexbox L Multi-Container Storage Organizer Box",
+                "product_description": "The Flexbox L Storage Box includes six small containers designed for organising small items. Ideal for managing everyday essentials efficiently.",
+                "product_id": "prod_0014",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670060/Beauty__Personal_Care/Storage__Organizers/prod_0014/prod_0014_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670063/Beauty__Personal_Care/Storage__Organizers/prod_0014/prod_0014_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Makeup Organizers": {
+            "subcategory_id": "subcat_012",
+            "products": [
+              {
+                "product_name": "Plastic Makeup Organizer with Drawer",
+                "product_title": "Plastic Multi-Compartment Makeup Organizer with Drawer",
+                "product_description": "A plastic multi-compartment organizer designed for storing brushes, lipsticks, skincare products, and other cosmetics. Includes a drawer for versatile storage.",
+                "product_id": "prod_0015",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670029/Beauty__Personal_Care/Makeup_Organizers/prod_0015/prod_0015_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670030/Beauty__Personal_Care/Makeup_Organizers/prod_0015/prod_0015_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670033/Beauty__Personal_Care/Makeup_Organizers/prod_0015/prod_0015_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Skin Care Products": {
+            "subcategory_id": "subcat_013",
+            "products": [
+              {
+                "product_name": "Acne-OC Gel",
+                "product_title": "Acne-OC Sebum Regulating Moisturizer for Acne-Prone Skin",
+                "product_description": "A sebum-regulating, lightweight moisturizer for acne-prone skin. Non-comedogenic, non-irritant, and free from parabens, alcohol, and dye. Manufactured by IPCA Laboratories.",
+                "product_id": "prod_0016",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670050/Beauty__Personal_Care/Skin_Care_Products/prod_0016/prod_0016_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670052/Beauty__Personal_Care/Skin_Care_Products/prod_0016/prod_0016_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "Humiderm",
+                "product_title": "Humiderm Ultra Hydrating Skincare Lotion/Cream",
+                "product_description": "A lightweight hydrating skincare product suitable for dry and sensitive skin. Helps restore moisture balance and soothe dermatitis and eczema symptoms.",
+                "product_id": "prod_0017",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670053/Beauty__Personal_Care/Skin_Care_Products/prod_0017/prod_0017_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Laser Protection": {
+            "subcategory_id": "subcat_014",
+            "products": [
+              {
+                "product_name": "Aloviak Laser Protective Eye Patch",
+                "product_title": "Aloviak Laser Protective Eye Patch for Cosmetic Procedures",
+                "product_description": "A protective eye patch for shielding eyes during laser, IPL, and LED treatments. Made from durable materials and designed for a snug, comfortable fit.",
+                "product_id": "prod_0018",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670022/Beauty__Personal_Care/Laser_Protection/prod_0018/prod_0018_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670025/Beauty__Personal_Care/Laser_Protection/prod_0018/prod_0018_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670028/Beauty__Personal_Care/Laser_Protection/prod_0018/prod_0018_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Hair Care Medication": {
+            "subcategory_id": "subcat_015",
+            "products": [
+              {
+                "product_name": "Mintop Gain",
+                "product_title": "Mintop Gain Hair Regrowth Solution",
+                "product_description": "A topical solution containing minoxidil and finasteride for treating male pattern baldness. Helps improve blood flow to hair follicles and reduce DHT.",
+                "product_id": "prod_0019",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670019/Beauty__Personal_Care/Hair_Care_Medication/prod_0019/prod_0019_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Beauty Devices": {
+        "category_id": "cat_014",
+        "subcategories": {
+          "Mole & Spot Removal Tools": {
+            "subcategory_id": "subcat_040",
+            "products": [
+              {
+                "product_name": "Nevus Pen",
+                "product_title": "Nevus Pen Plasma Spot & Mole Removal Device",
+                "product_description": "A plasma-based mole and spot removal device featuring adjustable power levels and multiple needle types. Designed for home cosmetic use and USB rechargeable.",
+                "product_id": "prod_0048",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669998/Beauty_Devices/Mole__Spot_Removal_Tools/prod_0048/prod_0048_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670000/Beauty_Devices/Mole__Spot_Removal_Tools/prod_0048/prod_0048_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Microneedling": {
+            "subcategory_id": "subcat_041",
+            "products": [
+              {
+                "product_name": "My M Micro Needling Pen",
+                "product_title": "My M Adjustable Micro Needling Pen",
+                "product_description": "A micro-needling device for collagen induction therapy. Uses disposable cartridges with adjustable needle depth for wrinkles, scars, and stretch marks.",
+                "product_id": "prod_0049",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669986/Beauty_Devices/Microneedling/prod_0049/prod_0049_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669986/Beauty_Devices/Microneedling/prod_0049/prod_0049_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669987/Beauty_Devices/Microneedling/prod_0049/prod_0049_img11.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669987/Beauty_Devices/Microneedling/prod_0049/prod_0049_img14.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669988/Beauty_Devices/Microneedling/prod_0049/prod_0049_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669989/Beauty_Devices/Microneedling/prod_0049/prod_0049_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669990/Beauty_Devices/Microneedling/prod_0049/prod_0049_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669991/Beauty_Devices/Microneedling/prod_0049/prod_0049_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669993/Beauty_Devices/Microneedling/prod_0049/prod_0049_img6.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669994/Beauty_Devices/Microneedling/prod_0049/prod_0049_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669997/Beauty_Devices/Microneedling/prod_0049/prod_0049_img9.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Clothing & Accessories": {
+        "category_id": "cat_015",
+        "subcategories": {
+          "Shawls & Stoles": {
+            "subcategory_id": "subcat_042",
+            "products": [
+              {
+                "product_name": "Pashtush Shawl",
+                "product_title": "Pashtush Premium Wool Shawl / Stole",
+                "product_description": "A premium Pashtush wool shawl known for its rich texture and traditional Indian craftsmanship. Made from fine wool or pashmina fibers, packaged in a luxury box, suitable for gifting and daily wear.",
+                "product_id": "prod_0050",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670065/Clothing__Accessories/Shawls__Stoles/prod_0050/prod_0050_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670084/Clothing__Accessories/Shawls__Stoles/prod_0050/prod_0050_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home Fragrance": {
+        "category_id": "cat_020",
+        "subcategories": {
+          "Air Fresheners": {
+            "subcategory_id": "subcat_047",
+            "products": [
+              {
+                "product_name": "CamPure Camphor Cone",
+                "product_title": "CamPure Organic Jasmine Camphor Cone Air Freshener",
+                "product_description": "A 100% organic camphor cone that provides long-lasting jasmine fragrance while repelling mosquitoes. Safe for use in cars, homes, wardrobes, and bathrooms.",
+                "product_id": "prod_0055",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670137/Home_Fragrance/Air_Fresheners/prod_0055/prod_0055_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Beauty Tools": {
+        "category_id": "cat_021",
+        "subcategories": {
+          "Face Rollers": {
+            "subcategory_id": "subcat_048",
+            "products": [
+              {
+                "product_name": "Ice Roller",
+                "product_title": "Ice Roller for Face & Skin Cooling Therapy",
+                "product_description": "A facial massage tool with a freezable gel or stainless roller designed to reduce puffiness, inflammation, and redness while improving circulation.",
+                "product_id": "prod_0056",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670005/Beauty_Tools/Face_Rollers/prod_0056/prod_0056_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670006/Beauty_Tools/Face_Rollers/prod_0056/prod_0056_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670009/Beauty_Tools/Face_Rollers/prod_0056/prod_0056_img4.jpg"
+                ]
+              }
+            ]
+          },
+          "Diagnostic Strips": {
+            "subcategory_id": "subcat_049",
+            "products": [
+              {
+                "product_name": "Ketocip Dandruff Test Strips",
+                "product_title": "Ketocip Anti-Dandruff Diagnostic Test Strips by Cipla",
+                "product_description": "Diagnostic test strips designed to detect dandruff severity. Part of Cipla’s anti-dandruff care range used to evaluate flaking, itching, and fungal issues.",
+                "product_id": "prod_0057",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670003/Beauty_Tools/Diagnostic_Strips/prod_0057/prod_0057_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670004/Beauty_Tools/Diagnostic_Strips/prod_0057/prod_0057_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Smart Home": {
+      "Home & Kitchen": {
+        "category_id": "cat_003",
+        "subcategories": {
+          "Kitchen Organizers": {
+            "subcategory_id": "subcat_016",
+            "products": [
+              {
+                "product_name": "Joseph Joseph Caddy Tower Slimline Sink Tidy",
+                "product_title": "Joseph Joseph Caddy Tower Slimline Sink Tidy Organizer",
+                "product_description": "A slim, compact sink organizer with sections for brushes, sponges, and washing-up liquid. Includes a drainage spout and fully dismantlable design for easy cleaning. Ideal for maintaining a neat and hygienic kitchen sink area.",
+                "product_id": "prod_0020",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670151/Home__Kitchen/Kitchen_Organizers/prod_0020/prod_0020_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670152/Home__Kitchen/Kitchen_Organizers/prod_0020/prod_0020_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Tableware": {
+            "subcategory_id": "subcat_017",
+            "products": [
+              {
+                "product_name": "Clay Craft Fine Tableware Coffee Mugs",
+                "product_title": "Clay Craft Fine Tableware – Set of 6 Ceramic Coffee Mugs",
+                "product_description": "A set of six ceramic Clay Craft coffee mugs with vibrant floral designs. Durable, chip-resistant, and typically microwave- and dishwasher-safe. Ideal for home or gifting.",
+                "product_id": "prod_0021",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670153/Home__Kitchen/Tableware/prod_0021/prod_0021_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Cleaning Tools": {
+            "subcategory_id": "subcat_018",
+            "products": [
+              {
+                "product_name": "Magic Silicone Gloves",
+                "product_title": "Magic Silicone Multi-Purpose Cleaning Gloves",
+                "product_description": "100% silicone dishwashing gloves with built-in scrubbers. Antibacterial, heat-resistant, and reusable. Suitable for washing dishes, bathrooms, and pet hair removal.",
+                "product_id": "prod_0022",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670150/Home__Kitchen/Cleaning_Tools/prod_0022/prod_0022_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home Appliances": {
+        "category_id": "cat_004",
+        "subcategories": {
+          "Humidifiers": {
+            "subcategory_id": "subcat_019",
+            "products": [
+              {
+                "product_name": "USB-powered duck-shaped humidifier",
+                "product_title": "USB Duck-Shaped Portable Humidifier with Super Atomization",
+                "product_description": "A compact duck-shaped USB humidifier featuring super atomization, ideal for desks, cars, and small spaces. Provides portable moisture control with a cute and functional design.",
+                "product_id": "prod_0023",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670128/Home_Appliances/Humidifiers/prod_0023/prod_0023_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670129/Home_Appliances/Humidifiers/prod_0023/prod_0023_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670130/Home_Appliances/Humidifiers/prod_0023/prod_0023_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Air Purifiers & Insect Killers": {
+            "subcategory_id": "subcat_020",
+            "products": [
+              {
+                "product_name": "Smart Frog",
+                "product_title": "Smart Frog 4-in-1 Portable Air Purifier & UV Insect Killer",
+                "product_description": "A Smart Frog branded 4-in-1 device featuring ionizer, photocatalysis, UV lamp, and anion release. Designed for cars and small rooms, it works as an air purifier or insect killer. Low power consumption and easy to clean.",
+                "product_id": "prod_0024",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670126/Home_Appliances/Air_Purifiers__Insect_Killers/prod_0024/prod_0024_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670127/Home_Appliances/Air_Purifiers__Insect_Killers/prod_0024/prod_0024_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home & Decor": {
+        "category_id": "cat_005",
+        "subcategories": {
+          "Locks & Security": {
+            "subcategory_id": "subcat_021",
+            "products": [
+              {
+                "product_name": "Vintage Style Antique Brass Fish Shaped Lock with 2 Keys",
+                "product_title": "Handcrafted Antique Brass Fish-Shaped Padlock with 2 Keys",
+                "product_description": "A traditional handcrafted brass fish-shaped padlock made using Indian sand-casting techniques. Functional and decorative, includes 2 keys and a unique trick-lock opening mechanism.",
+                "product_id": "prod_0025",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670147/Home__Decor/Locks__Security/prod_0025/prod_0025_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670149/Home__Decor/Locks__Security/prod_0025/prod_0025_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Clocks": {
+            "subcategory_id": "subcat_022",
+            "products": [
+              {
+                "product_name": "Water-Powered Analog Clock",
+                "product_title": "Water-Powered Analog Clock by Emax Traders",
+                "product_description": "A small water-powered analog clock utilizing clepsydra-like technology. Dimensions approx. 16x12x7 cm. Designed for eco-friendly timekeeping without batteries.",
+                "product_id": "prod_0026",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670146/Home__Decor/Clocks/prod_0026/prod_0026_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670147/Home__Decor/Clocks/prod_0026/prod_0026_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Gadgets & Accessories": {
+      "Sports & Outdoors": {
+        "category_id": "cat_007",
+        "subcategories": {
+          "Hydration Bottles": {
+            "subcategory_id": "subcat_028",
+            "products": [
+              {
+                "product_name": "Silicone Water Bottle-1 Litre Motivational",
+                "product_title": "1-Litre Motivational Silicone Water Bottle with Time Marker",
+                "product_description": "A BPA-free silicone motivational water bottle with time and capacity markers, leak-proof lid, wrist strap, and gradient design. Helps track daily hydration.",
+                "product_id": "prod_0036",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670375/Sports__Outdoors/Hydration_Bottles/prod_0036/prod_0036_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670376/Sports__Outdoors/Hydration_Bottles/prod_0036/prod_0036_img5.jpg"
+                ]
+              }
+            ]
+          },
+          "Temperature Bottles": {
+            "subcategory_id": "subcat_029",
+            "products": [
+              {
+                "product_name": "Smartslide Temperature Bottle",
+                "product_title": "Smartslide LED Temperature Display Vacuum Bottle",
+                "product_description": "A stainless steel vacuum insulated bottle with LED touch screen temperature display. Features 304-grade food-safe inner wall and long-lasting LED sensor.",
+                "product_id": "prod_0037",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670391/Sports__Outdoors/Temperature_Bottles/prod_0037/prod_0037_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Hydrogen Bottles": {
+            "subcategory_id": "subcat_030",
+            "products": [
+              {
+                "product_name": "Hydrogen Rich Water Cup",
+                "product_title": "Hydrogen Rich Water Generator Bottle – SPE/PEM Electrolysis",
+                "product_description": "A hydrogen water generator bottle using SPE/PEM electrolysis technology. Typically made from borosilicate glass with leak-proof design and 420ml capacity. USB rechargeable.",
+                "product_id": "prod_0038",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670377/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670378/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670379/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img13.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670380/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670381/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670389/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670390/Sports__Outdoors/Hydrogen_Bottles/prod_0038/prod_0038_img8.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Electronics": {
+        "category_id": "cat_008",
+        "subcategories": {
+          "Computer Accessories": {
+            "subcategory_id": "subcat_031",
+            "products": [
+              {
+                "product_name": "foldable cyantooth keyboard",
+                "product_title": "Portable Foldable cyantooth Keyboard with Touchpad",
+                "product_description": "A compact tri-fold cyantooth keyboard with a built-in multi-touch touchpad. Compatible with phones, tablets, and laptops. Rechargeable, lightweight, and ideal for travel.",
+                "product_id": "prod_0039",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670090/Electronics/Computer_Accessories/prod_0039/prod_0039_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Tools & Electronics": {
+        "category_id": "cat_017",
+        "subcategories": {
+          "Water Pumps": {
+            "subcategory_id": "subcat_044",
+            "products": [
+              {
+                "product_name": "Micro Submersible Pump",
+                "product_title": "Micro Submersible Brushless Water Pump",
+                "product_description": "A compact brushless DC submersible pump used in aquariums, fountains, and DIY projects. Features suction cups for mounting and low-noise operation.",
+                "product_id": "prod_0052",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670392/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670393/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670394/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img12.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670395/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img13.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670396/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img14.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670398/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img15.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670400/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img16.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670401/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img17.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670402/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670403/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img6.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670403/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670404/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img8.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670405/Tools__Electronics/Water_Pumps/prod_0052/prod_0052_img9.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Skincare": {
+        "category_id": "cat_024",
+        "subcategories": {
+          "Sunscreens": {
+            "subcategory_id": "subcat_052",
+            "products": [
+              {
+                "product_name": "Sunstop Gold Sunscreen Gel",
+                "product_title": "Sunstop Gold Gel Sunscreen by Ajanta Pharma",
+                "product_description": "A gel-based sunscreen containing advanced UV filters like Uvinul A Plus, Tinosorb M, and Uvinul MC 80. Designed for effective sun protection.",
+                "product_id": "prod_0061",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670371/Skincare/Sunscreens/prod_0061/prod_0061_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670372/Skincare/Sunscreens/prod_0061/prod_0061_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical Supplies": {
+        "category_id": "cat_025",
+        "subcategories": {
+          "Biopsy Tools": {
+            "subcategory_id": "subcat_053",
+            "products": [
+              {
+                "product_name": "Sureline Disposable Biopsy Punch",
+                "product_title": "Sureline Single-Use Sterile Biopsy Punch 5mm by Craftimu",
+                "product_description": "A single-use sterile 2mm biopsy punch used for removing small tissue samples for examination. Manufactured by Craftlink Medical Devices and marketed by Prosmart Concepts.",
+                "product_id": "prod_0062",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670268/Medical_Supplies/Biopsy_Tools/prod_0062/prod_0062_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670269/Medical_Supplies/Biopsy_Tools/prod_0062/prod_0062_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Blood Collection Tubes": {
+            "subcategory_id": "subcat_054",
+            "products": [
+              {
+                "product_name": "Vacuum Blood Collection Tubes",
+                "product_title": "Sterile Pre-Evacuated Blood Collection Tubes",
+                "product_description": "Sterile, single-use vacuum blood collection tubes with color-coded caps indicating different additives. Pre-evacuated to draw accurate blood volumes and designed for clinical laboratory testing.",
+                "product_id": "prod_0063",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670269/Medical_Supplies/Blood_Collection_Tubes/prod_0063/prod_0063_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670270/Medical_Supplies/Blood_Collection_Tubes/prod_0063/prod_0063_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Video Brochure Devices": {
+            "subcategory_id": "subcat_055",
+            "products": [
+              {
+                "product_name": "LCD Video Brochure",
+                "product_title": "LCD Promotional Video Brochure Box",
+                "product_description": "A promotional video brochure with an integrated LCD display that auto-plays video when opened. Includes control buttons for playback, volume, and navigation. Commonly used for marketing and premium product presentations.",
+                "product_id": "prod_0064",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670272/Medical_Supplies/Video_Brochure_Devices/prod_0064/prod_0064_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Dental Models": {
+            "subcategory_id": "subcat_056",
+            "products": [
+              {
+                "product_name": "Dental Jaw Model",
+                "product_title": "Dental Anatomical Jaw Model for Education",
+                "product_description": "An anatomical dental jaw model used for patient education and training. Helps demonstrate oral anatomy, hygiene, cavities, and treatment procedures. Made from durable resin or plastic.",
+                "product_id": "prod_0065",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670271/Medical_Supplies/Dental_Models/prod_0065/prod_0065_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Automotive Accessories": {
+        "category_id": "cat_026",
+        "subcategories": {
+          "Car Heating & Appliances": {
+            "subcategory_id": "subcat_057",
+            "products": [
+              {
+                "product_name": "Microcomputer Car Heating Cup",
+                "product_title": "Microcomputer Car-Based Heating Cup with Digital Temperature Control",
+                "product_description": "A portable vehicle-mounted heating cup powered through a car cigarette lighter socket. Features a digital temperature display and intelligent microcomputer control for precise and safe heating. Ideal for warming tea, coffee, or instant meals during travel.",
+                "product_id": "prod_0066",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669978/Automotive_Accessories/Car_Heating__Appliances/prod_0066/prod_0066_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669981/Automotive_Accessories/Car_Heating__Appliances/prod_0066/prod_0066_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Car Organizers": {
+            "subcategory_id": "subcat_058",
+            "products": [
+              {
+                "product_name": "Car Sun Visor Organizer Pouch",
+                "product_title": "Car Sun Visor Organizer Pouch for Travel & Daily Storage",
+                "product_description": "A multipurpose sun visor organizer pouch for storing essential items such as cards, documents, pens, and sunglasses. Designed to keep the car interior neat and accessible during driving.",
+                "product_id": "prod_0067",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669983/Automotive_Accessories/Car_Organizers/prod_0067/prod_0067_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669983/Automotive_Accessories/Car_Organizers/prod_0067/prod_0067_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Car Safety Tools": {
+            "subcategory_id": "subcat_059",
+            "products": [
+              {
+                "product_name": "ARM Security Hammer",
+                "product_title": "ARM Emergency Security Hammer for Cars",
+                "product_description": "A car emergency safety tool equipped with a hammer for breaking windows and a cutter for seatbelts. Designed for emergency use during accidents or vehicle entrapment.",
+                "product_id": "prod_0068",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669984/Automotive_Accessories/Car_Safety_Tools/prod_0068/prod_0068_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669985/Automotive_Accessories/Car_Safety_Tools/prod_0068/prod_0068_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Pet Supplies": {
+        "category_id": "cat_027",
+        "subcategories": {
+          "Interactive Pet Toys": {
+            "subcategory_id": "subcat_060",
+            "products": [
+              {
+                "product_name": "Milk Snake Electric Interactive Pet Toy",
+                "product_title": "Milk Snake USB Rechargeable Interactive Pet Toy",
+                "product_description": "A smart-sensing, USB rechargeable snake toy featuring glowing eyes, wiggling tongue, and S-pattern movement. Automatically avoids obstacles and reactivates when tapped.",
+                "product_id": "prod_0069",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670353/Pet_Supplies/Interactive_Pet_Toys/prod_0069/prod_0069_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670355/Pet_Supplies/Interactive_Pet_Toys/prod_0069/prod_0069_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670356/Pet_Supplies/Interactive_Pet_Toys/prod_0069/prod_0069_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Kitchen & Home": {
+        "category_id": "cat_028",
+        "subcategories": {
+          "Kitchen Tools": {
+            "subcategory_id": "subcat_061",
+            "products": [
+              {
+                "product_name": "Burger Press",
+                "product_title": "Non-Stick Burger Press Patty Maker",
+                "product_description": "A food-grade ABS plastic burger press used to shape uniform patties for grilling and cooking.",
+                "product_id": "prod_0070",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670181/Kitchen__Home/Kitchen_Tools/prod_0070/prod_0070_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670181/Kitchen__Home/Kitchen_Tools/prod_0070/prod_0070_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Drinkware": {
+            "subcategory_id": "subcat_062",
+            "products": [
+              {
+                "product_name": "Mighty Mug",
+                "product_title": "Mighty Mug Smartgrip Spill-Proof Travel Mug",
+                "product_description": "A spill-proof travel mug using Smartgrip technology to resist tipping. Liftable normally but stays secure on flat surfaces.",
+                "product_id": "prod_0071",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670169/Kitchen__Home/Drinkware/prod_0071/prod_0071_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670169/Kitchen__Home/Drinkware/prod_0071/prod_0071_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670170/Kitchen__Home/Drinkware/prod_0071/prod_0071_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Fruit Infusers": {
+            "subcategory_id": "subcat_063",
+            "products": [
+              {
+                "product_name": "Fruit Infuser Water Bottle",
+                "product_title": "BPA-Free Fruit Infuser Water Bottle",
+                "product_description": "A BPA-free acrylic fruit infuser bottle designed for natural flavoring of drinking water. The packaging mentions Ondem-MD, an antiemetic medication.",
+                "product_id": "prod_0072",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670172/Kitchen__Home/Fruit_Infusers/prod_0072/prod_0072_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670175/Kitchen__Home/Fruit_Infusers/prod_0072/prod_0072_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Lighting Decor": {
+            "subcategory_id": "subcat_064",
+            "products": [
+              {
+                "product_name": "LED Message Light Box",
+                "product_title": "LED Cinematic Message Light Box",
+                "product_description": "A customizable cinematic LED message board with interchangeable letters and symbols. Suitable for decor, events, and announcements.",
+                "product_id": "prod_0073",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670182/Kitchen__Home/Lighting_Decor/prod_0073/prod_0073_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670183/Kitchen__Home/Lighting_Decor/prod_0073/prod_0073_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670184/Kitchen__Home/Lighting_Decor/prod_0073/prod_0073_img3.jpg"
+                ]
+              },
+              {
+                "product_name": "Sunset Projection Lamp",
+                "product_title": "360° Rotating Sunset Projection Lamp",
+                "product_description": "A USB-powered LED sunset lamp featuring a thick crystal lens for wide projection. Ideal for photography and room ambience.",
+                "product_id": "prod_0074",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670185/Kitchen__Home/Lighting_Decor/prod_0074/prod_0074_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670186/Kitchen__Home/Lighting_Decor/prod_0074/prod_0074_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Portable Utility Boxes": {
+            "subcategory_id": "subcat_065",
+            "products": [
+              {
+                "product_name": "Lighting Storage Box",
+                "product_title": "Multi-Functional Lighting Storage Box with LED",
+                "product_description": "A portable LED lighting and storage box powered by AA batteries. Designed for outdoor and household utility use.",
+                "product_id": "prod_0075",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670188/Kitchen__Home/Portable_Utility_Boxes/prod_0075/prod_0075_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670189/Kitchen__Home/Portable_Utility_Boxes/prod_0075/prod_0075_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670190/Kitchen__Home/Portable_Utility_Boxes/prod_0075/prod_0075_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Electronics & Wearables": {
+        "category_id": "cat_029",
+        "subcategories": {
+          "Audio Wearables": {
+            "subcategory_id": "subcat_066",
+            "products": [
+              {
+                "product_name": "MIDY Wireless Music Goggles",
+                "product_title": "MIDY Wireless Music Goggles cyantooth Sleep Mask",
+                "product_description": "A cyantooth-enabled soft fabric eye mask with built-in speakers for music and calls. Designed for sleep and travel relaxation.",
+                "product_id": "prod_0076",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670094/Electronics__Wearables/Audio_Wearables/prod_0076/prod_0076_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670096/Electronics__Wearables/Audio_Wearables/prod_0076/prod_0076_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670096/Electronics__Wearables/Audio_Wearables/prod_0076/prod_0076_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home Fragrances": {
+        "category_id": "cat_030",
+        "subcategories": {
+          "Aroma & Scent Products": {
+            "subcategory_id": "subcat_067",
+            "products": [
+              {
+                "product_name": "Home Space Fragrances Box",
+                "product_title": "Home Space Fragrances Premium Aroma Gift Box",
+                "product_description": "A fragrance product box from Home Space Fragrances, offering scented candles, aroma oils, diffusers, and home mists. Specializes in scented gifting for weddings, corporate events, and home decor.",
+                "product_id": "prod_0077",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670138/Home_Fragrances/Aroma__Scent_Products/prod_0077/prod_0077_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670139/Home_Fragrances/Aroma__Scent_Products/prod_0077/prod_0077_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670140/Home_Fragrances/Aroma__Scent_Products/prod_0077/prod_0077_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home & Office Utilities": {
+        "category_id": "cat_031",
+        "subcategories": {
+          "Desk Accessories": {
+            "subcategory_id": "subcat_068",
+            "products": [
+              {
+                "product_name": "Multifunctional Digital Clock with Pen Holder",
+                "product_title": "Digital Desk Clock with Pen Holder and Alarm Function",
+                "product_description": "A multifunctional digital clock featuring time, date, day display, alarm function, and an integrated pen holder. Some variants include an envelope cutter.",
+                "product_id": "prod_0078",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670155/Home__Office_Utilities/Desk_Accessories/prod_0078/prod_0078_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670156/Home__Office_Utilities/Desk_Accessories/prod_0078/prod_0078_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670157/Home__Office_Utilities/Desk_Accessories/prod_0078/prod_0078_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Kitchen Storage": {
+            "subcategory_id": "subcat_069",
+            "products": [
+              {
+                "product_name": "Rotating Masala Dabba",
+                "product_title": "Rotating Masala Dabba with Transparent Lid",
+                "product_description": "A rotating spice organizer with multiple compartments for storing spices. Features a transparent lid for easy viewing and a rotating base for quick access.",
+                "product_id": "prod_0079",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670158/Home__Office_Utilities/Kitchen_Storage/prod_0079/prod_0079_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670158/Home__Office_Utilities/Kitchen_Storage/prod_0079/prod_0079_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "Maginus Easy Lock Container",
+                "product_title": "Maginus Easy Lock Airtight Food Container",
+                "product_description": "A food-grade plastic lunch/tiffin box with an easy-lock mechanism. Designed for office, school, and travel meal storage. Available in multiple colors.",
+                "product_id": "prod_0080",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670159/Home__Office_Utilities/Kitchen_Storage/prod_0080/prod_0080_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670160/Home__Office_Utilities/Kitchen_Storage/prod_0080/prod_0080_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "LED Desk Lamps": {
+            "subcategory_id": "subcat_070",
+            "products": [
+              {
+                "product_name": "LED Desk Lamp with Wireless Charging",
+                "product_title": "Wireless Charging LED Desk Lamp with Pen & Phone Holder",
+                "product_description": "A multi-functional LED desk lamp with wireless charging pad, phone stand, pen holder, adjustable lighting modes, and rechargeable battery.",
+                "product_id": "prod_0081",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670161/Home__Office_Utilities/LED_Desk_Lamps/prod_0081/prod_0081_img1.jpg"
+                ]
+              },
+              {
+                "product_name": "Multi-Functional LED Desk Lamp",
+                "product_title": "Rechargeable Multi-Functional LED Desk Lamp with Phone Stand",
+                "product_description": "A rechargeable LED desk lamp with touch control, flexible neck, pen holder, mobile stand, and multiple lighting modes. Also functions as a mini power bank.",
+                "product_id": "prod_0082",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670162/Home__Office_Utilities/LED_Desk_Lamps/prod_0082/prod_0082_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670162/Home__Office_Utilities/LED_Desk_Lamps/prod_0082/prod_0082_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Shoe Care": {
+            "subcategory_id": "subcat_071",
+            "products": [
+              {
+                "product_name": "Shoe Shine Kit",
+                "product_title": "Complete Shoe Shine & Polishing Kit with Wooden Box",
+                "product_description": "A shoe cleaning and polishing kit including brush, cloth, and black shoe polish. Packaged in a wooden box for organized storage.",
+                "product_id": "prod_0083",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670163/Home__Office_Utilities/Shoe_Care/prod_0083/prod_0083_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670165/Home__Office_Utilities/Shoe_Care/prod_0083/prod_0083_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670166/Home__Office_Utilities/Shoe_Care/prod_0083/prod_0083_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical & Diagnostics": {
+        "category_id": "cat_032",
+        "subcategories": {
+          "Magnifiers & Vision Tools": {
+            "subcategory_id": "subcat_072",
+            "products": [
+              {
+                "product_name": "Headband Magnifier with LED Lights",
+                "product_title": "Prosmart Concepts LED Headband Magnifier with 5 Lenses",
+                "product_description": "A hands-free LED magnifier with interchangeable lenses (1.0x–3.5x). Ideal for precision work such as clinical tasks, hair transplant, and detailed crafts.",
+                "product_id": "prod_0084",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670276/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0084/prod_0084_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670277/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0084/prod_0084_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670278/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0084/prod_0084_img3.jpg"
+                ]
+              },
+              {
+                "product_name": "Clip-On Flexible LED Light",
+                "product_title": "Portable Clip-On Flexible Gooseneck LED Light",
+                "product_description": "A clip-on LED light with adjustable gooseneck, ideal for books, desks, and portable illumination. Battery or USB powered.",
+                "product_id": "prod_0085",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670278/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0085/prod_0085_img1.jpg"
+                ]
+              },
+              {
+                "product_name": "Handheld LED Magnifying Glass",
+                "product_title": "Handheld LED Illuminated Magnifying Glass",
+                "product_description": "A handheld magnifier with built-in LED lights. Suitable for reading, inspection, currency verification, and fingerprint examination. Uses AA batteries and features a 67mm lens.",
+                "product_id": "prod_0086",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670280/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0086/prod_0086_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670281/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0086/prod_0086_img2.jpg"
+                ]
+              },
+              {
+                "product_name": "LED Headband Magnifying Glasses",
+                "product_title": "Prosmart Concepts LED Headband Magnifying Glasses",
+                "product_description": "Hands-free magnifying glasses with built-in LED lighting for detailed visual tasks like watch repair and jewelry work.",
+                "product_id": "prod_0087",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670282/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0087/prod_0087_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670283/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0087/prod_0087_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670284/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0087/prod_0087_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670286/Medical__Diagnostics/Magnifiers__Vision_Tools/prod_0087/prod_0087_img4.jpg"
+                ]
+              }
+            ]
+          },
+          "Otoscope & Ear Care": {
+            "subcategory_id": "subcat_073",
+            "products": [
+              {
+                "product_name": "NE3 Wireless Visible Earpick",
+                "product_title": "NE3 Wireless HD Visual Earpick with LED Camera",
+                "product_description": "A wireless visual otoscope with HD camera, Wi-Fi connectivity, 6 LED lights, and Type-C charging. Suitable for earwax removal and inspection.",
+                "product_id": "prod_0088",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670288/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670289/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670290/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img12.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670291/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img13.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670293/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img14.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670294/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img15.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670295/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img16.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670297/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img18.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670305/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670306/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670307/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670309/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img6.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670310/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670311/Medical__Diagnostics/Otoscope__Ear_Care/prod_0088/prod_0088_img9.jpg"
+                ]
+              }
+            ]
+          },
+          "Educational Dental Models": {
+            "subcategory_id": "subcat_074",
+            "products": [
+              {
+                "product_name": "Dental Tooth Decay Model",
+                "product_title": "4x Enlarged Dental Caries Educational Model",
+                "product_description": "A high-quality PVC dental model magnified 4x to demonstrate tooth decay, pulp, enamel, dentin, and nerve structure. Ideal for teaching and patient education.",
+                "product_id": "prod_0089",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670273/Medical__Diagnostics/Educational_Dental_Models/prod_0089/prod_0089_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670276/Medical__Diagnostics/Educational_Dental_Models/prod_0089/prod_0089_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "PRP Kits": {
+            "subcategory_id": "subcat_075",
+            "products": [
+              {
+                "product_name": "VPRP Concentration Kit",
+                "product_title": "VPRP Platelet Rich Plasma Concentration System",
+                "product_description": "A PRP preparation kit using gel-separation technology for extracting platelet-rich plasma. Includes sterile tubes, syringe, and needles.",
+                "product_id": "prod_0090",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670311/Medical__Diagnostics/PRP_Kits/prod_0090/prod_0090_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670312/Medical__Diagnostics/PRP_Kits/prod_0090/prod_0090_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Gifts & Drinkware": {
+        "category_id": "cat_033",
+        "subcategories": {
+          "Themed Glassware": {
+            "subcategory_id": "subcat_076",
+            "products": [
+              {
+                "product_name": "Lilo & Stitch Themed Glass Set",
+                "product_title": "Disney Lilo & Stitch Pint Glass Gift Set",
+                "product_description": "A set of two themed pint glasses featuring Disney’s Lilo & Stitch artwork. Packaged in a cyan gift box. Glass material and dishwasher safe.",
+                "product_id": "prod_0091",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670105/Gifts__Drinkware/Themed_Glassware/prod_0091/prod_0091_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670107/Gifts__Drinkware/Themed_Glassware/prod_0091/prod_0091_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670108/Gifts__Drinkware/Themed_Glassware/prod_0091/prod_0091_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Massage & Therapy Devices": {
+        "category_id": "cat_034",
+        "subcategories": {
+          "Cupping Therapy": {
+            "subcategory_id": "subcat_077",
+            "products": [
+              {
+                "product_name": "Intelligent Breathing Cupping Massage Instrument",
+                "product_title": "Intelligent Breathing Cupping Therapy Device",
+                "product_description": "A smart cupping massage device featuring negative pressure, rhythmic suction, and red light heating therapy. Designed to relieve body pain and muscle stiffness.",
+                "product_id": "prod_0092",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670211/Massage__Therapy_Devices/Cupping_Therapy/prod_0092/prod_0092_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670212/Massage__Therapy_Devices/Cupping_Therapy/prod_0092/prod_0092_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Neck Massagers": {
+            "subcategory_id": "subcat_078",
+            "products": [
+              {
+                "product_name": "Hydrolite F2 Cervical Massager",
+                "product_title": "Hydrolite F2 Electric Cervical Vertebra Massager",
+                "product_description": "A portable U-shaped neck massager using low-frequency electric pulse therapy and heat for pain relief. Offers multiple modes and 15 intensity levels to improve local circulation and relax neck muscles. Made from ABS and silicone, lightweight and cordless.",
+                "product_id": "prod_0093",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670214/Massage__Therapy_Devices/Neck_Massagers/prod_0093/prod_0093_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical & Safety Devices": {
+        "category_id": "cat_035",
+        "subcategories": {
+          "Needle Disposal Devices": {
+            "subcategory_id": "subcat_079",
+            "products": [
+              {
+                "product_name": "Needle & Hub Cutter",
+                "product_title": "Manual Needle & Hub Cutter for Safe Disposal",
+                "product_description": "A manual device for safely cutting used needles and syringe hubs in one action. Prevents reuse, reduces needlestick injuries, and helps prevent infections like HIV and Hepatitis B. Suitable for homes, clinics, labs, and hospitals.",
+                "product_id": "prod_0094",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670324/Medical__Safety_Devices/Needle_Disposal_Devices/prod_0094/prod_0094_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670327/Medical__Safety_Devices/Needle_Disposal_Devices/prod_0094/prod_0094_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670328/Medical__Safety_Devices/Needle_Disposal_Devices/prod_0094/prod_0094_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670329/Medical__Safety_Devices/Needle_Disposal_Devices/prod_0094/prod_0094_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670331/Medical__Safety_Devices/Needle_Disposal_Devices/prod_0094/prod_0094_img6.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670332/Medical__Safety_Devices/Needle_Disposal_Devices/prod_0094/prod_0094_img9.jpg"
+                ]
+              }
+            ]
+          },
+          "Pharma Promotional Packaging": {
+            "subcategory_id": "subcat_080",
+            "products": [
+              {
+                "product_name": "Alembic Pharmaceuticals Gift Box",
+                "product_title": "Alembic Grocapix & Grogain Promotional Box",
+                "product_description": "A promotional packaging box from Alembic Pharmaceuticals featuring products like Grocapix and Grogain. Includes company branding, product details, and specifications. Typically used for medical representative gifting.",
+                "product_id": "prod_0095",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670333/Medical__Safety_Devices/Pharma_Promotional_Packaging/prod_0095/prod_0095_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670334/Medical__Safety_Devices/Pharma_Promotional_Packaging/prod_0095/prod_0095_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670335/Medical__Safety_Devices/Pharma_Promotional_Packaging/prod_0095/prod_0095_img3.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Lighting & Portable Lamps": {
+        "category_id": "cat_036",
+        "subcategories": {
+          "Portable LED Lamps": {
+            "subcategory_id": "subcat_081",
+            "products": [
+              {
+                "product_name": "I.M.LAB Portable Wireless Lamp",
+                "product_title": "I.M.LAB Portable Smart Wireless LED Lamp",
+                "product_description": "A rechargeable, wireless LED lamp suitable for indoor and outdoor use. May include tunable warm-to-cool lighting and optional smart controls. Designed for portable illumination.",
+                "product_id": "prod_0096",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670202/Lighting__Portable_Lamps/Portable_LED_Lamps/prod_0096/prod_0096_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670204/Lighting__Portable_Lamps/Portable_LED_Lamps/prod_0096/prod_0096_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670206/Lighting__Portable_Lamps/Portable_LED_Lamps/prod_0096/prod_0096_img4.jpg"
+                ]
+              },
+              {
+                "product_name": "Maclean 3-in-1 Multifunction LED Light",
+                "product_title": "Maclean 3-in-1 Flashlight, Lantern & Desk Lamp",
+                "product_description": "A multifunctional LED device that works as a flashlight, camping lantern, and desk lamp. Made from durable ABS plastic, featuring 180° foldable and 360° rotating neck. USB rechargeable.",
+                "product_id": "prod_0097",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670207/Lighting__Portable_Lamps/Portable_LED_Lamps/prod_0097/prod_0097_img1.jpg"
+                ]
+              },
+              {
+                "product_name": "Fashion Wind LED Desk Light",
+                "product_title": "Fashion Wind LED Touch Desk Light",
+                "product_description": "A portable LED desk lamp with soft eye-protecting illumination, 3-step touch brightness control, flexible neck, and USB power support. Lightweight and energy efficient.",
+                "product_id": "prod_0098",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670210/Lighting__Portable_Lamps/Portable_LED_Lamps/prod_0098/prod_0098_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Acrylic Message Boards": {
+            "subcategory_id": "subcat_082",
+            "products": [
+              {
+                "product_name": "LED Acrylic Message Board",
+                "product_title": "LED Dry-Erase Acrylic Glow Message Board",
+                "product_description": "A transparent acrylic light-up memo board used for reminders and decorative lighting. Supports dry-erase markers and glows when powered through USB.",
+                "product_id": "prod_0099",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670199/Lighting__Portable_Lamps/Acrylic_Message_Boards/prod_0099/prod_0099_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670201/Lighting__Portable_Lamps/Acrylic_Message_Boards/prod_0099/prod_0099_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home Storage": {
+        "category_id": "cat_037",
+        "subcategories": {
+          "Plastic Storage Boxes": {
+            "subcategory_id": "subcat_083",
+            "products": [
+              {
+                "product_name": "Clear Plastic Multi-Purpose Storage Box",
+                "product_title": "Transparent Multi-Purpose First Aid & Storage Box",
+                "product_description": "A clear plastic storage or first-aid box with a transparent lid and red handle. Often includes an inner tray, secure locking latches, and portable design. Used for medicines, tools, and household organization.",
+                "product_id": "prod_0100",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670142/Home_Storage/Plastic_Storage_Boxes/prod_0100/prod_0100_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670143/Home_Storage/Plastic_Storage_Boxes/prod_0100/prod_0100_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Personal Cooling Devices": {
+        "category_id": "cat_038",
+        "subcategories": {
+          "Portable Fans": {
+            "subcategory_id": "subcat_084",
+            "products": [
+              {
+                "product_name": "Multi-Function Rechargeable Folding Fan",
+                "product_title": "Rechargeable Folding LED Multi-Function Fan",
+                "product_description": "A portable folding fan with integrated LED light, multiple speed modes, adjustable angles, and USB charging. Suitable for travel, desk use, and personal cooling.",
+                "product_id": "prod_0101",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670352/Personal_Cooling_Devices/Portable_Fans/prod_0101/prod_0101_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medicines & Pharma": {
+        "category_id": "cat_039",
+        "subcategories": {
+          "Psychiatric Medicines": {
+            "subcategory_id": "subcat_085",
+            "products": [
+              {
+                "product_name": "Galop Plus",
+                "product_title": "Galop Plus (Escitalopram + Clonazepam) Tablets",
+                "product_description": "A prescription medicine for depression and anxiety containing Escitalopram and Clonazepam. Manufactured by Emcure. Available in multiple strengths.",
+                "product_id": "prod_0102",
+                "product_price": null,
+                "image_urls": []
+              }
+            ]
+          },
+          "Antibiotics": {
+            "subcategory_id": "subcat_086",
+            "products": [
+              {
+                "product_name": "Moxclav",
+                "product_title": "Moxclav (Amoxycillin + Clavulanic Acid) Tablets",
+                "product_description": "A combination antibiotic used to treat bacterial infections. Manufactured under Stanlife, Sun Pharma division. Also includes Moxclav ES for pediatric use.",
+                "product_id": "prod_0103",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670336/Medicines__Pharma/Antibiotics/prod_0103/prod_0103_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Diabetes Medicines": {
+            "subcategory_id": "subcat_087",
+            "products": [
+              {
+                "product_name": "Glycinorm-M",
+                "product_title": "Glycinorm-M (Gliclazide & Metformin Tablets)",
+                "product_description": "A Type 2 diabetes management medicine containing Gliclazide and Metformin. Manufactured by Ipca Laboratories. Available in multiple formulations.",
+                "product_id": "prod_0104",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670337/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670337/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img10.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670339/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img11.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670339/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img12.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670340/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img13.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670341/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img14.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670341/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img15.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670342/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img16.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670343/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img17.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670343/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img18.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670344/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670345/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670346/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670347/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670348/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img6.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670349/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img7.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670350/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img8.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670351/Medicines__Pharma/Diabetes_Medicines/prod_0104/prod_0104_img9.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Aromatherapy & Diffusers": {
+        "category_id": "cat_040",
+        "subcategories": {
+          "Essential Oil Diffusers": {
+            "subcategory_id": "subcat_088",
+            "products": [
+              {
+                "product_name": "Hydralite Essential Oil Diffuser Base",
+                "product_title": "Hydralite Essential Oil Diffuser Base with Acrylic Plate Slot",
+                "product_description": "A USB-powered essential oil diffuser base using dry-air diffusion to disperse fragrance. Works with acrylic plate lamps and includes a silent built-in fan.",
+                "product_id": "prod_0105",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669955/Aromatherapy__Diffusers/Essential_Oil_Diffusers/prod_0105/prod_0105_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669956/Aromatherapy__Diffusers/Essential_Oil_Diffusers/prod_0105/prod_0105_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669963/Aromatherapy__Diffusers/Essential_Oil_Diffusers/prod_0105/prod_0105_img3.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669976/Aromatherapy__Diffusers/Essential_Oil_Diffusers/prod_0105/prod_0105_img4.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669976/Aromatherapy__Diffusers/Essential_Oil_Diffusers/prod_0105/prod_0105_img5.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669977/Aromatherapy__Diffusers/Essential_Oil_Diffusers/prod_0105/prod_0105_img6.jpg"
+                ]
+              },
+              {
+                "product_name": "Satianu Aromatherapy Box",
+                "product_title": "Satianu Essential Oils & Aromatherapy Set",
+                "product_description": "A wellness-oriented aromatherapy product box from Satianu, offering natural essential oils and blends. Made by an Indian startup specializing in pure aroma products.",
+                "product_id": "prod_0106",
+                "product_price": null,
+                "image_urls": [
+                  "https://m.media-amazon.com/images/I/51TYLwz4yyL._AC_UF1000,1000_QL80_.jpg",
+                  "https://satthwa.com/cdn/shop/products/essential-oils-gift-box_219x.progressive.jpg?v=1713180122",
+                  "https://satthwa.com/cdn/shop/files/essential-oils-gifting@2x.jpg?v=1713180122"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Self-Defense & Tactical": {
+        "category_id": "cat_041",
+        "subcategories": {
+          "Self-Defense Tools": {
+            "subcategory_id": "subcat_089",
+            "products": [
+              {
+                "product_name": "Retractable Self-Defense Baton",
+                "product_title": "Retractable Stainless Steel Self-Defense Baton",
+                "product_description": "A compact stainless steel extendable baton with non-slip grip, designed for personal safety. Portable and easy to carry.",
+                "product_id": "prod_0107",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670369/Self-Defense__Tactical/Self-Defense_Tools/prod_0107/prod_0107_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670370/Self-Defense__Tactical/Self-Defense_Tools/prod_0107/prod_0107_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home & Office Electronics": {
+        "category_id": "cat_042",
+        "subcategories": {
+          "Digital Timers & Clocks": {
+            "subcategory_id": "subcat_090",
+            "products": [
+              {
+                "product_name": "Digital LCD Alarm Clock Timer",
+                "product_title": "Digital LCD Alarm Clock & Timer Device",
+                "product_description": "A compact digital clock/timer with LCD screen and function buttons for mode, set, up, and down. Minimalist handheld design.",
+                "product_id": "prod_0108",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670154/Home__Office_Electronics/Digital_Timers__Clocks/prod_0108/prod_0108_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Hot & Cold Therapy": {
+        "category_id": "cat_043",
+        "subcategories": {
+          "Gel Packs": {
+            "subcategory_id": "subcat_091",
+            "products": [
+              {
+                "product_name": "Vissco Active Flexi Hot & Cold Gel Pack Strap",
+                "product_title": "Vissco Active Flexi Hot & Cold Therapy Strap",
+                "product_description": "A hot & cold gel pack with Velcro strap for targeted relief. Used for muscle stiffness, joint pain, and swelling. Microwave for heat therapy or refrigerate for cold therapy.",
+                "product_id": "prod_0109",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670167/Hot__Cold_Therapy/Gel_Packs/prod_0109/prod_0109_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Sanitization Devices": {
+        "category_id": "cat_044",
+        "subcategories": {
+          "UV Sterilizers": {
+            "subcategory_id": "subcat_092",
+            "products": [
+              {
+                "product_name": "Medel UV-C Lamp Toothbrush Sanitizer",
+                "product_title": "Medel UV-C Light Toothbrush Sanitizer",
+                "product_description": "A UV-C toothbrush sanitizing device designed to eliminate up to 99.9% of germs and bacteria from toothbrush bristles using UV technology. Includes automatic sanitization cycle and can hold multiple toothbrushes.",
+                "product_id": "prod_0110",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670368/Sanitization_Devices/UV_Sterilizers/prod_0110/prod_0110_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Hair & Body Care": {
+        "category_id": "cat_045",
+        "subcategories": {
+          "Shampoo & Wash": {
+            "subcategory_id": "subcat_093",
+            "products": [
+              {
+                "product_name": "India Grooming Club Royale Shampoo",
+                "product_title": "IGC Royale Hydrating Strawberry & Aloe Body Wash",
+                "product_description": "A premium hair-care shampoo formulated with Jojoba Oil, Olive Oil, Vitamin E, and Pro Vitamin B5. Helps with conditioning, anti-hair fall, dandruff removal, and scalp nourishment.",
+                "product_id": "prod_0111",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670109/Hair__Body_Care/Shampoo__Wash/prod_0111/prod_0111_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670109/Hair__Body_Care/Shampoo__Wash/prod_0111/prod_0111_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Pharma Promotional Material": {
+        "category_id": "cat_046",
+        "subcategories": {
+          "Pharma Gift Boxes": {
+            "subcategory_id": "subcat_094",
+            "products": [
+              {
+                "product_name": "Dr. Reddy's Promotional Box",
+                "product_title": "Dr. Reddy's Pharma Promotional Box with Product Listings",
+                "product_description": "A promotional box featuring product names like Nise, Omez-DSR, Zedex, Bro-Zedex, Ketorol, etc. Includes logos of Dr. Reddy's and Vistara. Typically used in medical representative gifting.",
+                "product_id": "prod_0112",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670366/Pharma_Promotional_Material/Pharma_Gift_Boxes/prod_0112/prod_0112_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "3D Printed Art & Decor": {
+        "category_id": "cat_047",
+        "subcategories": {
+          "3D Printed Models": {
+            "subcategory_id": "subcat_095",
+            "products": [
+              {
+                "product_name": "Anatomical Heart 3D Model Case",
+                "product_title": "3D Printed Anatomical Heart Case / Storage Model",
+                "product_description": "A 3D-printed anatomical heart model designed as a decorative case or container. Features realistic blood vessel details and includes a USB port, suggesting storage functionality.",
+                "product_id": "prod_0113",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669953/3D_Printed_Art__Decor/3D_Printed_Models/prod_0113/prod_0113_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764669954/3D_Printed_Art__Decor/3D_Printed_Models/prod_0113/prod_0113_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Home Electronics": {
+        "category_id": "cat_048",
+        "subcategories": {
+          "Wireless Doorbells": {
+            "subcategory_id": "subcat_096",
+            "products": [
+              {
+                "product_name": "Wireless Doorbell Receiver",
+                "product_title": "Wireless Doorbell Sound Receiver Unit",
+                "product_description": "A wireless doorbell chime receiver that works with a paired transmitter button. Offers adjustable volume, multiple chime options, and LED indicator alerts.",
+                "product_id": "prod_0114",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670133/Home_Electronics/Wireless_Doorbells/prod_0114/prod_0114_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670136/Home_Electronics/Wireless_Doorbells/prod_0114/prod_0114_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Electronics & Home Gadgets": {
+        "category_id": "cat_049",
+        "subcategories": {
+          "USB Desk Fans": {
+            "subcategory_id": "subcat_097",
+            "products": [
+              {
+                "product_name": "Sweetfull USB Desk Fan",
+                "product_title": "Sweetfull Portable USB Desk Fan with 3-Speed Settings",
+                "product_description": "A compact USB-powered desk fan with three adjustable speed modes and 360° vertical head rotation. Designed for quiet operation under 50 dB and features a detachable front grille for easy cleaning.",
+                "product_id": "prod_0115",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670092/Electronics__Home_Gadgets/USB_Desk_Fans/prod_0115/prod_0115_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Makeup & Styling Mannequins": {
+            "subcategory_id": "subcat_098",
+            "products": [
+              {
+                "product_name": "Makeup Training Mannequin Bust",
+                "product_title": "Cosmetology Makeup & Hairstyling Mannequin Bust Stand",
+                "product_description": "A cosmetology training mannequin bust used for practicing makeup, hairstyling, wig display, or beauty training. Surrounded by Royale grooming products and accessories in the image.",
+                "product_id": "prod_0116",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670091/Electronics__Home_Gadgets/Makeup__Styling_Mannequins/prod_0116/prod_0116_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Digital Microscopes": {
+            "subcategory_id": "subcat_099",
+            "products": [
+              {
+                "product_name": "Venusia USB Digital Microscope",
+                "product_title": "Venusia USB Handheld Digital Microscope 50X–1000X",
+                "product_description": "A USB handheld microscope with 8 built-in LED lights and 50X–1000X magnification. Used for inspecting skin, circuits, coins, and micro-objects. Offers clear imaging and low power consumption.",
+                "product_id": "prod_0117",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670091/Electronics__Home_Gadgets/Digital_Microscopes/prod_0117/prod_0117_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "UV Camera Mirrors": {
+            "subcategory_id": "subcat_100",
+            "products": [
+              {
+                "product_name": "Sunscreen UV Mirror with Camera",
+                "product_title": "Portable UV Camera Compact Mirror for Sunscreen Coverage Check",
+                "product_description": "A compact mirror with built-in UV camera for checking sunscreen coverage. Shows missed spots by visualizing UV absorption. Includes LED lighting and magnification features. Suitable for travel use.",
+                "product_id": "prod_0118",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670093/Electronics__Home_Gadgets/UV_Camera_Mirrors/prod_0118/prod_0118_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical Consumables": {
+        "category_id": "cat_050",
+        "subcategories": {
+          "Surgical Blades": {
+            "subcategory_id": "subcat_101",
+            "products": [
+              {
+                "product_name": "Disposafe Carbon Steel Surgical Blades",
+                "product_title": "Disposafe Sterile Carbon Steel Surgical Blades",
+                "product_description": "Single-use carbon steel sterile surgical blades individually packed in protective foil. Gamma-sterilized, durable, and sharp, suitable for surgery, dissection, and clinical use.",
+                "product_id": "prod_0119",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670222/Medical_Consumables/Surgical_Blades/prod_0119/prod_0119_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Chemical Peel Kits": {
+            "subcategory_id": "subcat_102",
+            "products": [
+              {
+                "product_name": "Professional Chemical Peel Solution Set",
+                "product_title": "Dermatology Chemical Peel Vial Kit",
+                "product_description": "A professional chemical peel vial set branded with MYPLAST, ATI, REJSO, and Acnil labels. Includes salicylic acid and tea tree oil solutions intended for advanced cosmetic peel treatments.",
+                "product_id": "prod_0120",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670218/Medical_Consumables/Chemical_Peel_Kits/prod_0120/prod_0120_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Scalp Oil Applicators": {
+            "subcategory_id": "subcat_103",
+            "products": [
+              {
+                "product_name": "Hair Scalp Oil Brush",
+                "product_title": "Scalp Oil Applicator Brush with Measurement Scale",
+                "product_description": "A scalp oil applicator comb designed to distribute hair oils and serums evenly. Helps reduce wastage, improve scalp absorption, and support hair growth treatments.",
+                "product_id": "prod_0121",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670220/Medical_Consumables/Scalp_Oil_Applicators/prod_0121/prod_0121_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Ampoule Openers": {
+            "subcategory_id": "subcat_104",
+            "products": [
+              {
+                "product_name": "Prosmart Ampoule Opener",
+                "product_title": "Prosmart Multifunctional Glass Ampoule Opener",
+                "product_description": "A multifunction ampoule opener for safely cutting glass ampoules without hand injury. Features clean cutting mechanism, suitable for clinics, salons, and home medical use.",
+                "product_id": "prod_0122",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670215/Medical_Consumables/Ampoule_Openers/prod_0122/prod_0122_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670216/Medical_Consumables/Ampoule_Openers/prod_0122/prod_0122_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670217/Medical_Consumables/Ampoule_Openers/prod_0122/prod_0122_img3.jpg"
+                ]
+              }
+            ]
+          },
+          "Lab Tools": {
+            "subcategory_id": "subcat_105",
+            "products": [
+              {
+                "product_name": "Stainless Steel Medicinal Powder Spoons",
+                "product_title": "Stainless Steel Laboratory Powder Ladle Set",
+                "product_description": "A set of stainless steel laboratory spoons used for handling medicinal powders and small-quantity substances. Durable, hygienic, and commonly used in lab kits.",
+                "product_id": "prod_0123",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670219/Medical_Consumables/Lab_Tools/prod_0123/prod_0123_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Lighting & Desk Accessories": {
+        "category_id": "cat_051",
+        "subcategories": {
+          "LED Desk Lamps": {
+            "subcategory_id": "subcat_106",
+            "products": [
+              {
+                "product_name": "Rechargeable LED Desk Lamp",
+                "product_title": "White Foldable Rechargeable LED Desk Lamp with Touch Control",
+                "product_description": "A foldable, rechargeable white LED desk lamp featuring touch control. Designed for study, reading, and bedside use with glare-free, eye-protecting illumination. Compact, portable, and USB rechargeable.",
+                "product_id": "prod_0124",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670194/Lighting__Desk_Accessories/LED_Desk_Lamps/prod_0124/prod_0124_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670197/Lighting__Desk_Accessories/LED_Desk_Lamps/prod_0124/prod_0124_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Business Card Accessories": {
+            "subcategory_id": "subcat_107",
+            "products": [
+              {
+                "product_name": "Business Card Holder with Mini Whiteboard",
+                "product_title": "Business Card Display Holder with Whiteboard and Marker",
+                "product_description": "A compact business card holder featuring a mini whiteboard for quick notes, a clear cover, marker, and eraser pad. Branded with Prosmart Concepts.",
+                "product_id": "prod_0125",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670191/Lighting__Desk_Accessories/Business_Card_Accessories/prod_0125/prod_0125_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Stationery Sets": {
+            "subcategory_id": "subcat_108",
+            "products": [
+              {
+                "product_name": "Big Foot 5-in-1 Highlighter Set",
+                "product_title": "Big Foot Style Multi-Color 5-in-1 Highlighter Pen Set",
+                "product_description": "A 5-in-1 novelty highlighter set shaped like a foot with five fluorescent colors. Often used as a promotional item with brand printing such as Nervmax SR.",
+                "product_id": "prod_0126",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670198/Lighting__Desk_Accessories/Stationery_Sets/prod_0126/prod_0126_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical Education Models": {
+        "category_id": "cat_052",
+        "subcategories": {
+          "Anatomy Models": {
+            "subcategory_id": "subcat_109",
+            "products": [
+              {
+                "product_name": "Enlarged Human Skin Anatomical Model",
+                "product_title": "3D Enlarged Human Skin Layer Anatomical Education Model",
+                "product_description": "A magnified 3D anatomical model showing detailed layers of human skin, including the epidermis, dermis, and subcutaneous tissue. Features structures such as hair follicles, sebaceous glands, sweat glands, nerves, receptors, and blood vessels. Typically magnified 50x–70x and made from durable PVC for teaching and demonstration.",
+                "product_id": "prod_0127",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670260/Medical_Education_Models/Anatomy_Models/prod_0127/prod_0127_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Beverages": {
+        "category_id": "cat_053",
+        "subcategories": {
+          "Whisky": {
+            "subcategory_id": "subcat_110",
+            "products": [
+              {
+                "product_name": "Rockford Reserve Fine & Rare Whisky",
+                "product_title": "Rockford Reserve Fine & Rare Blended Indian Whisky",
+                "product_description": "A premium blended Indian whisky crafted from rare oak-aged Scottish malt whiskies and charcoal-filtered Indian grain spirits. Known for its exceptionally smooth, mellow taste and rich golden color. Blended under the guidance of a Scottish master blender.",
+                "product_id": "prod_0128",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670064/Beverages/Whisky/prod_0128/prod_0128_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical Devices & Diagnostics": {
+        "category_id": "cat_054",
+        "subcategories": {
+          "Ear Care Devices": {
+            "subcategory_id": "subcat_111",
+            "products": [
+              {
+                "product_name": "Visual Ear Cleaner Endoscope Kit",
+                "product_title": "Prosmart Concepts Visual Ear Cleaner Endoscope Kit with Mini Camera",
+                "product_description": "A visual ear cleaner endoscope kit featuring a mini camera with LED illumination for examining the ear canal. Connects to smartphones or computers for real-time viewing. Includes interchangeable cleaning tips and is suitable for earwax inspection, nose examination, and general ear care. Model number 196 by Prosmart Concepts.",
+                "product_id": "prod_0129",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670258/Medical_Devices__Diagnostics/Ear_Care_Devices/prod_0129/prod_0129_img1.jpg"
+                ]
+              },
+              {
+                "product_name": "i96 Visual Ear Cleaner",
+                "product_title": "i96 High-Definition Visual Ear Cleaner with LED and Smartphone Connectivity",
+                "product_description": "A visual ear cleaning device equipped with an HD camera and LED lights for safe, real-time inspection of the ear canal. Model i96, designed to connect with smartphone apps for live video viewing. Useful for monitoring earwax buildup and general ear health.",
+                "product_id": "prod_0130",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670259/Medical_Devices__Diagnostics/Ear_Care_Devices/prod_0130/prod_0130_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Skin Analysis Devices": {
+            "subcategory_id": "subcat_112",
+            "products": [
+              {
+                "product_name": "Digital Skin Analyzer",
+                "product_title": "Portable Digital Skin Moisture & Oil Analyzer with LCD Display",
+                "product_description": "A portable digital skin analyzer that uses Bioelectric Impedance Analysis (BIA) to measure skin moisture and oil levels. Features an LCD screen for quick readings and is suitable for home, travel, or salon use. Helps users track skin hydration and select appropriate skincare products.",
+                "product_id": "prod_0131",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670259/Medical_Devices__Diagnostics/Skin_Analysis_Devices/prod_0131/prod_0131_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Medical & Personal Care": {
+        "category_id": "cat_055",
+        "subcategories": {
+          "Hair & Scalp Treatment": {
+            "subcategory_id": "subcat_113",
+            "products": [
+              {
+                "product_name": "8X-KT Advanced Scalp Care Shampoo",
+                "product_title": "Cipla 8X-KT Advanced Scalp Care Anti-Dandruff Shampoo",
+                "product_description": "An anti-dandruff and seborrheic dermatitis treatment shampoo by Cipla containing Ketoconazole 2% w/v and Zinc Pyrithione. Helps control dandruff, reduce flakes, relieve itching, and target fungus causing scalp infections. Recommended for external use only.",
+                "product_id": "prod_0132",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670316/Medical__Personal_Care/Hair__Scalp_Treatment/prod_0132/prod_0132_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Sharps Disposal Equipment": {
+            "subcategory_id": "subcat_114",
+            "products": [
+              {
+                "product_name": "ARVS Manual Syringe Needle Destroyer",
+                "product_title": "ARVS Manual Needle & Syringe Destroyer with ABS Body",
+                "product_description": "A manual syringe needle destroyer designed to safely dispose of used needles and prevent accidental needlestick injuries. Features a durable ABS plastic body and a manual cutting mechanism. Suitable for safe disposal in clinics, labs, and hospitals.",
+                "product_id": "prod_0133",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670321/Medical__Personal_Care/Sharps_Disposal_Equipment/prod_0133/prod_0133_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Pharma Promotional Materials": {
+            "subcategory_id": "subcat_115",
+            "products": [
+              {
+                "product_name": "Glenmark Seborrheic Dermatitis Promotional Box",
+                "product_title": "Glenmark Pharma Educational Box on Fungal Infections & Seborrheic Dermatitis",
+                "product_description": "A promotional educational box from Glenmark highlighting that fungal infections can extend beyond the scalp and require comprehensive treatment. Focuses on conditions like Seborrheic Dermatitis and encourages complete care.",
+                "product_id": "prod_0134",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670319/Medical__Personal_Care/Pharma_Promotional_Materials/prod_0134/prod_0134_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670320/Medical__Personal_Care/Pharma_Promotional_Materials/prod_0134/prod_0134_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Sunscreen & Skin Protection": {
+            "subcategory_id": "subcat_116",
+            "products": [
+              {
+                "product_name": "Acne-UV Sunscreen Range",
+                "product_title": "Ipca Acne-UV Silicone Gel Sunscreen (SPF 30/50) & Acne-UV Gold Gel Cream SPF 100",
+                "product_description": "A range of dermatologically tested sunscreens by Ipca Laboratories formulated for oily and acne-prone skin. Offers broad spectrum protection from UVA/UVB rays, with the Gold variant also defending against cyan, visible, and infrared light. Non-comedogenic and water-resistant.",
+                "product_id": "prod_0135",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670322/Medical__Personal_Care/Sunscreen__Skin_Protection/prod_0135/prod_0135_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Antibiotics": {
+            "subcategory_id": "subcat_117",
+            "products": [
+              {
+                "product_name": "Azithral Liquid",
+                "product_title": "Azithral Azithromycin Oral Suspension by Alembic Pharmaceuticals",
+                "product_description": "Azithral Liquid is an antibiotic suspension containing Azithromycin, used to treat infections of the respiratory tract, ear, nose, throat, skin, lungs, and eyes. Available in multiple strengths and requires a medical prescription.",
+                "product_id": "prod_0136",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670313/Medical__Personal_Care/Antibiotics/prod_0136/prod_0136_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Hypertension Treatment": {
+            "subcategory_id": "subcat_118",
+            "products": [
+              {
+                "product_name": "Stamlo Tablets",
+                "product_title": "Stamlo Amlodipine Tablets by Dr. Reddy’s Laboratories",
+                "product_description": "Stamlo is India's leading Amlodipine brand used to treat hypertension and prevent angina. It works by relaxing and widening blood vessels, improving blood flow. Available in 2.5 mg, 5 mg, and 10 mg strengths.",
+                "product_id": "prod_0137",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670317/Medical__Personal_Care/Hypertension_Treatment/prod_0137/prod_0137_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670318/Medical__Personal_Care/Hypertension_Treatment/prod_0137/prod_0137_img2.jpg"
+                ]
+              }
+            ]
+          },
+          "Wellness & Comfort": {
+            "subcategory_id": "subcat_119",
+            "products": [
+              {
+                "product_name": "Total Pillow",
+                "product_title": "Total Pillow Microbead Twistable Support Cushion",
+                "product_description": "A versatile, twistable microbead pillow designed for neck, back, and lumbar support. Can be shaped into multiple forms for comfort during travel, office work, or at home. Covered in soft fleece fabric.",
+                "product_id": "prod_0138",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670323/Medical__Personal_Care/Wellness__Comfort/prod_0138/prod_0138_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Biopsy Punches": {
+            "subcategory_id": "subcat_120",
+            "products": [
+              {
+                "product_name": "Disposable Surgical Biopsy Punch (Yellow)",
+                "product_title": "Single-Use Sterile Disposable Dermal Biopsy Punch – Yellow Variant",
+                "product_description": "A sterile, single-use disposable dermal biopsy punch used for dermatology and surgical procedures. The yellow color signifies a specific size variant. Packaged in a sealed sterile pouch.",
+                "product_id": "prod_0139",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670315/Medical__Personal_Care/Biopsy_Punches/prod_0139/prod_0139_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Tools & Hardware": {
+      "Tools & Hardware": {
+        "category_id": "cat_009",
+        "subcategories": {
+          "Pressure Washer Attachments": {
+            "subcategory_id": "subcat_032",
+            "products": [
+              {
+                "product_name": "Bosch AquaSurf 250 Patio Cleaner attachment",
+                "product_title": "Bosch AquaSurf 250 Patio Cleaner Attachment",
+                "product_description": "The Bosch AquaSurf 250 is a pressure washer attachment designed for cleaning patios and driveways. It features a 250 mm wide cleaning head, pivoting joint for maneuverability, and brush skirt splash guard. Compatible with various Bosch EasyAquatak, UniversalAquatak, and AQT washer models.",
+                "product_id": "prod_0040",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670408/Tools__Hardware/Pressure_Washer_Attachments/prod_0040/prod_0040_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670409/Tools__Hardware/Pressure_Washer_Attachments/prod_0040/prod_0040_img2.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670410/Tools__Hardware/Pressure_Washer_Attachments/prod_0040/prod_0040_img4.jpg"
+                ]
+              }
+            ]
+          },
+          "Medical Tools": {
+            "subcategory_id": "subcat_033",
+            "products": [
+              {
+                "product_name": "Dispo Van Single-Use Hypodermic Syringe",
+                "product_title": "Dispo Van Disposable Hypodermic Syringe – Ribbon Pack",
+                "product_description": "A single-use hypodermic syringe manufactured by Dispo Van, designed for safe medical injections and fluid withdrawal. Comes in ribbon pack packaging.",
+                "product_id": "prod_0041",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670407/Tools__Hardware/Medical_Tools/prod_0041/prod_0041_img1.jpg"
+                ]
+              }
+            ]
+          },
+          "Magnifying Tools": {
+            "subcategory_id": "subcat_034",
+            "products": [
+              {
+                "product_name": "TH-8016 LED Lighted Magnifying Glass",
+                "product_title": "TH-8016 Portable LED Magnifying Glass with Scale (10X–20X)",
+                "product_description": "A handheld magnifying glass featuring 10X, 15X, and 20X magnification with integrated LED and UV lighting. Includes a measurement scale, ideal for jewelry inspection, banknote checking, and detailed analysis.",
+                "product_id": "prod_0042",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670406/Tools__Hardware/Magnifying_Tools/prod_0042/prod_0042_img1.jpg",
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670406/Tools__Hardware/Magnifying_Tools/prod_0042/prod_0042_img2.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Industrial & Lab Supplies": {
+        "category_id": "cat_016",
+        "subcategories": {
+          "Plastic Containers": {
+            "subcategory_id": "subcat_043",
+            "products": [
+              {
+                "product_name": "MYPLAST Vials",
+                "product_title": "MYPLAST Sample Vials by Gopala Polyplast",
+                "product_description": "Small plastic vials manufactured by Gopala Polyplast Limited under the MYPLAST brand. Typically used for medical, industrial, or laboratory sampling purposes. Some containers are marked as 'Not to be Sold'.",
+                "product_id": "prod_0051",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670168/Industrial__Lab_Supplies/Plastic_Containers/prod_0051/prod_0051_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    "Kids & Crafts": {
+      "Toys & Education": {
+        "category_id": "cat_010",
+        "subcategories": {
+          "STEM Kits": {
+            "subcategory_id": "subcat_035",
+            "products": [
+              {
+                "product_name": "Explore Science Human Anatomy Bone Assembly Kit",
+                "product_title": "Explore Science 3D Human Anatomy Bone Assembly STEAM Kit",
+                "product_description": "A STEAM educational kit designed to teach children about the human skeleton through a 3D bone assembly model. Ideal for early biology learning, anatomy exploration, and interactive science activities.",
+                "product_id": "prod_0043",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670411/Toys__Education/STEM_Kits/prod_0043/prod_0043_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "Educational Aids": {
+        "category_id": "cat_018",
+        "subcategories": {
+          "Charts & Models": {
+            "subcategory_id": "subcat_045",
+            "products": [
+              {
+                "product_name": "Skin Anatomy Frame",
+                "product_title": "Human Skin Anatomy Study Frame",
+                "product_description": "A printed skin anatomy chart frame showing epidermis, dermis, and subcutaneous layers. Suitable for educational, medical, or classroom use.",
+                "product_id": "prod_0053",
+                "product_price": null,
+                "image_urls": [
+                  "https://res.cloudinary.com/dstmt1w5p/image/upload/v1764670089/Educational_Aids/Charts__Models/prod_0053/prod_0053_img1.jpg"
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
